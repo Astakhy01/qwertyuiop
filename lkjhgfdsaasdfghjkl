@@ -202,17 +202,14 @@ https://xfireflix.fun/toffeeWd/live.php?id=7e00fee81848&e=.m3u8|Referer=https://
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/jP2WFd1G/Sun-Bangla.png",SUN BANGLA
 https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd
 #EXTM3U
-#EXTINF:-1 tvg-id="65" group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/whxC4Yx8/images.jpg",DD BANGLA
-https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-id="65" group-title="HINDI" tvg-logo="https://i.ibb.co/jkZDmRS4/images-1-removebg-preview.png",HUM TV 
 https://xfireflix.fun/toffeeWd/live.php?id=7c21a8ade135&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=7c21a8ade135&e=.m3u8
 #https://softbd24.com/new/toffee/live.php?id=7c21a8ade135&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=7c21a8ade135&e=.m3u8
 #https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1721/output/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="65" group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/1GK4hFSd/images-removebg-preview-1.png",AKASH AATH
-#https://tvsen5.aynaott.com/Wm9Lv2RjZGT6/tracks-v1a1/mono.ts.m3u8
-https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/playlist.m3u8
+https://tvsen5.aynaott.com/Wm9Lv2RjZGT6/tracks-v1a1/mono.ts.m3u8
+#https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/fVfcx1Gb/images-1-removebg-preview.png",COLORS BANGLA 
 https://tvsen5.aynaott.com/u3LkNQ7UHhFX/index.m3u8
@@ -236,8 +233,8 @@ http://tv.bdiptv.store/live/restreax/refstream/238.ts
 #http://starshare.org/live/PROMO/PROMO/271038.ts
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/KzpggWss/1739965013824-removebg-preview.png",JALSHA MOVIES
-https://bdix.xfireflix.fun/stream.m3u8?id=323035
-#http://tv.bdiptv.store/live/restreax/refstream/81.ts
+#https://bdix.xfireflix.fun/stream.m3u8?id=323035
+http://tv.bdiptv.store/live/restreax/refstream/81.ts
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/537/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 #/245900.ts # 
 #EXTM3U
 #EXTINF:-1 group-title="HINDI" tvg-logo="https://i.ibb.co/2Yn94h3n/images-removebg-preview.png", STAR PLUS HD
@@ -337,9 +334,9 @@ http://opplex.tv:8080/live/inderjeet_hodal/987654321/106133.ts
 http://opplex.tv:8080/live/inderjeet_hodal/987654321/221258.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/gZ3Yg7pH/images-removebg-preview-4.png",NICK BANGLA
+http://tv.bdiptv.store/live/restreax/refstream/96.ts
 https://bdix.xfireflix.fun/stream.m3u8?id=323033
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/138/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 
-#http://tv.bdiptv.store/live/restreax/refstream/96.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/qM5zyVXC/Nick-HD.png",NICK HD ±
 https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/433/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
@@ -369,7 +366,8 @@ http://tv.bdiptv.store/live/restreax/refstream/71.ts
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/114/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 #/167551.ts
 #EXTM3U 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co.com/zWC6xWJH/Rongeen-TV-logo-2019-present.png",RONGEEN TV
-https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
+#https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/vCpt5K0T/images-1-removebg-preview-1.png",KHUSHBOO BANGLA
 https://cdn-4.pishow.tv/live/1473/master.m3u8
@@ -459,9 +457,6 @@ https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg014
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/da9d350e-ac56-4320-8609-0c501da4fb5b/master.m3u8?hdnts=st%3D1751262667~exp%3D1751284267~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fda9d350e-ac56-4320-8609-0c501da4fb5b%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_23.98.188.170_yuppfast_2_channel_248_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_23.98.188.170_yuppfast_2_channel_248_-1~hmac%3D15224315adcc6dec529de5f3ee73913017207eb9687919c5cfad79f3facba639
 #https://live.drmlive-02.workers.dev/zee/aajtak.m3u8
-#EXTM3U
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co/DPZpvRCH/images-1-removebg-preview.png", INDIA TV NEWS
-https://otttv.co.in/d2h/livestream/india-tv/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co/ycHDwS8w/images-removebg-preview.png",ALJAZEERA
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
