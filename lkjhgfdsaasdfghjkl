@@ -363,7 +363,6 @@ https://otttv.co.in/d2h/livestream/discovery-kids/manifest.mpd
 #EXTIM3U
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/TDZqX7NH/images-removebg-preview.png",T SPORTS HD
 https://tvsen5.aynaott.com/YNMn5kZz8aLm/index.m3u8
-https://bdix.xfireflix.fun/stream.m3u8?id=3536
 #http://kst.moonplex.net:8080/CH2/index.m3u8
 #http://starshare.org/live/kumar11/kumar11/18452.ts
 #http://38.96.178.201/live/TSports/index.m3u8#/167590.ts
@@ -387,12 +386,11 @@ http://103.120.172.74:4200
 #EXTIM3U
 #EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co/C5hN5yng/images-removebg-preview.png",STAR SPORTS SELECT 1 HD
 http://103.120.172.74:1030
-#ott /88.ts #/167578.ts &/9400.ts  https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/246/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
+#ott /88.ts #/167578.ts https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/246/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 #EXTIM3U
 #EXTINF:-1 tvg-id="89" group-title="SPORTS" tvg-logo="https://i.ibb.co/m5gXkYZW/Star-sports-select-2-hd.png",STAR SPORTS SELECT 2 HD
 http://103.120.172.74:4700
-#http://tv.bdiptv.store/live/restream/restreamkk/15246.ts
-#/167579.ts &/9401.ts
+#http://tv.bdiptv.store/live/restream/restreamkk/15246.ts #/167579.ts 
 #EXTM3U
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/bRr3QHZS/Ten-HD.png",SONY SPORTS 1 HD
 https://otttv.co.in/d2h/livestream/sony-sports-ten-1-hd/master.m3u8
@@ -429,9 +427,7 @@ https://xfireflix.fun/toffeeWd/live.php?id=85ccda8c4fc5&e=.m3u8|Referer=https://
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/1.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/GvjtzhFZ/images-removebg-preview.png",SANGEET BANGLA MUSIC 
-https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
-#https://jolshabd.com/live/mbanglatv/playlist.m3u8
-#https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+https://jolshabd.com/live/mbanglatv/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/DfvFy7mX/Discovery-Channel-Bengali-removebg-preview.png",DISCOVERY BANGLA
 http://tv.bdiptv.store/live/restreax/refstream/98.ts
