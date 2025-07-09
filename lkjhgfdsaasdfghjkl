@@ -22,7 +22,6 @@ https://m.xigzo.store/yt/live.php?video_id=wuUhC6jfqrY
 https://tvsen6.aynaott.com/jamunatv/index.m3u8?e=1750361488&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=4518f8d8bfeee7bf3d52f12d7b026b1d
 https://m.xigzo.store/yt/live.php?video_id=yDzvLqfQhyM
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
-#http://38.96.178.201/live/JamunaTV/index.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co.com/RpHd59Jm/unnamed.png",CHANNEL 24
 https://tvsen6.aynaott.com/channel24/index.m3u8
@@ -123,7 +122,6 @@ http://38.96.178.201/live/NexusTV/index.m3u8
 https://tvsen5.aynascope.net/P3y2URgG7LDe/index.m3u8?e=1751784580&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=0859407298855befb4972fe453715d70
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8
 #https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1722/output/index.m3u8
-#http://38.96.178.201/live/ATNBangla/index.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co.com/39mqJq82/Logo-of-Bijoy-TV-svg.png",BIJOY TV
 https://tvsen6.aynaott.com/bijoytv/index.m3u8?e=1750361668&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=eeebe3f5e7b9801f8eeb210b7d237f1c
@@ -134,7 +132,6 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/qYJbRRHc/images-2-removebg-preview.png",SATV
 https://tvsen6.aynaott.com/satv/index.m3u8
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
-#http://38.96.178.201/live/SATV/index.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/pjHznVR1/images-removebg-preview.png",BANGLA TV
 https://tvsen6.aynaott.com/banglatv/index.m3u8?e=1750361554&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=331426a6477d76d38c55b00929455e2d
@@ -277,14 +274,10 @@ https://xfireflix.fun/toffeeWd/live.php?id=d581dd66e556&e=.m3u8|Referer=https://
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/C3wYyHJm/images-1-removebg-preview.png",STAR GOLD
 https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/245/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 
-#http://tv.bdiptv.store/live/restream/restreamkk/92.ts #/66177.ts
+#ott/92.ts #/66177.ts
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/C3bs5yvh/images-2-removebg-preview-2.png", COLORS C SUPER
 http://tv.bdiptv.store/live/restreax/refstream/239.ts 
-#/66199.ts
-#EXTM3U
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/QFxBhXjc/images-2-removebg-preview.png ", BHOJPURI  CINEMA
-https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/k20v9vMP/images-2.jpg",SONY WAH
 https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
