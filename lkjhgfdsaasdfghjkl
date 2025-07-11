@@ -304,15 +304,16 @@ https://bdix.xfireflix.fun/stream.m3u8?id=323033
 http://tv.bdiptv.store/live/restreax/refstream/242.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/84bhmrKg/Nick-Jr-logo-2023-outline-svg-removebg-preview.png", NICK JR.
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3688.ts
 https://s111.twilightparadox.com/JIO1/live.php?id=544&key=JITENDRAUNATTI&e=.m3u8
-https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/118/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/0ptj48Ls/images-1.jpg",SONY YAY
 https://xfireflix.fun/toffeeWd/live.php?id=57bd9c2493c1&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=57bd9c2493c1&e=.m3u8
 #https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/Z1dGgD9G/images-2-removebg-preview-1.png",HUNGAMA 
-http://starshare.org/live/kumar11/kumar11/18456.ts
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3678.ts
+#http://starshare.org/live/kumar11/kumar11/18456.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/tMFV5JyW/images-removebg-preview-1.png",SUPER HUNGAMA
 https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/587/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
