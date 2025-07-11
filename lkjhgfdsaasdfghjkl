@@ -164,7 +164,7 @@ https://tvsen5.aynaott.com/gUX8BJmNc2yF/index.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/HLCyzzcL/Star-Jalsha-HD-removebg-preview.png",STAR JALSHA HD
 http://kst.moonplex.net:8080/CH3/index.m3u8
-# /52.m3u8 https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/468/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 #/245898.ts
+#/52.m3u8 
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/mCYfXDFL/images-removebg-preview.png",ZEE BANGLA HD
 https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
@@ -185,7 +185,6 @@ https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/60P7zvYm/Sony-Aath-new.png",SONY AATH
 https://xfireflix.fun/toffeeWd/live.php?id=7e00fee81848&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=7e00fee81848&e=.m3u8
 #https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
-#https://softbd24.com/new/toffee/live.php?id=7e00fee81848&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=7e00fee81848&e=.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X95oEAp4VtBVA4I2/8fISg", "kid":"Afe5979+Ql+G1t/UeDkOPw" } ], "type":"temporary" }
@@ -228,7 +227,6 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/3706.ts
 #EXTM3U
 #EXTINF:-1 group-title="HINDI" tvg-logo="https://i.ibb.co/bgN1ZR1F/images-4-removebg-preview-1.png",COLORS
 http://tv.bdiptv.store/live/restreax/refstream/93.ts
-#/66167.ts
 #EXTM3U
 #EXTINF:-1 group-title="HINDI" tvg-logo="https://i.ibb.co/X0Pk91q/images-removebg-preview-1.png", ANT TV HD
 https://xfireflix.fun/toffeeWd/live.php?id=a6b5f6130cc5&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=a6b5f6130cc5&e=.m3u8
@@ -242,22 +240,17 @@ https://xfireflix.fun/toffeeWd/live.php?id=9905083432a8&e=.m3u8|Referer=https://
 https://live.drmlive-02.workers.dev/zee/zeeanmol.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="HINDI" tvg-logo="https://i.ibb.co/NdqqvTYW/images-4.jpg",SONY SAB
-#https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/559/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 https://softbd24.com/new/toffee/live.php?id=b7167fe646a4&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=b7167fe646a4&e=.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="HINDI" tvg-logo="https://i.ibb.co/NdqqvTYW/images-4.jpg",SONY SAB HD
 https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="HINDI" tvg-logo="https://i.ibb.co.com/WWrHZSxw/Sony-HD.png",SONY TV
-#https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/556/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
-https://softbd24.com/new/toffee/live.php?id=243771d9592c&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=243771d9592c&e=.m3u8
-#EXTM3U
 #EXTINF:-1 group-title="HINDI" tvg-logo="https://i.ibb.co.com/WWrHZSxw/Sony-HD.png",SONY TV HD
-https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
+https://softbd24.com/new/toffee/live.php?id=243771d9592c&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=243771d9592c&e=.m3u8
+#https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES"tvg-logo="https://i.ibb.co.com/svXnVrQT/images-1744977797789.png",SONY MAX
 https://dish.slivcdn.com/hls/live/2011745-b/SonyMaxSD/master.m3u8
-#https://softbd24.com/new/toffee/live.php?id=6a65854166f1&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=6a65854166f1&e=.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES"tvg-logo="https://i.ibb.co.com/svXnVrQT/images-1744977797789.png",SONY MAX HD
 https://otttv.co.in/d2h/livestream/sony-max-hd/master.m3u8
@@ -499,10 +492,6 @@ https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="RELIGIOUS" tvg-logo="https://i.ibb.co/rCTskFg/images-5-removebg-preview-1.png", AL SUNNAH TV
 http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
-#EXTM3U
-#EXTINF:-1 group-title="RELIGIOUS" tvg-logo="https://i.ibb.co/Y7qgpwLh/images-9-removebg-preview.png", PEACE TV BANGLA
-https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
-#https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=qRApYCh4AUmcio2ge9BktA
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/BK5rhV9d/images-3.jpg",SONY PIX HD
 https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
