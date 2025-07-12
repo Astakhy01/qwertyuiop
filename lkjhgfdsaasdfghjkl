@@ -318,9 +318,6 @@ https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/587/master.m3u8|user-agent=Mozilla/5.0
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/5xft6LVW/images-3-removebg-preview-1.png",DISNEP CHANNEL
 http://tv.bdiptv.store/live/restreax/refstream/71.ts
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/114/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 #/167551.ts
-#EXTM3U 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/kVfbN8zq/1742093984-9765507.png",DISNEY INTERNATIONAL HD
-https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/PGGntqHG/1708838929-6618717.png",DISNEY JR
 https://cdn-4.pishow.tv/live/1473/master.m3u8
@@ -496,4 +493,7 @@ https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/wF1rHf7h/29750224621-21ca6a0f1b-removebg-preview.png",STAR MOVIES HD 
 http://tv.bdiptv.store/live/restreax/refstream/95.ts
 #http://starshare.org/live/kumar11/kumar11/9384.ts
+#EXTM3U 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/k2LxyWdz/1640857479-98084000.png",STAR MOVIES SELECT HD
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
 #EXTM3U
