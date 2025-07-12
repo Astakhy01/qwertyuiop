@@ -213,8 +213,8 @@ http://tv.bdiptv.store/live/restreax/refstream/238.ts
 #http://starshare.org/live/PROMO/PROMO/271038.ts
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/KzpggWss/1739965013824-removebg-preview.png",JALSHA MOVIES
-#https://bdix.xfireflix.fun/stream.m3u8?id=323035
-http://tv.bdiptv.store/live/restreax/refstream/81.ts
+https://prod-live-s2-5k8Jm-stream-edge.ygxworld.in/jplus/1120/manifest.m3u8
+#http://tv.bdiptv.store/live/restreax/refstream/81.ts
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/537/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 #/245900.ts # 
 #EXTM3U
 #EXTINF:-1 group-title="HINDI" tvg-logo="https://i.ibb.co/2Yn94h3n/images-removebg-preview.png", STAR PLUS HD
