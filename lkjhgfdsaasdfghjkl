@@ -343,12 +343,7 @@ https://xfireflix.fun/toffeeWd/live.php?id=38060f0d4077&e=.m3u8|Referer=https://
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/239/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 #/150483.ts 
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/9HnYq7x9/images-6-removebg-preview.png",DISCOVERY KIDS
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/discovery-kids/drmLicense
-https://otttv.co.in/d2h/livestream/discovery-kids/manifest.mpd
+https://xfireflix.fun/toffeeWd/live.php?id=1fe9cf550c24&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=1fe9cf550c24&e=.m3u8
 #EXTIM3U
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/TDZqX7NH/images-removebg-preview.png",T SPORTS HD
 https://tvsen5.aynaott.com/YNMn5kZz8aLm/index.m3u8
@@ -382,14 +377,13 @@ http://103.120.172.74:4700
 #http://tv.bdiptv.store/live/restream/restreamkk/15246.ts #/167579.ts 
 #EXTM3U
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/bRr3QHZS/Ten-HD.png",SONY SPORTS 1 HD
-https://otttv.co.in/d2h/livestream/sony-sports-ten-1-hd/master.m3u8
+https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/YMJ7T9N/Ten2-HD.png",SONY SPORTS 2 HD
-https://otttv.co.in/d2h/livestream/sony-sports-ten-2-hd/master.m3u8
+https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/Xkd1kwn0/Six-HD.png",SONY SPORTS 5 HD
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#https://otttv.co.in/d2h/livestream/sony-ten-5-hd/master.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="90" group-title="SPORTS" tvg-logo="https://i.ibb.co/yF7HJSdm/images-2-removebg-preview.png",EURO SPORTS HD 
 https://xfireflix.fun/toffeeWd/live.php?id=258468998307&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=258468998307&e=.m3u8
@@ -418,47 +412,18 @@ https://jolshabd.com/live/mbanglatv/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/DfvFy7mX/Discovery-Channel-Bengali-removebg-preview.png",DISCOVERY BANGLA
 http://tv.bdiptv.store/live/restreax/refstream/98.ts
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/discovery-channel/drmLicense
-#https://otttv.co.in/d2h/livestream/discovery-channel/manifest.mpd
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/Z6XHygCG/images-1748228373446-removebg-preview.png",TLC
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/tlc/drmLicense
-https://otttv.co.in/d2h/livestream/tlc/manifest.mpd
+https://tv.bongoflix.top/toffee/live.php?id=090bf33a56cb&e=.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/ns4kwpWK/eab8fd0f-9351-464c-b45e-332f38b49f4b-removebg-preview.png",DISCOVERY SCIENCE
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/discovery-science/drmLicense
-https://otttv.co.in/d2h/livestream/discovery-science/manifest.mpd
+https://tv.bongoflix.top/toffee/live.php?id=591ea81b1aba&e=.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/9k8bxxf1/images-removebg-preview.png",INVESTIGATION DISCOVERY
-#
-#EXTM3U
-#EXTINF:-1 group-title="INFOTAINMEAT" tvogo="https://i.ibb.co/c7SnhXr/images-removebg-preview.png", EPIC TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/epic-tv/drmLicense
-https://otttv.co.in/d2h/livestream/epic-tv/manifest.mpd
+https://xfireflix.fun/toffeeWd/live.php?id=6789650f5629&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=6789650f5629&e=.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvogo=" https://i.ibb.co/nqLNMY8D/images-removebg-preview.png ", DISCOVERY TURBO
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/discovery-turbo/drmLicense
-https://otttv.co.in/d2h/livestream/discovery-turbo/manifest.mpd
+https://tv.bongoflix.top/toffee/live.php?id=a051de5ade20&e=.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvogo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png",SONY BBC HD
 https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
