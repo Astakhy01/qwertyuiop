@@ -253,10 +253,6 @@ https://tv.bongoflix.top/toffee/live.php?id=243771d9592c&e=.m3u8
 #EXTINF:-1 group-title="MOVIES"tvg-logo="https://i.ibb.co.com/svXnVrQT/images-1744977797789.png",SONY MAX
 https://dish.slivcdn.com/hls/live/2011745-b/SonyMaxSD/master.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="MOVIES"tvg-logo="https://i.ibb.co.com/svXnVrQT/images-1744977797789.png",SONY MAX HD
-https://dish.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8
-#https://otttv.co.in/d2h/livestream/sony-max-hd/master.m3u8
-#EXTM3U
 #EXTINF:-1 group-title="MOVIES"tvg-logo="https://i.ibb.co/B21fnpw3/images-2-removebg-preview.png",SONY MAX 1
 http://filex.me:8080/998866/998866/512328
 #EXTM3U
