@@ -171,29 +171,32 @@ https://rex-streaming.vercel.app/api/BDIX/245898.m3u8|user-agent=@xfireflixbd
 https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="74" group-title="ENTERTAINMENT" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735046738565.png",ZEE BANGLA 
-https://xfireflix.fun/toffeeWd/live.php?id=106a66093e92&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=106a66093e92&e=.m3u8
-#http://kst.moonplex.net:8080/CH4/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-bangla/drmLicense
-#https://otttv.co.in/d2h/livestream/zee-bangla/manifest.mpd
+https://otttv.co.in/d2h/livestream/zee-bangla/manifest.mpd
+#https://xfireflix.fun/toffeeWd/live.php?id=106a66093e92&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=106a66093e92&e=.m3u8
+#http://kst.moonplex.net:8080/CH4/index.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="aa" tvg-logo="https://i.ibb.co/60P7zvYm/Sony-Aath-new.png",SONY AATH
 https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/60P7zvYm/Sony-Aath-new.png",SONY AATH
-https://xfireflix.fun/toffeeWd/live.php?id=7e00fee81848&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=7e00fee81848&e=.m3u8
-#https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
+#https://xfireflix.fun/toffeeWd/live.php?id=7e00fee81848&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=7e00fee81848&e=.m3u8
+https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X95oEAp4VtBVA4I2/8fISg", "kid":"Afe5979+Ql+G1t/UeDkOPw" } ], "type":"temporary" }
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/jP2WFd1G/Sun-Bangla.png",SUN BANGLA
 https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd
 #EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=83404dd4292fec9e27173696f6e42dee:a9dd477034d4fb2e7e5dc7c21ce73fed
 #EXTINF:-1 tvg-id="65" group-title="HINDI" tvg-logo="https://i.ibb.co/jkZDmRS4/images-1-removebg-preview.png",HUM TV 
-https://xfireflix.fun/toffeeWd/live.php?id=7c21a8ade135&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=7c21a8ade135&e=.m3u8
+https://live2.shoq.com.pk/live/eds/HUM_TV/DASH/HUM_TV.mpd
+#https://xfireflix.fun/toffeeWd/live.php?id=7c21a8ade135&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=7c21a8ade135&e=.m3u8
 #https://softbd24.com/new/toffee/live.php?id=7c21a8ade135&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=7c21a8ade135&e=.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="65" group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/1GK4hFSd/images-removebg-preview-1.png",AKASH AATH
@@ -229,27 +232,27 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/3706.ts
 http://tv.bdiptv.store/live/restreax/refstream/93.ts
 #EXTM3U
 #EXTINF:-1 group-title="HINDI" tvg-logo="https://i.ibb.co/X0Pk91q/images-removebg-preview-1.png", ANT TV HD
-https://xfireflix.fun/toffeeWd/live.php?id=a6b5f6130cc5&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=a6b5f6130cc5&e=.m3u8
-#https://live.drmlive-02.workers.dev/zee/tvhd_0.m3u8
+#https://xfireflix.fun/toffeeWd/live.php?id=a6b5f6130cc5&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=a6b5f6130cc5&e=.m3u8
+https://live.drmlive-02.workers.dev/zee/tvhd_0.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetvhd/channel_list/1170x658withlog1554775145.png" group-title="HINDI", ZEE TV HD
-https://xfireflix.fun/toffeeWd/live.php?id=9905083432a8&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=9905083432a8&e=.m3u8
-#https://live.drmlive-02.workers.dev/zee/zeetvhd.m3u8
+#https://xfireflix.fun/toffeeWd/live.php?id=9905083432a8&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=9905083432a8&e=.m3u8
+https://live.drmlive-02.workers.dev/zee/zeetvhd.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-zeeanmol" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmol/channel_list/1170x658withlog1844143347.png" group-title="HINDI", ZEE ANMOL
 https://live.drmlive-02.workers.dev/zee/zeeanmol.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="HINDI" tvg-logo="https://i.ibb.co/NdqqvTYW/images-4.jpg",SONY SAB
-https://tv.bongoflix.top/toffee/live.php?id=b7167fe646a4&e=.m3u8
-https://softbd24.com/new/toffee/live.php?id=b7167fe646a4&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=b7167fe646a4&e=.m3u8
+#https://tv.bongoflix.top/toffee/live.php?id=b7167fe646a4&e=.m3u8
+#https://softbd24.com/new/toffee/live.php?id=b7167fe646a4&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=b7167fe646a4&e=.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="HINDI" tvg-logo="https://i.ibb.co/NdqqvTYW/images-4.jpg",SONY SAB HD
 https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="HINDI" tvg-logo="https://i.ibb.co.com/WWrHZSxw/Sony-HD.png",SONY TV HD
-https://tv.bongoflix.top/toffee/live.php?id=243771d9592c&e=.m3u8
+#https://tv.bongoflix.top/toffee/live.php?id=243771d9592c&e=.m3u8
 #https://softbd24.com/new/toffee/live.php?id=243771d9592c&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=243771d9592c&e=.m3u8
-#https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
+https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES"tvg-logo="https://i.ibb.co.com/svXnVrQT/images-1744977797789.png",SONY MAX
 https://dish.slivcdn.com/hls/live/2011745-b/SonyMaxSD/master.m3u8
@@ -261,8 +264,8 @@ http://filex.me:8080/998866/998866/512328
 https://dish.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/Nnmcpf2K/images-removebg-preview-2.png",ZEE CINEMA HD
-https://xfireflix.fun/toffeeWd/live.php?id=d581dd66e556&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=d581dd66e556&e=.m3u8
-#https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8 
+#https://xfireflix.fun/toffeeWd/live.php?id=d581dd66e556&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=d581dd66e556&e=.m3u8
+https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8 
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/C3wYyHJm/images-1-removebg-preview.png",STAR GOLD
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3708.ts
@@ -278,9 +281,9 @@ https://s111.twilightparadox.com/JIO1/live.php?id=482&key=JITENDRAUNATTI&e=.m3u8
 https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-zeeaction" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeaction/channel_list/1170x658withlog1953200347.png" group-title="MOVIES", ZEE ACTION
-https://tv.bongoflix.top/toffee/live.php?id=72a0803cf563&e=.m3u8
+#https://tv.bongoflix.top/toffee/live.php?id=72a0803cf563&e=.m3u8
 #https://softbd24.com/new/toffee/live.php?id=72a0803cf563&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=72a0803cf563&e=.m3u8
-#https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8
+https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/CFm6Qh1/Sony-MAX2.png",SONY MAX 2
 https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
@@ -299,18 +302,18 @@ http://opplex.tv:8080/live/inderjeet_hodal/987654321/221258.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/gZ3Yg7pH/images-removebg-preview-4.png",NICK BANGLA
 http://tv.bdiptv.store/live/restreax/refstream/96.ts
-https://bdix.xfireflix.fun/stream.m3u8?id=323033
+#https://bdix.xfireflix.fun/stream.m3u8?id=323033
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/VcFPKV3T/images-removebg-preview-5.png",SONIC BANGLA
 http://tv.bdiptv.store/live/restreax/refstream/242.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/84bhmrKg/Nick-Jr-logo-2023-outline-svg-removebg-preview.png", NICK JR.
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3688.ts
-https://s111.twilightparadox.com/JIO1/live.php?id=544&key=JITENDRAUNATTI&e=.m3u8
+#https://s111.twilightparadox.com/JIO1/live.php?id=544&key=JITENDRAUNATTI&e=.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/0ptj48Ls/images-1.jpg",SONY YAY
-https://xfireflix.fun/toffeeWd/live.php?id=57bd9c2493c1&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=57bd9c2493c1&e=.m3u8
-#https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
+#https://xfireflix.fun/toffeeWd/live.php?id=57bd9c2493c1&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=57bd9c2493c1&e=.m3u8
+https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/Z1dGgD9G/images-2-removebg-preview-1.png",HUNGAMA 
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3678.ts
@@ -328,22 +331,26 @@ https://cdn-4.pishow.tv/live/1473/master.m3u8
 #https://ap02.iqplay.tv:8082/iqb8002/m@d@n1ch@nn3lb@ngl@/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/gbftMKx5/Cartoon-Network-Hindi.png", CARTOON HD
-https://xfireflix.fun/toffeeWd/live.php?id=8be5ec5d5d7c&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=8be5ec5d5d7c&e=.m3u8
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3661.ts
+#https://xfireflix.fun/toffeeWd/live.php?id=8be5ec5d5d7c&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=8be5ec5d5d7c&e=.m3u8
 #https://softbd24.com/new/toffee/live.php?id=8be5ec5d5d7c&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=8be5ec5d5d7c&e=.m3u8
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/238/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 #/150478.ts 
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CN_HD_English.png",CARTOON HD +
-https://xfireflix.fun/toffeeWd/live.php?id=206c4fa8e760&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=206c4fa8e760&e=.m3u8
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12471.ts
+#https://xfireflix.fun/toffeeWd/live.php?id=206c4fa8e760&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=206c4fa8e760&e=.m3u8
 #https://softbd24.com/new/toffee/live.php?id=206c4fa8e760&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=206c4fa8e760&e=.m3u8
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/681/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 #/153154.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/tRvtDGt/download-removebg-preview.png",POGO KIDS
-https://xfireflix.fun/toffeeWd/live.php?id=38060f0d4077&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=38060f0d4077&e=.m3u8
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3691.ts
+#https://xfireflix.fun/toffeeWd/live.php?id=38060f0d4077&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=38060f0d4077&e=.m3u8
 #https://softbd24.com/new/toffee/live.php?id=38060f0d4077&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=38060f0d4077&e=.m3u8
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/239/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 #/150483.ts 
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/9HnYq7x9/images-6-removebg-preview.png",DISCOVERY KIDS
-https://xfireflix.fun/toffeeWd/live.php?id=1fe9cf550c24&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=1fe9cf550c24&e=.m3u8
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3667.ts
+#https://xfireflix.fun/toffeeWd/live.php?id=1fe9cf550c24&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=1fe9cf550c24&e=.m3u8
 #EXTIM3U
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/TDZqX7NH/images-removebg-preview.png",T SPORTS HD
 https://tvsen5.aynaott.com/YNMn5kZz8aLm/index.m3u8
@@ -417,24 +424,28 @@ http://tv.bdiptv.store/live/restreax/refstream/98.ts
 https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/Z6XHygCG/images-1748228373446-removebg-preview.png",TLC
-https://tv.bongoflix.top/toffee/live.php?id=090bf33a56cb&e=.m3u8
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12468.ts
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/ns4kwpWK/eab8fd0f-9351-464c-b45e-332f38b49f4b-removebg-preview.png",DISCOVERY SCIENCE
-https://tv.bongoflix.top/toffee/live.php?id=591ea81b1aba&e=.m3u8
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3668.ts
+#https://tv.bongoflix.top/toffee/live.php?id=591ea81b1aba&e=.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/9k8bxxf1/images-removebg-preview.png",INVESTIGATION DISCOVERY
-https://xfireflix.fun/toffeeWd/live.php?id=6789650f5629&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=6789650f5629&e=.m3u8
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3679.ts
+#https://xfireflix.fun/toffeeWd/live.php?id=6789650f5629&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=6789650f5629&e=.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvogo=" https://i.ibb.co/nqLNMY8D/images-removebg-preview.png ", DISCOVERY TURBO
 https://tv.bongoflix.top/toffee/live.php?id=a051de5ade20&e=.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvogo="https://i.ibb.co/whp8fdjr/images-3-removebg-preview.png",DISCOVERY HD
-https://tv.bongoflix.top/toffee/live.php?id=77e72f2ba472&e=.m3u8
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3666.ts
+#https://tv.bongoflix.top/toffee/live.php?id=77e72f2ba472&e=.m3u8
 #https://softbd24.com/new/toffee/live.php?id=77e72f2ba472&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=77e72f2ba472&e=.m3u8 #/206287.ts
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/341/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/HTdQq8Gf/images-removebg-preview-1.png", ANIMAL PLANET HD
-https://xfireflix.fun/toffeeWd/live.php?id=f70ef199f41d&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=f70ef199f41d&e=.m3u8
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3658.ts
+#https://xfireflix.fun/toffeeWd/live.php?id=f70ef199f41d&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=f70ef199f41d&e=.m3u8
 #https://softbd24.com/new/toffee/live.php?id=f70ef199f41d&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=f70ef199f41d&e=.m3u8 #/206283.ts 
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/287/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 #EXTM3U
