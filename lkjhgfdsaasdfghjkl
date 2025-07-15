@@ -220,7 +220,8 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/3706.ts
 #৳/234.ts #/109951.ts https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/244/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 #EXTM3U
 #EXTINF:-1 group-title="HINDI" tvg-logo="https://i.ibb.co/bgN1ZR1F/images-4-removebg-preview-1.png",COLORS
-http://tv.bdiptv.store/live/restreax/refstream/93.ts
+https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_144.m3u8
+#http://tv.bdiptv.store/live/restreax/refstream/93.ts
 #EXTM3U
 #EXTINF:-1 group-title="HINDI" tvg-logo="https://i.ibb.co/X0Pk91q/images-removebg-preview-1.png", ANT TV HD
 #https://xfireflix.fun/toffeeWd/live.php?id=a6b5f6130cc5&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=a6b5f6130cc5&e=.m3u8
@@ -262,7 +263,8 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/3708.ts
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/245/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 #ott/92.ts #/66177.ts
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/C3bs5yvh/images-2-removebg-preview-2.png", COLORS C SUPER
-http://tv.bdiptv.store/live/restreax/refstream/239.ts 
+https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_1450.m3u8
+#http://tv.bdiptv.store/live/restreax/refstream/239.ts 
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex.png",COLORS CINEPLEX
 https://s111.twilightparadox.com/JIO1/live.php?id=482&key=JITENDRAUNATTI&e=.m3u8
@@ -291,11 +293,12 @@ http://opplex.tv:8080/live/inderjeet_hodal/987654321/106133.ts
 http://opplex.tv:8080/live/inderjeet_hodal/987654321/221258.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/gZ3Yg7pH/images-removebg-preview-4.png",NICK BANGLA
-http://tv.bdiptv.store/live/restreax/refstream/96.ts
-#https://bdix.xfireflix.fun/stream.m3u8?id=323033
+https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_1341.m3u8
+#http://tv.bdiptv.store/live/restreax/refstream/96.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/VcFPKV3T/images-removebg-preview-5.png",SONIC BANGLA
-http://tv.bdiptv.store/live/restreax/refstream/242.ts
+https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_1345.m3u8
+#http://tv.bdiptv.store/live/restreax/refstream/242.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/84bhmrKg/Nick-Jr-logo-2023-outline-svg-removebg-preview.png", NICK JR.
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3688.ts
@@ -404,7 +407,8 @@ https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 https://jolshabd.com/live/mbanglatv/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/whp8fdjr/images-3-removebg-preview.png",DISCOVERY BANGLA
-http://tv.bdiptv.store/live/restreax/refstream/98.ts
+https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_573.m3u8
+#http://tv.bdiptv.store/live/restreax/refstream/98.ts
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/w3F1rHp/Sony-BBC-Earth.png",SONY BBC HD
 https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
