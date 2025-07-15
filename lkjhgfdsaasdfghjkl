@@ -160,12 +160,12 @@ https://tvsen5.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/RTmRpTVQ/removebg-preview.png",STAR JALSHA SD
-https://tvsen5.aynaott.com/gUX8BJmNc2yF/index.m3u8
+http://tv.bdiptv.store/live/restreax/refstream/52.ts
+#https://tvsen5.aynaott.com/gUX8BJmNc2yF/index.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/HLCyzzcL/Star-Jalsha-HD-removebg-preview.png",STAR JALSHA HD
 https://rex-streaming.vercel.app/api/BDIX/245898.m3u8|user-agent=@xfireflixbd
 #http://kst.moonplex.net:8080/CH3/index.m3u8
-#/52.m3u8 
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/mCYfXDFL/images-removebg-preview.png",ZEE BANGLA HD
 https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
@@ -355,8 +355,7 @@ https://tvsen5.aynaott.com/YNMn5kZz8aLm/index.m3u8
 http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/Ygpg0Wh/images-1-removebg-preview-1.png",TEN SPORTS HD
-https://xfireflix.fun/toffeeWd/live.php?id=f76c7eb00da0&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=f76c7eb00da0&e=.m3u8
-#https://softbd24.com/new/toffee/live.php?id=f76c7eb00da0&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=f76c7eb00da0&e=.m3u8
+https://m.xigzo.store/toffee-old/live.php?id=86db7302947d&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=86db7302947d&e=.m3u8
 #http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTIM3U
 #EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co/dsxYymdR/images-3-removebg-preview.png",STAR SPORTS 1 HD
