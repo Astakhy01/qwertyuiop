@@ -246,13 +246,11 @@ https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES"tvg-logo="https://i.ibb.co.com/svXnVrQT/images-1744977797789.png",SONY MAX
-https://dish.slivcdn.com/hls/live/2011745-b/SonyMaxSD/master.m3u8
+https://dish.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8
+#https://dish.slivcdn.com/hls/live/2011745-b/SonyMaxSD/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES"tvg-logo="https://i.ibb.co/B21fnpw3/images-2-removebg-preview.png",SONY MAX 1
 http://filex.me:8080/998866/998866/512328
-#EXTM3U
-#EXTINF:-1 group-title="MOVIES"tvg-logo="https://i.ibb.co.com/svXnVrQT/images-1744977797789.png",SONY MAX HD
-https://dish.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/Nnmcpf2K/images-removebg-preview-2.png",ZEE CINEMA HD
 #https://xfireflix.fun/toffeeWd/live.php?id=d581dd66e556&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=d581dd66e556&e=.m3u8
@@ -287,10 +285,12 @@ https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 #https://tumar-abbu.pages.dev/WavesOTT/B4U-Movies/tracks-v1a1/mono.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/tPYMLSvs/images-removebg-preview.png ", STAR GOLD 2
-http://opplex.tv:8080/live/inderjeet_hodal/987654321/106133.ts
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3707.ts
+#http://opplex.tv:8080/live/inderjeet_hodal/987654321/106133.ts
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/Xr81NKYH/images-removebg-preview-1.png", STAR THRILLS
-http://opplex.tv:8080/live/inderjeet_hodal/987654321/221258.ts
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3711.ts
+#http://opplex.tv:8080/live/inderjeet_hodal/987654321/221258.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/gZ3Yg7pH/images-removebg-preview-4.png",NICK BANGLA
 https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_1341.m3u8
@@ -350,9 +350,6 @@ https://tvsen5.aynaott.com/YNMn5kZz8aLm/index.m3u8
 #http://kst.moonplex.net:8080/CH2/index.m3u8
 #http://starshare.org/live/kumar11/kumar11/18452.ts
 #http://38.96.178.201/live/TSports/index.m3u8#/167590.ts
-#EXTM3U
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/k20C9S8X/images-2-removebg-preview-1.png",A SPORTS HD
-http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/Ygpg0Wh/images-1-removebg-preview-1.png",TEN SPORTS HD
 https://m.xigzo.store/toffee-old/live.php?id=86db7302947d&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=86db7302947d&e=.m3u8
