@@ -171,32 +171,23 @@ https://rex-streaming.vercel.app/api/BDIX/245898.m3u8|user-agent=@xfireflixbd
 https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="74" group-title="ENTERTAINMENT" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735046738565.png",ZEE BANGLA 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-bangla/drmLicense
-https://otttv.co.in/d2h/livestream/zee-bangla/manifest.mpd
-#https://xfireflix.fun/toffeeWd/live.php?id=106a66093e92&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=106a66093e92&e=.m3u8
+https://m.xigzo.store/toffee-old/live.php?id=a994bb5a55fc&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=a994bb5a55fc&e=.m3u8
 #http://kst.moonplex.net:8080/CH4/index.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="aa" tvg-logo="https://i.ibb.co/60P7zvYm/Sony-Aath-new.png",SONY AATH
 https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/60P7zvYm/Sony-Aath-new.png",SONY AATH
-#https://xfireflix.fun/toffeeWd/live.php?id=7e00fee81848&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=7e00fee81848&e=.m3u8
-https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
+https://m.xigzo.store/toffee-old/live.php?id=707e4efbda57&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=707e4efbda57&e=.m3u8
+#https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X95oEAp4VtBVA4I2/8fISg", "kid":"Afe5979+Ql+G1t/UeDkOPw" } ], "type":"temporary" }
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/jP2WFd1G/Sun-Bangla.png",SUN BANGLA
 https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=83404dd4292fec9e27173696f6e42dee:a9dd477034d4fb2e7e5dc7c21ce73fed
 #EXTINF:-1 tvg-id="65" group-title="HINDI" tvg-logo="https://i.ibb.co/jkZDmRS4/images-1-removebg-preview.png",HUM TV 
-https://live2.shoq.com.pk/live/eds/HUM_TV/DASH/HUM_TV.mpd
-#https://xfireflix.fun/toffeeWd/live.php?id=7c21a8ade135&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=7c21a8ade135&e=.m3u8
+https://m.xigzo.store/toffee-old/live.php?id=9406a312e417&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=9406a312e417&e=.m3u8
 #https://softbd24.com/new/toffee/live.php?id=7c21a8ade135&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=7c21a8ade135&e=.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="65" group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/1GK4hFSd/images-removebg-preview-1.png",AKASH AATH
@@ -243,8 +234,7 @@ https://live.drmlive-02.workers.dev/zee/zeetvhd.m3u8
 https://live.drmlive-02.workers.dev/zee/zeeanmol.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="HINDI" tvg-logo="https://i.ibb.co/NdqqvTYW/images-4.jpg",SONY SAB
-#https://tv.bongoflix.top/toffee/live.php?id=b7167fe646a4&e=.m3u8
-#https://softbd24.com/new/toffee/live.php?id=b7167fe646a4&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=b7167fe646a4&e=.m3u8
+https://m.xigzo.store/toffee-old/live.php?id=978d421e4729&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=978d421e4729&e=.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="HINDI" tvg-logo="https://i.ibb.co/NdqqvTYW/images-4.jpg",SONY SAB HD
 https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
@@ -312,8 +302,8 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/3688.ts
 #https://s111.twilightparadox.com/JIO1/live.php?id=544&key=JITENDRAUNATTI&e=.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/0ptj48Ls/images-1.jpg",SONY YAY
-#https://xfireflix.fun/toffeeWd/live.php?id=57bd9c2493c1&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=57bd9c2493c1&e=.m3u8
-https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
+https://m.xigzo.store/toffee-old/live.php?id=93bd384e76a9&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=93bd384e76a9&e=.m3u8
+#https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/Z1dGgD9G/images-2-removebg-preview-1.png",HUNGAMA 
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3678.ts
@@ -393,8 +383,7 @@ https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="90" group-title="SPORTS" tvg-logo="https://i.ibb.co/yF7HJSdm/images-2-removebg-preview.png",EURO SPORTS HD 
-https://xfireflix.fun/toffeeWd/live.php?id=258468998307&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=258468998307&e=.m3u8
-#https://softbd24.com/new/toffee/live.php?id=258468998307&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=258468998307&e=.m3u8 #/167585.ts
+https://m.xigzo.store/toffee-old/live.php?id=be6aae4ac12b&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=be6aae4ac12b&e=.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co/RGYWfjFT/images-1-removebg-preview-2.png", ZEE 24
 https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
@@ -406,9 +395,6 @@ https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg014
 https://live.drmlive-02.workers.dev/zee/aajtak.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co/ycHDwS8w/images-removebg-preview.png",ALJAZEERA
-https://xfireflix.fun/toffeeWd/live.php?id=85ccda8c4fc5&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=85ccda8c4fc5&e=.m3u8
-#https://softbd24.com/new/toffee/live.php?id=85ccda8c4fc5&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=85ccda8c4fc5&e=.m3u8
-#https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/358Z5Skw/images-3-removebg-preview-1.png",B4U MUSIC
@@ -444,9 +430,8 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/3666.ts
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/341/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/HTdQq8Gf/images-removebg-preview-1.png", ANIMAL PLANET HD
-http://nayatv.ydns.eu:80/xfireflix/flixfire/3658.ts
-#https://xfireflix.fun/toffeeWd/live.php?id=f70ef199f41d&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=f70ef199f41d&e=.m3u8
-#https://softbd24.com/new/toffee/live.php?id=f70ef199f41d&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=f70ef199f41d&e=.m3u8 #/206283.ts 
+https://m.xigzo.store/toffee-old/live.php?id=f70ef199f41d&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=f70ef199f41d&e=.m3u8
+#http://nayatv.ydns.eu:80/xfireflix/flixfire/3658.ts
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/287/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/bjCBzC0P/images-4-removebg-preview.png",NATIONAL
@@ -462,8 +447,7 @@ https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/184/master.m3u8|user-agent=Mozilla/5.0
 http://starshare.org/live/kumar11/kumar11/20622.ts
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co.com/xtBmWzBc/images-5-removebg-preview.png",HUM MASALA
-https://xfireflix.fun/toffeeWd/live.php?id=406435b761ad&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=406435b761ad&e=.m3u8
-#https://softbd24.com/new/toffee/live.php?id=406435b761ad&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=406435b761ad&e=.m3u8 #/388633.ts
+https://m.xigzo.store/toffee-old/live.php?id=bce59316a966&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=bce59316a966&e=.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="RELIGIOUS" tvg-logo="https://i.ibb.co/G3W7ghX7/images-10-removebg-preview.png",MAKKAH
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
