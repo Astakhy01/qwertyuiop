@@ -161,10 +161,10 @@ https://tvsen5.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/RTmRpTVQ/removebg-preview.png",STAR JALSHA SD
 http://tv.bdiptv.store/live/restreax/refstream/52.ts
-#https://tvsen5.aynaott.com/gUX8BJmNc2yF/index.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/HLCyzzcL/Star-Jalsha-HD-removebg-preview.png",STAR JALSHA HD
-https://rex-streaming.vercel.app/api/BDIX/245898.m3u8|user-agent=@xfireflixbd
+https://tvsen5.aynaott.com/gUX8BJmNc2yF/index.m3u8
+#https://rex-streaming.vercel.app/api/BDIX/245898.m3u8|user-agent=@xfireflixbd
 #http://kst.moonplex.net:8080/CH3/index.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/mCYfXDFL/images-removebg-preview.png",ZEE BANGLA HD
