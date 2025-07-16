@@ -261,8 +261,8 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/3708.ts
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/245/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 #ott/92.ts #/66177.ts
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/C3bs5yvh/images-2-removebg-preview-2.png", COLORS C SUPER
-https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_1450.m3u8
-#http://tv.bdiptv.store/live/restreax/refstream/239.ts 
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12339.ts
+#https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_1450.m3u8 #http://tv.bdiptv.store/live/restreax/refstream/239.ts 
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex.png",COLORS CINEPLEX
 https://s111.twilightparadox.com/JIO1/live.php?id=482&key=JITENDRAUNATTI&e=.m3u8
@@ -320,25 +320,18 @@ http://tv.bdiptv.store/live/restreax/refstream/71.ts
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/114/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 #/167551.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/PGGntqHG/1708838929-6618717.png",DISNEY JR
-https://cdn-4.pishow.tv/live/1473/master.m3u8
-#https://ap02.iqplay.tv:8082/iqb8002/m@d@n1ch@nn3lb@ngl@/playlist.m3u8
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3672.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/gbftMKx5/Cartoon-Network-Hindi.png", CARTOON HD
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3661.ts
-#https://xfireflix.fun/toffeeWd/live.php?id=8be5ec5d5d7c&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=8be5ec5d5d7c&e=.m3u8
-#https://softbd24.com/new/toffee/live.php?id=8be5ec5d5d7c&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=8be5ec5d5d7c&e=.m3u8
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/238/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 #/150478.ts 
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CN_HD_English.png",CARTOON HD +
 http://nayatv.ydns.eu:80/xfireflix/flixfire/12471.ts
-#https://xfireflix.fun/toffeeWd/live.php?id=206c4fa8e760&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=206c4fa8e760&e=.m3u8
-#https://softbd24.com/new/toffee/live.php?id=206c4fa8e760&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=206c4fa8e760&e=.m3u8
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/681/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 #/153154.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/tRvtDGt/download-removebg-preview.png",POGO KIDS
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3691.ts
-#https://xfireflix.fun/toffeeWd/live.php?id=38060f0d4077&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=38060f0d4077&e=.m3u8
-#https://softbd24.com/new/toffee/live.php?id=38060f0d4077&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=38060f0d4077&e=.m3u8
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/239/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 #/150483.ts 
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/9HnYq7x9/images-6-removebg-preview.png",DISCOVERY KIDS
@@ -348,8 +341,6 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/3667.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/TDZqX7NH/images-removebg-preview.png",T SPORTS HD
 https://tvsen5.aynaott.com/YNMn5kZz8aLm/index.m3u8
 #http://kst.moonplex.net:8080/CH2/index.m3u8
-#http://starshare.org/live/kumar11/kumar11/18452.ts
-#http://38.96.178.201/live/TSports/index.m3u8#/167590.ts
 #EXTM3U
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/Ygpg0Wh/images-1-removebg-preview-1.png",TEN SPORTS HD
 https://m.xigzo.store/toffee-old/live.php?id=86db7302947d&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=86db7302947d&e=.m3u8
@@ -370,7 +361,7 @@ http://103.120.172.74:1030
 #EXTIM3U
 #EXTINF:-1 tvg-id="89" group-title="SPORTS" tvg-logo="https://i.ibb.co/m5gXkYZW/Star-sports-select-2-hd.png",STAR SPORTS SELECT 2 HD
 http://103.120.172.74:4700
-#http://tv.bdiptv.store/live/restream/restreamkk/15246.ts #/167579.ts 
+#/15246.ts #/167579.ts 
 #EXTM3U
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/bRr3QHZS/Ten-HD.png",SONY SPORTS 1 HD
 https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
