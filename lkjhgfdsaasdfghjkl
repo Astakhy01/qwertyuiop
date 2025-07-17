@@ -393,54 +393,54 @@ https://live.drmlive-02.workers.dev/zee/aajtak.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co/TxdzV62d/IMG-20250717-214951.png",ALJAZEERA
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/TMLf7bT5/IMG-20250717-212429.jpg,B4U MUSIC
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/ks6PspYW/b4u-logo-400.jpg",B4U MUSIC
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/1.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/ZzDHB4DR/IMG-20250717-212423.jpg",SANGEET BANGLA MUSIC 
 https://jolshabd.com/live/mbanglatv/playlist.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/whp8fdjr/images-3-removebg-preview.png",DISCOVERY BANGLA
+#EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/8nJ9Bxmh/images-1752772310380.png",DISCOVERY BANGLA
 https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_573.m3u8
 #http://tv.bdiptv.store/live/restreax/refstream/98.ts
 #EXTM3U
-#EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/w3F1rHp/Sony-BBC-Earth.png",SONY BBC HD
+#EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/JWnVnKg1/download-1.jpg",SONY BBC HD
 https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/Z6XHygCG/images-1748228373446-removebg-preview.png",TLC
+#EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/ZRdHXKmN/download-2.png",TLC
 http://nayatv.ydns.eu:80/xfireflix/flixfire/12468.ts
 #EXTM3U
-#EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/ns4kwpWK/eab8fd0f-9351-464c-b45e-332f38b49f4b-removebg-preview.png",DISCOVERY SCIENCE
+#EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/93wvskZX/images.jpg",DISCOVERY SCIENCE
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3668.ts
 #https://tv.bongoflix.top/toffee/live.php?id=591ea81b1aba&e=.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/9k8bxxf1/images-removebg-preview.png",INVESTIGATION DISCOVERY
+#EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/KdmfJ1h/images-1.jpg",INVESTIGATION DISCOVERY
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3679.ts
 #https://xfireflix.fun/toffeeWd/live.php?id=6789650f5629&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=6789650f5629&e=.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="INFOTAINMEAT" tvogo=" https://i.ibb.co/nqLNMY8D/images-removebg-preview.png ", DISCOVERY TURBO
+#EXTINF:-1 group-title="INFOTAINMEAT" tvogo=" https://i.ibb.co/ynsKFQTq/images-2.png ", DISCOVERY TURBO
 https://tv.bongoflix.top/toffee/live.php?id=a051de5ade20&e=.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="INFOTAINMEAT" tvogo="https://i.ibb.co/whp8fdjr/images-3-removebg-preview.png",DISCOVERY HD
+#EXTINF:-1 group-title="INFOTAINMEAT" tvogo="https://i.ibb.co/8nJ9Bxmh/images-1752772310380.png",DISCOVERY HD
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3666.ts
 #https://tv.bongoflix.top/toffee/live.php?id=77e72f2ba472&e=.m3u8
 #https://softbd24.com/new/toffee/live.php?id=77e72f2ba472&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=77e72f2ba472&e=.m3u8 #/206287.ts
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/341/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 
 #EXTM3U
-#EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/HTdQq8Gf/images-removebg-preview-1.png", ANIMAL PLANET HD
+#EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/cKbBQz5M/download-1.png", ANIMAL PLANET HD
 https://m.xigzo.store/toffee-old/live.php?id=f70ef199f41d&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=f70ef199f41d&e=.m3u8
 #http://nayatv.ydns.eu:80/xfireflix/flixfire/3658.ts
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/287/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 #EXTM3U
-#EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/bjCBzC0P/images-4-removebg-preview.png",NATIONAL
+#EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/hJjHxdFF/images-1.png",NATIONAL
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3684.ts
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/605/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 #EXTM3U
-#EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/v4z2nSwK/images-2-removebg-preview.png",WILD
+#EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/C5QCGC4S/images-1752771267147.png",WILD
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3686.ts
 #https://wildearth-plex.amagi.tv/master.m3u8
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/184/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 #EXTM3U
-#EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co.com/xtBmWzBc/images-5-removebg-preview.png",HUM MASALA
+#EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/nshKxpy9/download.jpg",HUM MASALA
 https://m.xigzo.store/toffee-old/live.php?id=bce59316a966&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=bce59316a966&e=.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="RELIGIOUS" tvg-logo="https://i.ibb.co/SXmV3J33/IMG-20250717-214637.jpg",MAKKAH
