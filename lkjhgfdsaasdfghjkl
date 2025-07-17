@@ -393,10 +393,10 @@ https://live.drmlive-02.workers.dev/zee/aajtak.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co/ycHDwS8w/images-removebg-preview.png",ALJAZEERA
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/358Z5Skw/images-3-removebg-preview-1.png",B4U MUSIC
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/TMLf7bT5/IMG-20250717-212429.jpg",B4U MUSIC
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/1.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/GvjtzhFZ/images-removebg-preview.png",SANGEET BANGLA MUSIC 
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/ZzDHB4DR/IMG-20250717-212423.jpg",SANGEET BANGLA MUSIC 
 https://jolshabd.com/live/mbanglatv/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/whp8fdjr/images-3-removebg-preview.png",DISCOVERY BANGLA
@@ -443,10 +443,10 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/3686.ts
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co.com/xtBmWzBc/images-5-removebg-preview.png",HUM MASALA
 https://m.xigzo.store/toffee-old/live.php?id=bce59316a966&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=bce59316a966&e=.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="RELIGIOUS" tvg-logo="https://i.ibb.co/G3W7ghX7/images-10-removebg-preview.png",MAKKAH
+#EXTINF:-1 group-title="RELIGIOUS" tvg-logo="https://i.ibb.co/SXmV3J33/IMG-20250717-214637.jpg",MAKKAH
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="RELIGIOUS" tvg-logo="https://i.ibb.co/rCTskFg/images-5-removebg-preview-1.png", AL SUNNAH TV
+#EXTINF:-1 group-title="RELIGIOUS" tvg-logo="https://i.ibb.co/JjXT3rbX/IMG-20250717-214631.jpg", AL SUNNAH TV
 http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/BK5rhV9d/images-3.jpg",SONY PIX HD
