@@ -261,7 +261,8 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/3708.ts
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/C3bs5yvh/images-2-removebg-preview-2.png", COLORS C SUPER
 #http://nayatv.ydns.eu:80/xfireflix/flixfire/12339.ts
-https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_1450.m3u8 #http://tv.bdiptv.store/live/restreax/refstream/239.ts 
+https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_1450.m3u8
+#http://tv.bdiptv.store/live/restreax/refstream/239.ts 
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex.png",COLORS CINEPLEX
 http://opplex.tv:8080/live/inderjeet_hodal/987654321/104191.ts
