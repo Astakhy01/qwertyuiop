@@ -5,7 +5,6 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTM3U
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co.com/zHGC2gbF/BTV-News-Logo.png",BTV NEWS 
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8
-#http://line.ultrab.xyz/live/ZeeALI1/465841/108800.ts
 #EXTM3U
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co.com/zTgqxTzv/somoy-tv-logo-png-seeklogo-536972.png",SOMOY TV
 https://tvsen6.aynaott.com/somoytv/index.m3u8?e=1750361563&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=26815086c392d0cae22bfab62de91cbb
@@ -219,9 +218,6 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/3714.ts
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3706.ts
 #৳/234.ts #/109951.ts https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/244/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 #EXTM3U
-#EXTINF:-1 group-title="HINDI" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Utsav.png", STAR UTSAV
-http://opplex.tv:8080/live/inderjeet_hodal/987654321/112977.ts
-#EXTM3U
 #EXTINF:-1 group-title="HINDI" tvg-logo="https://i.ibb.co/bgN1ZR1F/images-4-removebg-preview-1.png",COLORS
 https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_144.m3u8
 #http://tv.bdiptv.store/live/restreax/refstream/93.ts
@@ -291,9 +287,6 @@ https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/tPYMLSvs/images-removebg-preview.png ", STAR GOLD 2
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3707.ts
 #http://opplex.tv:8080/live/inderjeet_hodal/987654321/106133.ts
-#EXTM3U
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Utsav.png", STAR UTSAV MOVIES
-http://opplex.tv:8080/live/inderjeet_hodal/987654321/112971.ts
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/Xr81NKYH/images-removebg-preview-1.png", STAR THRILLS
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3711.ts
