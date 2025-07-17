@@ -342,43 +342,43 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/3691.ts
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3667.ts
 #https://xfireflix.fun/toffeeWd/live.php?id=1fe9cf550c24&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=1fe9cf550c24&e=.m3u8
 #EXTIM3U
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/TDZqX7NH/images-removebg-preview.png",T SPORTS HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/chXwYt9n/IMG-20250717-211123.jpg",T SPORTS HD
 https://tvsen5.aynaott.com/YNMn5kZz8aLm/index.m3u8
 #http://kst.moonplex.net:8080/CH2/index.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/Ygpg0Wh/images-1-removebg-preview-1.png",TEN SPORTS HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/MDDnLGG8/IMG-20250717-211117.jpg",TEN SPORTS HD
 https://m.xigzo.store/toffee-old/live.php?id=86db7302947d&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=86db7302947d&e=.m3u8
 #http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTIM3U
-#EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co/dsxYymdR/images-3-removebg-preview.png",STAR SPORTS 1 HD
+#EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co/yFtYnJ4D/IMG-20250717-211048.jpg",STAR SPORTS 1 HD
 http://103.120.172.74:5500
 #ott/89.ts #/167573.ts  https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/24/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 
 #EXTIM3U
-#EXTINF:-1 tvg-id="89" group-title="SPORTS" tvg-logo="https://i.ibb.co.com/G4y3H76D/Sports18-1-HD.png",STAR SPORTS 2 HD 
+#EXTINF:-1 tvg-id="89" group-title="SPORTS" tvg-logo="https://i.ibb.co/chLHPVBr/IMG-20250717-211053.jpg",STAR SPORTS 2 HD 
 http://nayatv.ydns.eu:80/xfireflix/flixfire/12473.ts
 #http://103.120.172.74:4200
 #/167574.ts   http://tv.bdiptv.store/live/restream/restreamkk/90.ts
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/235/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 #EXTIM3U
-#EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co/C5hN5yng/images-removebg-preview.png",STAR SPORTS SELECT 1 HD
+#EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co/kVDCSGhP/IMG-20250717-211059.jpg",STAR SPORTS SELECT 1 HD
 http://103.120.172.74:1030
 #ott /88.ts #/167578.ts https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/246/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 #EXTIM3U
-#EXTINF:-1 tvg-id="89" group-title="SPORTS" tvg-logo="https://i.ibb.co/m5gXkYZW/Star-sports-select-2-hd.png",STAR SPORTS SELECT 2 HD
+#EXTINF:-1 tvg-id="89" group-title="SPORTS" tvg-logo="https://i.ibb.co/gZ4d2rN9/IMG-20250717-211105.jpg",STAR SPORTS SELECT 2 HD
 http://nayatv.ydns.eu:80/xfireflix/flixfire/12475.ts
 #http://103.120.172.74:4700
 #/15246.ts #/167579.ts 
 #EXTM3U
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/bRr3QHZS/Ten-HD.png",SONY SPORTS 1 HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/20hm5LjP/IMG-20250717-211016.jpg",SONY SPORTS 1 HD
 https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/YMJ7T9N/Ten2-HD.png",SONY SPORTS 2 HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/Dg6mr7hV/IMG-20250717-211026.jpg",SONY SPORTS 2 HD
 https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/Xkd1kwn0/Six-HD.png",SONY SPORTS 5 HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/wNFmZBqf/IMG-20250717-211034.jpg",SONY SPORTS 5 HD
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-id="90" group-title="SPORTS" tvg-logo="https://i.ibb.co/yF7HJSdm/images-2-removebg-preview.png",EURO SPORTS HD 
+#EXTINF:-1 tvg-id="90" group-title="SPORTS" tvg-logo="https://i.ibb.co/B2Y02XxR/IMG-20250717-211128.jpg",EURO SPORTS HD 
 https://m.xigzo.store/toffee-old/live.php?id=be6aae4ac12b&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=be6aae4ac12b&e=.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co/RGYWfjFT/images-1-removebg-preview-2.png", ZEE 24
