@@ -317,8 +317,11 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/3678.ts
 https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/587/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/5xft6LVW/images-3-removebg-preview-1.png",DISNEP CHANNEL
-http://tv.bdiptv.store/live/restreax/refstream/71.ts
-#https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/114/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 #/167551.ts
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3671.ts
+#http://tv.bdiptv.store/live/restreax/refstream/71.ts #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/114/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 #/167551.ts
+#EXTM3U
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/5xft6LVW/images-3-removebg-preview-1.png",DISNEP CHANNEL HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12465.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/PGGntqHG/1708838929-6618717.png",DISNEY JR
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3672.ts
@@ -352,7 +355,8 @@ http://103.120.172.74:5500
 #ott/89.ts #/167573.ts  https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/24/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 
 #EXTIM3U
 #EXTINF:-1 tvg-id="89" group-title="SPORTS" tvg-logo="https://i.ibb.co.com/G4y3H76D/Sports18-1-HD.png",STAR SPORTS 2 HD 
-http://103.120.172.74:4200
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12473.ts
+#http://103.120.172.74:4200
 #/167574.ts   http://tv.bdiptv.store/live/restream/restreamkk/90.ts
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/235/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 #EXTIM3U
@@ -361,7 +365,8 @@ http://103.120.172.74:1030
 #ott /88.ts #/167578.ts https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/246/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 #EXTIM3U
 #EXTINF:-1 tvg-id="89" group-title="SPORTS" tvg-logo="https://i.ibb.co/m5gXkYZW/Star-sports-select-2-hd.png",STAR SPORTS SELECT 2 HD
-http://103.120.172.74:4700
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12475.ts
+#http://103.120.172.74:4700
 #/15246.ts #/167579.ts 
 #EXTM3U
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/bRr3QHZS/Ten-HD.png",SONY SPORTS 1 HD
