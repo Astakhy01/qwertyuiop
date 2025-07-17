@@ -219,6 +219,9 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/3714.ts
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3706.ts
 #৳/234.ts #/109951.ts https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/244/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 #EXTM3U
+#EXTINF:-1 group-title="HINDI" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Utsav.png", STAR UTSAV
+http://opplex.tv:8080/live/inderjeet_hodal/987654321/112977.ts
+#EXTM3U
 #EXTINF:-1 group-title="HINDI" tvg-logo="https://i.ibb.co/bgN1ZR1F/images-4-removebg-preview-1.png",COLORS
 https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_144.m3u8
 #http://tv.bdiptv.store/live/restreax/refstream/93.ts
@@ -261,11 +264,12 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/3708.ts
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/245/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 #ott/92.ts #/66177.ts
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/C3bs5yvh/images-2-removebg-preview-2.png", COLORS C SUPER
-http://nayatv.ydns.eu:80/xfireflix/flixfire/12339.ts
-#https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_1450.m3u8 #http://tv.bdiptv.store/live/restreax/refstream/239.ts 
+#http://nayatv.ydns.eu:80/xfireflix/flixfire/12339.ts
+https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_1450.m3u8 #http://tv.bdiptv.store/live/restreax/refstream/239.ts 
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex.png",COLORS CINEPLEX
-https://s111.twilightparadox.com/JIO1/live.php?id=482&key=JITENDRAUNATTI&e=.m3u8
+http://opplex.tv:8080/live/inderjeet_hodal/987654321/104191.ts
+#https://s111.twilightparadox.com/JIO1/live.php?id=482&key=JITENDRAUNATTI&e=.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/k20v9vMP/images-2.jpg",SONY WAH
 https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
@@ -287,6 +291,9 @@ https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/tPYMLSvs/images-removebg-preview.png ", STAR GOLD 2
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3707.ts
 #http://opplex.tv:8080/live/inderjeet_hodal/987654321/106133.ts
+#EXTM3U
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Utsav_Movies.png", STAR UTSAV MOVIES
+http://opplex.tv:8080/live/inderjeet_hodal/987654321/112971.ts
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/Xr81NKYH/images-removebg-preview-1.png", STAR THRILLS
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3711.ts
