@@ -244,11 +244,11 @@ https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
 #https://softbd24.com/new/toffee/live.php?id=243771d9592c&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=243771d9592c&e=.m3u8
 https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="MOVIES"tvg-logo="https://i.ibb.co/x8dhSdg1/IMG-20250717-233618.jpg",SONY MAX
+#EXTINF:-1 group-title="MOVIES"tvg-logo="https://i.ibb.co/GQsKhHVP/IMG-20250718-101900.jpg",SONY MAX
 https://dish.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8
 #https://dish.slivcdn.com/hls/live/2011745-b/SonyMaxSD/master.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="MOVIES"tvg-logo="https://i.ibb.co/qLbKt8xV/IMG-20250717-233613.jpg",SONY MAX 1
+#EXTINF:-1 group-title="MOVIES"tvg-logo="https://i.ibb.co/gZ1THDHC/IMG-20250718-101905.jpg",SONY MAX 1
 http://filex.me:8080/998866/998866/512328
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/Nnmcpf2K/images-removebg-preview-2.png",ZEE CINEMA HD
@@ -268,7 +268,7 @@ https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_1450.m3u8
 http://opplex.tv:8080/live/inderjeet_hodal/987654321/104191.ts
 #https://s111.twilightparadox.com/JIO1/live.php?id=482&key=JITENDRAUNATTI&e=.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/k20v9vMP/images-2.jpg",SONY WAH
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/1tLzc4VB/IMG-20250718-101946.jpg",SONY WAH
 https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-zeeaction" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeaction/channel_list/1170x658withlog1953200347.png" group-title="MOVIES", ZEE ACTION
