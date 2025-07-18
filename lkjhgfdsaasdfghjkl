@@ -251,11 +251,11 @@ https://dish.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8
 #EXTINF:-1 group-title="MOVIES"tvg-logo="https://i.ibb.co/gZ1THDHC/IMG-20250718-101905.jpg",SONY MAX 1
 http://filex.me:8080/998866/998866/512328
 #EXTM3U
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/Nnmcpf2K/images-removebg-preview-2.png",ZEE CINEMA HD
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/PGkVsxWd/IMG-20250718-101919.jpg",ZEE CINEMA HD
 #https://xfireflix.fun/toffeeWd/live.php?id=d581dd66e556&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=d581dd66e556&e=.m3u8
 https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8 
 #EXTM3U
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/C3wYyHJm/images-1-removebg-preview.png",STAR GOLD
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/cSRX9p0W/IMG-20250718-101842.png",STAR GOLD
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3708.ts
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/245/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 #ott/92.ts #/66177.ts
 #EXTM3U
@@ -271,7 +271,7 @@ http://opplex.tv:8080/live/inderjeet_hodal/987654321/104191.ts
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/1tLzc4VB/IMG-20250718-101946.jpg",SONY WAH
 https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-id="0-9-zeeaction" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeaction/channel_list/1170x658withlog1953200347.png" group-title="MOVIES", ZEE ACTION
+#EXTINF:-1 tvg-id="0-9-zeeaction" tvg-logo="https://i.ibb.co/qMvY0N3X/IMG-20250718-101923.jpg" group-title="MOVIES", ZEE ACTION
 #https://tv.bongoflix.top/toffee/live.php?id=72a0803cf563&e=.m3u8
 #https://softbd24.com/new/toffee/live.php?id=72a0803cf563&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=72a0803cf563&e=.m3u8
 https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8
@@ -285,11 +285,11 @@ https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/cd1f59d6-9b5d-43f0-bfb2-6ca9edc99f27/0.m3u8
 #https://tumar-abbu.pages.dev/WavesOTT/B4U-Movies/tracks-v1a1/mono.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/tPYMLSvs/images-removebg-preview.png ", STAR GOLD 2
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/M5gwSXpx/IMG-20250718-101914.jpg", STAR GOLD 2
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3707.ts
 #http://opplex.tv:8080/live/inderjeet_hodal/987654321/106133.ts
 #EXTM3U
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/Xr81NKYH/images-removebg-preview-1.png", STAR THRILLS
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/TMzr1Rt5/IMG-20250718-101846.jpg", STAR THRILLS
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3711.ts
 #http://opplex.tv:8080/live/inderjeet_hodal/987654321/221258.ts
 #EXTM3U
@@ -417,7 +417,7 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/3668.ts
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3679.ts
 #https://xfireflix.fun/toffeeWd/live.php?id=6789650f5629&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=6789650f5629&e=.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="INFOTAINMEAT" tvogo=" https://i.ibb.co/ynsKFQTq/images-2.png ", DISCOVERY TURBO
+#EXTINF:-1 group-title="INFOTAINMEAT" tvogo="https://i.ibb.co/MW8DZ0v/IMG-20250718-101837.jpg", DISCOVERY TURBO
 https://tv.bongoflix.top/toffee/live.php?id=a051de5ade20&e=.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvogo="https://i.ibb.co/8nJ9Bxmh/images-1752772310380.png",DISCOVERY HD
