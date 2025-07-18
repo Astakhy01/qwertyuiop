@@ -410,6 +410,9 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/3668.ts
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3679.ts
 #https://xfireflix.fun/toffeeWd/live.php?id=6789650f5629&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=6789650f5629&e=.m3u8
 #EXTM3U
+#EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/MW8DZ0v/IMG-20250718-101837.jpg",DISCOVERY TURBO
+https://tv.bongoflix.top/toffee/live.php?id=a051de5ade20&e=.m3u8
+#EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/cKbBQz5M/download-1.png", ANIMAL PLANET HD
 https://m.xigzo.store/toffee-old/live.php?id=f70ef199f41d&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=f70ef199f41d&e=.m3u8
 #http://nayatv.ydns.eu:80/xfireflix/flixfire/3658.ts
