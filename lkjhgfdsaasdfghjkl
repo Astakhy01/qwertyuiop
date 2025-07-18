@@ -244,11 +244,11 @@ https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
 #https://softbd24.com/new/toffee/live.php?id=243771d9592c&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=243771d9592c&e=.m3u8
 https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="MOVIES"tvg-logo="https://i.ibb.co/GQsKhHVP/IMG-20250718-101900.jpg",SONY MAX
+#EXTINF:-1 group-title="MOVIES"tvg-logo="",SONY MAX
 https://dish.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8
 #https://dish.slivcdn.com/hls/live/2011745-b/SonyMaxSD/master.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="MOVIES"tvg-logo="https://i.ibb.co/gZ1THDHC/IMG-20250718-101905.jpg",SONY MAX 1
+#EXTINF:-1 group-title="MOVIES"tvg-logo="",SONY MAX 1
 http://filex.me:8080/998866/998866/512328
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/PGkVsxWd/IMG-20250718-101919.jpg",ZEE CINEMA HD
@@ -417,10 +417,10 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/3668.ts
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3679.ts
 #https://xfireflix.fun/toffeeWd/live.php?id=6789650f5629&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=6789650f5629&e=.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="INFOTAINMEAT" tvogo="https://i.ibb.co/MW8DZ0v/IMG-20250718-101837.jpg", DISCOVERY TURBO
+#EXTINF:-1 group-title="INFOTAINMEAT" tvogo="", DISCOVERY TURBO
 https://tv.bongoflix.top/toffee/live.php?id=a051de5ade20&e=.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="INFOTAINMEAT" tvogo="https://i.ibb.co/8nJ9Bxmh/images-1752772310380.png",DISCOVERY HD
+#EXTINF:-1 group-title="INFOTAINMEAT" tvogo="",DISCOVERY HD
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3666.ts
 #https://tv.bongoflix.top/toffee/live.php?id=77e72f2ba472&e=.m3u8
 #https://softbd24.com/new/toffee/live.php?id=77e72f2ba472&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=77e72f2ba472&e=.m3u8 #/206287.ts
