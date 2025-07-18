@@ -244,13 +244,6 @@ https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
 #https://softbd24.com/new/toffee/live.php?id=243771d9592c&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=243771d9592c&e=.m3u8
 https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="MOVIES"tvg-logo="",SONY MAX
-https://dish.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8
-#https://dish.slivcdn.com/hls/live/2011745-b/SonyMaxSD/master.m3u8
-#EXTM3U
-#EXTINF:-1 group-title="MOVIES"tvg-logo="",SONY MAX 1
-http://filex.me:8080/998866/998866/512328
-#EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/PGkVsxWd/IMG-20250718-101919.jpg",ZEE CINEMA HD
 #https://xfireflix.fun/toffeeWd/live.php?id=d581dd66e556&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=d581dd66e556&e=.m3u8
 https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8 
@@ -416,15 +409,6 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/3668.ts
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/KdmfJ1h/images-1.jpg",INVESTIGATION DISCOVERY
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3679.ts
 #https://xfireflix.fun/toffeeWd/live.php?id=6789650f5629&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=6789650f5629&e=.m3u8
-#EXTM3U
-#EXTINF:-1 group-title="INFOTAINMEAT" tvogo="", DISCOVERY TURBO
-https://tv.bongoflix.top/toffee/live.php?id=a051de5ade20&e=.m3u8
-#EXTM3U
-#EXTINF:-1 group-title="INFOTAINMEAT" tvogo="",DISCOVERY HD
-http://nayatv.ydns.eu:80/xfireflix/flixfire/3666.ts
-#https://tv.bongoflix.top/toffee/live.php?id=77e72f2ba472&e=.m3u8
-#https://softbd24.com/new/toffee/live.php?id=77e72f2ba472&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=77e72f2ba472&e=.m3u8 #/206287.ts
-#https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/341/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/cKbBQz5M/download-1.png", ANIMAL PLANET HD
 https://m.xigzo.store/toffee-old/live.php?id=f70ef199f41d&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=f70ef199f41d&e=.m3u8
