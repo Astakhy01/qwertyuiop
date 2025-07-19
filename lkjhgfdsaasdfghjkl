@@ -284,12 +284,12 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/3711.ts
 #http://opplex.tv:8080/live/inderjeet_hodal/987654321/221258.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/jktjPyy7/IMG-20250717-214658.jpg",NICK BANGLA
-https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_1341.m3u8
-#http://tv.bdiptv.store/live/restreax/refstream/96.ts
+#https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_1341.m3u8
+http://tv.bdiptv.store/live/restreax/refstream/96.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/9mR3MQ27/IMG-20250717-214708.jpg",SONIC BANGLA
-https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_1345.m3u8
-#http://tv.bdiptv.store/live/restreax/refstream/242.ts
+#https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_1345.m3u8
+http://tv.bdiptv.store/live/restreax/refstream/242.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/b5LLBn2W/IMG-20250717-214703.jpg", NICK JR.
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3688.ts
@@ -381,8 +381,8 @@ https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 https://jolshabd.com/live/mbanglatv/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/8nJ9Bxmh/images-1752772310380.png",DISCOVERY BANGLA
-https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_573.m3u8
-#http://tv.bdiptv.store/live/restreax/refstream/98.ts
+#https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_573.m3u8
+http://tv.bdiptv.store/live/restreax/refstream/98.ts
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/JWnVnKg1/download-1.jpg",SONY BBC HD
 https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
