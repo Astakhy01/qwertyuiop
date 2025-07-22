@@ -162,13 +162,17 @@ https://tvsen5.aynaott.com/gUX8BJmNc2yF/index.m3u8
 #https://rex-streaming.vercel.app/api/BDIX/245898.m3u8|user-agent=@xfireflixbd
 #http://kst.moonplex.net:8080/CH3/index.m3u8
 #EXTM3U
+#EXTINF:-1 tvg-id="74" group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/kgr1QKpY/IMG-20250717-200835.jpg",ZEE BANGLA 
+https://m.xigzo.store/toffee-old/live.php?id=a994bb5a55fc&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=a994bb5a55fc&e=.m3u8
+#http://kst.moonplex.net:8080/CH4/index.m3u8
+#EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/dJ7fbnR3/IMG-20250717-200840.jpg",ZEE BANGLA HD
 http://tv.bdiptv.store/live/restreax/refstream/15252.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-id="74" group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/kgr1QKpY/IMG-20250717-200835.jpg",ZEE BANGLA 
-https://m.xigzo.store/toffee-old/live.php?id=a994bb5a55fc&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=a994bb5a55fc&e=.m3u8
-#http://kst.moonplex.net:8080/CH4/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/N6ktzTjD/IMG-20250717-200855.jpg",COLORS BANGLA 
+https://tvsen5.aynaott.com/u3LkNQ7UHhFX/index.m3u8
+#http://tv.bdiptv.store/live/restreax/refstream/91.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/qYGLNSmC/IMG-20250717-203230.jpg",SONY AATH
 https://m.xigzo.store/toffee-old/live.php?id=707e4efbda57&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=707e4efbda57&e=.m3u8
@@ -179,17 +183,13 @@ https://m.xigzo.store/toffee-old/live.php?id=707e4efbda57&e=.m3u8|Referer=https:
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/20TtJWkZ/IMG-20250717-200921.jpg",SUN BANGLA
 https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd
 #EXTM3U
-#EXTINF:-1 tvg-id="65" group-title="HINDI" tvg-logo="https://i.ibb.co/rGmRxKPb/IMG-20250717-212311.jpg",HUM TV 
-https://m.xigzo.store/toffee-old/live.php?id=9406a312e417&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=9406a312e417&e=.m3u8
-#https://softbd24.com/new/toffee/live.php?id=7c21a8ade135&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=7c21a8ade135&e=.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-id="65" group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/k29TBRXn/IMG-20250717-200926.jpg",AKASH AATH
 https://tvsen5.aynaott.com/Wm9Lv2RjZGT6/tracks-v1a1/mono.ts.m3u8
 #https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/playlist.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/N6ktzTjD/IMG-20250717-200855.jpg",COLORS BANGLA 
-https://tvsen5.aynaott.com/u3LkNQ7UHhFX/index.m3u8
-#http://tv.bdiptv.store/live/restreax/refstream/91.m3u8
+#EXTINF:-1 tvg-id="65" group-title="HINDI" tvg-logo="https://i.ibb.co/rGmRxKPb/IMG-20250717-212311.jpg",HUM TV 
+https://m.xigzo.store/toffee-old/live.php?id=9406a312e417&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=9406a312e417&e=.m3u8
+#https://softbd24.com/new/toffee/live.php?id=7c21a8ade135&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=7c21a8ade135&e=.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/ZRHcb1Vz/IMG-20250717-200848.jpg",ZEE BANGLA CINEMA
 https://m.xigzo.store/toffee-old/live.php?id=3c1cc31a847f&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=3c1cc31a847f&e=.m3u8
