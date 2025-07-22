@@ -212,8 +212,8 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/3706.ts
 #৳/234.ts #/109951.ts https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/244/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 #EXTM3U
 #EXTINF:-1 group-title="HINDI" tvg-logo="https://i.ibb.co/rGJ2SKZC/IMG-20250717-212318.jpg",COLORS
-https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_144.m3u8
-#http://tv.bdiptv.store/live/restreax/refstream/93.ts
+#https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_144.m3u8
+http://tv.bdiptv.store/live/restreax/refstream/93.ts
 #EXTM3U
 #EXTINF:-1 group-title="HINDI" tvg-logo="https://i.ibb.co/hRyCt5dV/IMG-20250717-212329.jpg", ANT TV HD
 https://m.xigzo.store/toffee-old/live.php?id=a6b5f6130cc5&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=a6b5f6130cc5&e=.m3u8
@@ -246,8 +246,8 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/3708.ts
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/245/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 #ott/92.ts #/66177.ts
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/7JT10H4b/IMG-20250717-233627.jpg", COLORS C SUPER
-https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_1450.m3u8
-#http://tv.bdiptv.store/live/restreax/refstream/239.ts 
+#https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_1450.m3u8
+http://tv.bdiptv.store/live/restreax/refstream/239.ts 
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/GQsKhHVP/IMG-20250718-101900.jpg", SONY MAX
 https://dish.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8
@@ -283,16 +283,16 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/3711.ts
 #http://opplex.tv:8080/live/inderjeet_hodal/987654321/221258.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/jktjPyy7/IMG-20250717-214658.jpg",NICK BANGLA
-https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_1341.m3u8
-#http://tv.bdiptv.store/live/restreax/refstream/96.ts
+#https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_1341.m3u8
+http://tv.bdiptv.store/live/restreax/refstream/96.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/9mR3MQ27/IMG-20250717-214708.jpg",SONIC BANGLA
-https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_1345.m3u8
-#http://tv.bdiptv.store/live/restreax/refstream/242.ts
+#https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_1345.m3u8
+http://tv.bdiptv.store/live/restreax/refstream/242.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/b5LLBn2W/IMG-20250717-214703.jpg", NICK JUNIOR
-https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_544.m3u8
-#http://nayatv.ydns.eu:80/xfireflix/flixfire/3688.ts
+#https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_544.m3u8
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3688.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/pjhF60q5/IMG-20250717-214739.jpg",SONY YAY
 https://m.xigzo.store/toffee-old/live.php?id=93bd384e76a9&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=93bd384e76a9&e=.m3u8
@@ -381,8 +381,8 @@ https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 https://jolshabd.com/live/mbanglatv/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/8nJ9Bxmh/images-1752772310380.png",DISCOVERY BANGLA
-https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_573.m3u8
-#http://tv.bdiptv.store/live/restreax/refstream/98.ts
+#https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_573.m3u8
+http://tv.bdiptv.store/live/restreax/refstream/98.ts
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/JWnVnKg1/download-1.jpg",SONY BBC HD
 https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
