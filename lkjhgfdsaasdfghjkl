@@ -216,13 +216,16 @@ https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_144.m3u8
 #http://tv.bdiptv.store/live/restreax/refstream/93.ts
 #EXTM3U
 #EXTINF:-1 group-title="HINDI" tvg-logo="https://i.ibb.co/hRyCt5dV/IMG-20250717-212329.jpg", ANT TV HD
-https://live.drmlive-02.workers.dev/zee/tvhd_0.m3u8
+https://m.xigzo.store/toffee-old/live.php?id=a6b5f6130cc5&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=a6b5f6130cc5&e=.m3u8
+#https://live.drmlive-02.workers.dev/zee/tvhd_0.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="https://i.ibb.co/GgfVT6n/IMG-20250717-212324.jpg" group-title="HINDI", ZEE TV HD
-https://live.drmlive-02.workers.dev/zee/zeetvhd.m3u8
+https://m.xigzo.store/toffee-old/live.php?id=9905083432a8&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=9905083432a8&e=.m3u8
+#https://live.drmlive-02.workers.dev/zee/zeetvhd.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-zeeanmol" tvg-logo="https://i.ibb.co/wFvb08DT/IMG-20250717-212403.jpg" group-title="HINDI", ZEE ANMOL
-https://live.drmlive-02.workers.dev/zee/zeeanmol.m3u8
+https://m.xigzo.store/toffee-old/live.php?id=dc488b1502f5&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=dc488b1502f5&e=.m3u8
+#https://live.drmlive-02.workers.dev/zee/zeeanmol.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="HINDI" tvg-logo="https://i.ibb.co/yn3JBGsF/IMG-20250717-212337.jpg",SONY SAB
 https://m.xigzo.store/toffee-old/live.php?id=978d421e4729&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=978d421e4729&e=.m3u8
@@ -235,7 +238,8 @@ https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/PGkVsxWd/IMG-20250718-101919.jpg",ZEE CINEMA HD
-https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8 
+https://m.xigzo.store/toffee-old/live.php?id=d581dd66e556&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=d581dd66e556&e=.m3u8
+#https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8 
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/cSRX9p0W/IMG-20250718-101842.png",STAR GOLD
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3708.ts
@@ -260,8 +264,8 @@ http://opplex.tv:8080/live/inderjeet_hodal/987654321/104191.ts
 https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-zeeaction" tvg-logo="https://i.ibb.co/qMvY0N3X/IMG-20250718-101923.jpg" group-title="MOVIES", ZEE ACTION
-#https://tv.bongoflix.top/toffee/live.php?id=72a0803cf563&e=.m3u8
-https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8
+https://m.xigzo.store/toffee-old/live.php?id=72a0803cf563&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=72a0803cf563&e=.m3u8
+#https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/BH1w6x1p/IMG-20250717-233552.jpg",SONY MAX 2
 https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
