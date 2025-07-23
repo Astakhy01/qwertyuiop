@@ -95,8 +95,8 @@ https://tvsen6.aynaott.com/mohonatv/index.m3u8?e=1750361663&u=8be812d7-3211-4694
 #http://starshare.org/live/kumar11/kumar11/397.ts
 #EXTM3U
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/rfLwYkFn/IMG-20250718-103141.png",NAGORIK TV
+http://starshare.org/live/5477447635355/5326643536426/3802.ts
 https://tvsen6.aynaott.com/nagoriktv/index.m3u8
-#http://starshare.org/live/kumar11/kumar11/3802.ts
 #EXTM3U
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/v2zdFw4/IMG-20250718-103132.jpg",N TV HD
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/tracks-v1a1/mono.ts.m3u8
@@ -200,7 +200,8 @@ http://tv.bdiptv.store/live/restreax/refstream/238.ts
 #http://starshare.org/live/PROMO/PROMO/271038.ts
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/k2kbnmkj/IMG-20250717-200915.jpg",JALSHA MOVIES
-http://tv.bdiptv.store/live/restreax/refstream/81.ts
+https://restreaming.sultanarabi161.workers.dev/azers/277348.m3u8
+#http://tv.bdiptv.store/live/restreax/refstream/81.ts
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/537/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 #/245900.ts # 
 #EXTM3U
 #EXTINF:-1 group-title="HINDI" tvg-logo="https://i.ibb.co/Cs0M4P1R/IMG-20250717-212357.jpg", STAR PLUS HD
