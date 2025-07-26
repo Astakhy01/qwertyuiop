@@ -203,16 +203,18 @@ http://tv.bdiptv.store/live/restreauu/refstream/81.ts
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/537/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 #/245900.ts # 
 #EXTM3U
 #EXTINF:-1 group-title="HINDI" tvg-logo="https://i.ibb.co/Cs0M4P1R/IMG-20250717-212357.jpg", STAR PLUS HD
-http://nayatv.ydns.eu:80/xfireflix/flixfire/3714.ts
+https://live.dinesh29.com.np/stream/livetv/starplushd/master.m3u8
+#http://nayatv.ydns.eu:80/xfireflix/flixfire/3714.ts
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/8/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 #৳/53.ts #/66166.ts
 #EXTM3U
 #EXTINF:-1 group-title="HINDI" tvg-logo="https://i.ibb.co/TD63zsxJ/IMG-20250717-212349.jpg",STAR BHARAT
-http://nayatv.ydns.eu:80/xfireflix/flixfire/3706.ts
+https://live.dinesh29.com.np/stream/livetv/starbharathd/master.m3u8
+#http://nayatv.ydns.eu:80/xfireflix/flixfire/3706.ts
 #৳/234.ts #/109951.ts https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/244/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 #EXTM3U
 #EXTINF:-1 group-title="HINDI" tvg-logo="https://i.ibb.co/rGJ2SKZC/IMG-20250717-212318.jpg",COLORS
-#https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_144.m3u8
-http://tv.bdiptv.store/live/restreauu/refstream/93.ts
+https://live.dinesh29.com.np/stream/livetv/colorshd/master.m3u8
+#http://tv.bdiptv.store/live/restreauu/refstream/93.ts
 #EXTM3U
 #EXTINF:-1 group-title="HINDI" tvg-logo="https://i.ibb.co/hRyCt5dV/IMG-20250717-212329.jpg", ANT TV HD
 https://m.xigzo.store/toffee-old/live.php?id=a6b5f6130cc5&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=a6b5f6130cc5&e=.m3u8
@@ -241,7 +243,8 @@ https://m.xigzo.store/toffee-old/live.php?id=d581dd66e556&e=.m3u8|Referer=https:
 #https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8 
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/cSRX9p0W/IMG-20250718-101842.png",STAR GOLD
-http://nayatv.ydns.eu:80/xfireflix/flixfire/3708.ts
+https://live.dinesh29.com.np/stream/livetv/stargoldhd/master.m3u8
+#http://nayatv.ydns.eu:80/xfireflix/flixfire/3708.ts
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/245/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 #ott/92.ts #/66177.ts
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/7JT10H4b/IMG-20250717-233627.jpg", COLORS C SUPER
@@ -333,21 +336,22 @@ https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8
 https://m.xigzo.store/toffee-old/live.php?id=86db7302947d&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=86db7302947d&e=.m3u8
 #EXTIM3U
 #EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co/yFtYnJ4D/IMG-20250717-211048.jpg",STAR SPORTS 1 HD
-http://103.120.172.74:5500
-#ott/89.ts #/167573.ts  https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/24/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 
+https://live.dinesh29.com.np/stream/livetv/starsports1hdhindi/master.m3u8
+#http://103.120.172.74:5500 #ott/89.ts #/167573.ts  https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/24/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 
 #EXTIM3U
 #EXTINF:-1 tvg-id="89" group-title="SPORTS" tvg-logo="https://i.ibb.co/chLHPVBr/IMG-20250717-211053.jpg",STAR SPORTS 2 HD 
-http://nayatv.ydns.eu:80/xfireflix/flixfire/12473.ts
-#http://103.120.172.74:4200
-#/167574.ts   http://tv.bdiptv.store/live/restream/restreamkk/90.ts
+https://live.dinesh29.com.np/stream/livetv/starsports2hd/master.m3u8
+#http://nayatv.ydns.eu:80/xfireflix/flixfire/12473.ts #http://103.120.172.74:4200 #/167574.ts   http://tv.bdiptv.store/live/restream/restreamkk/90.ts
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/235/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 #EXTIM3U
 #EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co/kVDCSGhP/IMG-20250717-211059.jpg",STAR SPORTS SELECT 1 HD
-http://103.120.172.74:1030
+https://live.dinesh29.com.np/stream/livetv/starsportsselecthd1/master.m3u8
+#http://103.120.172.74:1030
 #ott /88.ts #/167578.ts https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/246/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 #EXTIM3U
 #EXTINF:-1 tvg-id="89" group-title="SPORTS" tvg-logo="https://i.ibb.co/gZ4d2rN9/IMG-20250717-211105.jpg",STAR SPORTS SELECT 2 HD
-http://nayatv.ydns.eu:80/xfireflix/flixfire/12475.ts
+https://live.dinesh29.com.np/stream/livetv/starsportsselecthd2/master.m3u8
+#http://nayatv.ydns.eu:80/xfireflix/flixfire/12475.ts
 #http://103.120.172.74:4700
 #/15246.ts #/167579.ts 
 #EXTM3U
@@ -382,8 +386,8 @@ https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 https://jolshabd.com/live/mbanglatv/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/8nJ9Bxmh/images-1752772310380.png",DISCOVERY BANGLA
-#https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_573.m3u8
-http://tv.bdiptv.store/live/restreax/refstream/98.ts
+https://live.dinesh29.com.np/stream/tataplay/discoveryhdworld/master.m3u8
+#http://tv.bdiptv.store/live/restreax/refstream/98.ts
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/JWnVnKg1/download-1.jpg",SONY BBC HD
 https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
