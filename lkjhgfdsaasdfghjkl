@@ -191,7 +191,7 @@ https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_in
 https://tvsen5.aynaott.com/Wm9Lv2RjZGT6/tracks-v1a1/mono.ts.m3u8
 #https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/playlist.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-id="65" group-title="HINDI" tvg-logo="https://i.ibb.co/rGmRxKPb/IMG-20250717-212311.jpg",HUM TV 
+#EXTINF:-1 tvg-id="65" group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/rGmRxKPb/IMG-20250717-212311.jpg",HUM TV 
 https://m.xigzo.store/toffee-old/live.php?id=9406a312e417&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=9406a312e417&e=.m3u8
 #https://softbd24.com/new/toffee/live.php?id=7c21a8ade135&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=7c21a8ade135&e=.m3u8
 #EXTM3U
@@ -201,7 +201,8 @@ http://app.hughag.store/api/04cb8cb9a7/playlist.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/VcQHS9My/IMG-20250717-200902.jpg",COLORS BANGLA CINEMA 
-http://tv.bdiptv.store/live/restreauu/refstream/238.ts
+https://live.dinesh29.com.np/stream/jiotv/colorsbanglacinema/master.m3u8
+#http://tv.bdiptv.store/live/restreauu/refstream/238.ts
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/k2kbnmkj/IMG-20250717-200915.jpg",JALSHA MOVIES
 https://rex-streaming.vercel.app/api/Bdx2/83756.m3u8|user-agent=@xfireflix
@@ -251,8 +252,8 @@ https://live.dinesh29.com.np/stream/livetv/stargoldhd/master.m3u8
 #http://nayatv.ydns.eu:80/xfireflix/flixfire/3708.ts
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/7JT10H4b/IMG-20250717-233627.jpg", COLORS C SUPER
-#https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_1450.m3u8
-http://tv.bdiptv.store/live/restreauu/refstream/239.ts 
+https://live.dinesh29.com.np/stream/jiotv/colorscineplexsuperhit/master.m3u8
+#http://tv.bdiptv.store/live/restreauu/refstream/239.ts 
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/GQsKhHVP/IMG-20250718-101900.jpg", SONY MAX
 https://dish.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8
@@ -262,7 +263,7 @@ https://dish.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8
 http://filex.me:8080/998866/998866/512328
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/nqWbsHZP/IMG-20250717-233622.jpg",COLORS CINEPLEX
-http://opplex.tv:8080/live/inderjeet_hodal/987654321/104191.ts
+https://live.dinesh29.com.np/stream/jiotv/colorscineplex/master.m3u8
 #https://s111.twilightparadox.com/JIO1/live.php?id=482&key=JITENDRAUNATTI&e=.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/1tLzc4VB/IMG-20250718-101946.jpg",SONY WAH
