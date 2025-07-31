@@ -228,9 +228,8 @@ http://app.hughag.store/api/c8b4a2b335/playlist.m3u8
 http://app.hughag.store/api/526bde04a5/playlist.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeetvhd.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-id="0-9-zeeanmol" tvg-logo="https://i.ibb.co/wFvb08DT/IMG-20250717-212403.jpg" group-title="ENTERTAINMENT", ZEE ANMOL
-http://app.hughag.store/api/cf342d11fc/playlist.m3u8
-#https://live.drmlive-02.workers.dev/zee/zeeanmol.m3u8
+#EXTINF:-1 tvg-id="0-9-hum" tvg-logo="https://i.ibb.co/530J2sy/IMG-20250731-155110.jpg" group-title="ENTERTAINMENT", HUM SITAREY
+https://restreaming.sultanarabi161.workers.dev/azers/49158.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/yn3JBGsF/IMG-20250717-212337.jpg",SONY SAB
 http://app.hughag.store/api/67380c0ffa/playlist.m3u8
