@@ -171,12 +171,13 @@ http://app.hughag.store/api/154d534216/playlist.m3u8
 #http://kst.moonplex.net:8080/CH4/index.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/dJ7fbnR3/IMG-20250717-200840.jpg",ZEE BANGLA HD
-http://tv.bdiptv.store/live/restreauu/refstream/15252.m3u8
+https://tvsen5.aynaott.com/PNEb3v2q6GBk/index.m3u8
+#http://tv.bdiptv.store/live/restreauu/refstream/15252.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/N6ktzTjD/IMG-20250717-200855.jpg",COLORS BANGLA 
-https://live.dinesh29.com.np/stream/jiotv/colorsbanglasd/master.m3u8
-#https://tvsen5.aynaott.com/u3LkNQ7UHhFX/index.m3u8
+#https://live.dinesh29.com.np/stream/jiotv/colorsbanglasd/master.m3u8
+https://tvsen5.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 #http://tv.bdiptv.store/live/restreax/refstream/91.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/qYGLNSmC/IMG-20250717-203230.jpg",SONY AATH
@@ -385,7 +386,8 @@ https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 https://live.dinesh29.com.np/stream/jiotv/musicindia/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/8nJ9Bxmh/images-1752772310380.png",DISCOVERY BANGLA
-https://restreaming.sultanarabi161.workers.dev/azers/277415.m3u8
+https://tvsen6.aynaott.com/discovery_hd_bangla/mono.ts.m3u8
+#https://restreaming.sultanarabi161.workers.dev/azers/277415.m3u8
 #http://tv.bdiptv.store/live/restreauu/refstream/98.ts
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/JWnVnKg1/download-1.jpg",SONY BBC HD
