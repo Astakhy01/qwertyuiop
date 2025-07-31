@@ -208,7 +208,7 @@ http://app.hughag.store/api/04cb8cb9a7/playlist.m3u8
 https://live.dinesh29.com.np/stream/jiotv/colorsbanglacinema/master.m3u8
 #http://tv.bdiptv.store/live/restreauu/refstream/238.ts
 #EXTM3U
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/k2kbnmkj/IMG-20250717-200915.jpg", STAR JALSHA MOVIES
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/k2kbnmkj/IMG-20250717-200915.jpg",JALSHA MOVIES
 https://rex-streaming.vercel.app/api/Bdx2/83756.m3u8|user-agent=@xfireflix
 #http://tv.bdiptv.store/live/restreauu/refstream/81.ts
 #EXTM3U
