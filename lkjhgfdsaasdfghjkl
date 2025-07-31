@@ -174,7 +174,8 @@ http://tv.bdiptv.store/live/restreauu/refstream/15252.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/N6ktzTjD/IMG-20250717-200855.jpg",COLORS BANGLA 
-https://tvsen5.aynaott.com/u3LkNQ7UHhFX/index.m3u8
+https://live.dinesh29.com.np/stream/jiotv/colorsbanglasd/master.m3u8
+#https://tvsen5.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 #http://tv.bdiptv.store/live/restreax/refstream/91.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/qYGLNSmC/IMG-20250717-203230.jpg",SONY AATH
@@ -287,11 +288,13 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/3711.ts
 #http://opplex.tv:8080/live/inderjeet_hodal/987654321/221258.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/jktjPyy7/IMG-20250717-214658.jpg",NICK BANGLA
-https://live.dinesh29.com.np/stream/livetv/nickindia/master.m3u8
+https://live.dinesh29.com.np/stream/jiotv/nickbangla/master.m3u8
+#https://live.dinesh29.com.np/stream/livetv/nickindia/master.m3u8
 #http://tv.bdiptv.store/live/restreauu/refstream/96.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/9mR3MQ27/IMG-20250717-214708.jpg",SONIC BANGLA
-http://tv.bdiptv.store/live/restreauu/refstream/242.ts
+https://live.dinesh29.com.np/stream/jiotv/sonicbangla/master.m3u8
+#http://tv.bdiptv.store/live/restreauu/refstream/242.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/b5LLBn2W/IMG-20250717-214703.jpg", NICK JUNIOR
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3688.ts
