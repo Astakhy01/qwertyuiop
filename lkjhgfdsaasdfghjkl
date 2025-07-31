@@ -196,6 +196,9 @@ https://tvsen5.aynaott.com/Wm9Lv2RjZGT6/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="65" group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/rGmRxKPb/IMG-20250717-212311.jpg",HUM TV 
 http://app.hughag.store/api/4518a8c92f/playlist.m3u8
 #EXTM3U
+#EXTINF:-1 tvg-id="65" group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/530J2sy/IMG-20250731-155110.jpg", HUM SITAREY
+https://restreaming.sultanarabi161.workers.dev/azers/49158.m3u8
+#EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/ZRHcb1Vz/IMG-20250717-200848.jpg",ZEE BANGLA CINEMA
 http://app.hughag.store/api/04cb8cb9a7/playlist.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
@@ -204,7 +207,7 @@ http://app.hughag.store/api/04cb8cb9a7/playlist.m3u8
 https://live.dinesh29.com.np/stream/jiotv/colorsbanglacinema/master.m3u8
 #http://tv.bdiptv.store/live/restreauu/refstream/238.ts
 #EXTM3U
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/k2kbnmkj/IMG-20250717-200915.jpg",JALSHA MOVIES
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/k2kbnmkj/IMG-20250717-200915.jpg", STAR JALSHA MOVIES
 https://rex-streaming.vercel.app/api/Bdx2/83756.m3u8|user-agent=@xfireflix
 #http://tv.bdiptv.store/live/restreauu/refstream/81.ts
 #EXTM3U
@@ -227,9 +230,6 @@ http://app.hughag.store/api/c8b4a2b335/playlist.m3u8
 #EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="https://i.ibb.co/GgfVT6n/IMG-20250717-212324.jpg" group-title="ENTERTAINMENT", ZEE TV HD
 http://app.hughag.store/api/526bde04a5/playlist.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeetvhd.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-id="0-9-hum" tvg-logo="https://i.ibb.co/530J2sy/IMG-20250731-155110.jpg" group-title="ENTERTAINMENT", HUM SITAREY
-https://restreaming.sultanarabi161.workers.dev/azers/49158.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/yn3JBGsF/IMG-20250717-212337.jpg",SONY SAB
 http://app.hughag.store/api/67380c0ffa/playlist.m3u8
@@ -385,7 +385,8 @@ https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 https://live.dinesh29.com.np/stream/jiotv/musicindia/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/8nJ9Bxmh/images-1752772310380.png",DISCOVERY BANGLA
-http://tv.bdiptv.store/live/restreauu/refstream/98.ts
+https://restreaming.sultanarabi161.workers.dev/azers/277415.m3u8
+#http://tv.bdiptv.store/live/restreauu/refstream/98.ts
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/JWnVnKg1/download-1.jpg",SONY BBC HD
 https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
