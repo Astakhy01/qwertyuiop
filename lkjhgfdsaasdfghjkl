@@ -181,9 +181,9 @@ https://tvsen5.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 #http://tv.bdiptv.store/live/restreax/refstream/91.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/qYGLNSmC/IMG-20250717-203230.jpg",SONY AATH
-http://app.hughag.store/api/b6a720edea/playlist.m3u8
+#http://app.hughag.store/api/b6a720edea/playlist.m3u8
 #https://m.xigzo.store/toffee-old/live.php?id=707e4efbda57&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=707e4efbda57&e=.m3u8
-#https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
+https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X95oEAp4VtBVA4I2/8fISg", "kid":"Afe5979+Ql+G1t/UeDkOPw" } ], "type":"temporary" }
@@ -301,8 +301,8 @@ https://live.dinesh29.com.np/stream/jiotv/sonicbangla/master.m3u8
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3688.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/pjhF60q5/IMG-20250717-214739.jpg",SONY YAY
-http://app.hughag.store/api/b45f637d05/playlist.m3u8
-#https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
+#http://app.hughag.store/api/b45f637d05/playlist.m3u8
+https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/v4KZy9z9/IMG-20250717-214714.jpg",HUNGAMA 
 https://live.dinesh29.com.np/stream/livetv/hungamatv/master.m3u8
@@ -372,7 +372,7 @@ https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co/s90k3vJ8/IMG-20250717-214944.png ", NEWS 18 BANGLA
 https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co/twMLxtCt/IMG-20250802-201705.png", AAJ TAK
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co/350bzpb9/IMG-20250802-202954.jpg", AAJ TAK
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co/TxdzV62d/IMG-20250717-214951.png",ALJAZEERA
