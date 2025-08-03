@@ -159,7 +159,8 @@ https://jolshabd.com/live/mbanglatv/playlist.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/kswKddL5/IMG-20250717-200718.jpg",STAR JALSHA SD
-http://tv.bdiptv.store/live/restreauu/refstream/52.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/starjalsha/master.m3u8
+#http://tv.bdiptv.store/live/restreauu/refstream/52.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/Rp0LhC0Z/IMG-20250717-203236.jpg",STAR JALSHA HD
 https://tvsen5.aynaott.com/gUX8BJmNc2yF/index.m3u8
@@ -223,6 +224,9 @@ https://live.dinesh29.com.np/stream/jiotv/colorsbanglacinema/master.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/k2kbnmkj/IMG-20250717-200915.jpg",JALSHA MOVIES
 https://rex-streaming.vercel.app/api/Bdx2/83756.m3u8|user-agent=@xfireflix
 #http://tv.bdiptv.store/live/restreauu/refstream/81.ts
+#EXTM3U
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/k2kbnmkj/IMG-20250717-200915.jpg",JALSHA MOVIES
+https://live.dinesh29.com.np/stream/jiotvplus/jalshamovies/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/Cs0M4P1R/IMG-20250717-212357.jpg", STAR PLUS HD
 https://live.dinesh29.com.np/stream/livetv/starplushd/master.m3u8
@@ -317,7 +321,8 @@ https://live.dinesh29.com.np/stream/jiotv/sonicbangla/master.m3u8
 #http://tv.bdiptv.store/live/restreauu/refstream/242.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/b5LLBn2W/IMG-20250717-214703.jpg", NICK JUNIOR
-http://nayatv.ydns.eu:80/xfireflix/flixfire/3688.ts
+https://live.dinesh29.com.np/stream/jiotvplus/nickjunior/master.m3u8
+#http://nayatv.ydns.eu:80/xfireflix/flixfire/3688.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/pjhF60q5/IMG-20250717-214739.jpg",SONY YAY
 https://bd.drmlive.net/toffee/cdn/live/sonyyay/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
@@ -337,17 +342,19 @@ https://live.dinesh29.com.np/stream/livetv/disneychannel/master.m3u8
 #http://nayatv.ydns.eu:80/xfireflix/flixfire/3671.ts #ott/71.ts 
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/sJNXVcW9/IMG-20250717-214734.jpg",DISNEY JUNIOR
-http://nayatv.ydns.eu:80/xfireflix/flixfire/3672.ts
+https://live.dinesh29.com.np/stream/jiotvplus/disneyjunior/master.m3u8
+#http://nayatv.ydns.eu:80/xfireflix/flixfire/3672.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/qMVcJfMy/IMG-20250717-214649.jpg", CARTOON HD
-https://tv.bongoflix.top/toffee/live.php?id=8be5ec5d5d7c&e=.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/cartoonnetworkhindi/master.m3u8
+#https://tv.bongoflix.top/toffee/live.php?id=8be5ec5d5d7c&e=.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/8Lx0Q68h/IMG-20250717-214744.jpg",POGO KIDS
-http://filex.me:8080/1234567/7654321/320
+https://live.dinesh29.com.np/stream/jiotvplus/pogohindi/master.m3u8
 #https://tv.bongoflix.top/toffee/live.php?id=38060f0d4077&e=.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/jZVqBs8f/IMG-20250717-214749.jpg",DISCOVERY KIDS
-http://filex.me:8080/1234567/7654321/304200
+https://live.dinesh29.com.np/stream/jiotvplus/discoverykids2/master.m3u8
 #https://tv.bongoflix.top/toffee/live.php?id=1fe9cf550c24&e=.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -423,28 +430,31 @@ https://tvsen6.aynaott.com/discovery_hd_bangla/mono.ts.m3u8
 https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/ZRdHXKmN/download-2.png",TLC
-http://filex.me:8080/1234567/7654321/246731
+https://live.dinesh29.com.np/stream/jiotvplus/tlchd/master.m3u8
 #https://tv.bongoflix.top/toffee/live.php?id=090bf33a56cb&=.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/93wvskZX/images.jpg",DISCOVERY SCIENCE
-https://tv.bongoflix.top/toffee/live.php?id=591ea81b1aba&e=.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/discoveryscience/master.m3u8
+#https://tv.bongoflix.top/toffee/live.php?id=591ea81b1aba&e=.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/KdmfJ1h/images-1.jpg",INVESTIGATION DISCOVERY
-http://app.hughag.store/api/7e70626a3c/playlist.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/investigationdiscovery/master.m3u8
+#http://app.hughag.store/api/7e70626a3c/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/MW8DZ0v/IMG-20250718-101837.jpg",DISCOVERY TURBO
-https://tv.bongoflix.top/toffee/live.php?id=a051de5ade20&e=.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/discoveryturbo/master.m3u8
+#https://tv.bongoflix.top/toffee/live.php?id=a051de5ade20&e=.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/cKbBQz5M/download-1.png", ANIMAL PLANET HD
 https://softbd24.com/new/toffee/live.php?id=f70ef199f41d&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=f70ef199f41d&e=.m3u8
 #http://app.hughag.store/api/ac7673685c/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/hJjHxdFF/images-1.png",NATIONAL
-http://filex.me:8080/1234567/7654321/246739
+https://live.dinesh29.com.np/stream/jiotvplus/nationalgeographichd/master.m3u8
 #http://nayatv.ydns.eu:80/xfireflix/flixfire/3684.ts
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/C5QCGC4S/images-1752771267147.png",WILD
-http://filex.me:8080/1234567/7654321/246727
+https://live.dinesh29.com.np/stream/jiotvplus/natgeowildhd/master.m3u8
 #http://nayatv.ydns.eu:80/xfireflix/flixfire/3686.ts
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/nshKxpy9/download.jpg",HUM MASALA
