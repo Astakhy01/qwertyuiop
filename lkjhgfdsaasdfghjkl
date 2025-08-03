@@ -182,7 +182,8 @@ https://tvsen5.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 #http://tv.bdiptv.store/live/restreax/refstream/91.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/qYGLNSmC/IMG-20250717-203230.jpg",SONY AATH
-https://bd.drmlive.net/toffee/cdn/live/sonyaath/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://softbd24.com/new/toffee/live.php?id=7e00fee81848&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=7e00fee81848&e=.m3u8
+#https://bd.drmlive.net/toffee/cdn/live/sonyaath/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #http://app.hughag.store/api/b6a720edea/playlist.m3u8
 #https://m.xigzo.store/toffee-old/live.php?id=707e4efbda57&e=.m3u8|Referer=https://m.xigzo.store/toffee-old/live.php?id=707e4efbda57&e=.m3u8
 #https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
@@ -339,14 +340,13 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/3672.ts
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/qMVcJfMy/IMG-20250717-214649.jpg", CARTOON HD
 https://tv.bongoflix.top/toffee/live.php?id=8be5ec5d5d7c&e=.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/B5P8YJrm/IMG-20250717-214654.jpg",CARTOON HD +
-https://tv.bongoflix.top/toffee/live.php?id=206c4fa8e760&e=.m3u8
-#EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/8Lx0Q68h/IMG-20250717-214744.jpg",POGO KIDS
-https://tv.bongoflix.top/toffee/live.php?id=38060f0d4077&e=.m3u8
+http://filex.me:8080/1234567/7654321/320
+#https://tv.bongoflix.top/toffee/live.php?id=38060f0d4077&e=.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/jZVqBs8f/IMG-20250717-214749.jpg",DISCOVERY KIDS
-https://tv.bongoflix.top/toffee/live.php?id=1fe9cf550c24&e=.m3u8
+http://filex.me:8080/1234567/7654321/304200
+#https://tv.bongoflix.top/toffee/live.php?id=1fe9cf550c24&e=.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec087eb4cd899e1a068083608f0aa3f6:f36cd5dddd56ca76246a62b7b02148c9
@@ -421,7 +421,8 @@ https://tvsen6.aynaott.com/discovery_hd_bangla/mono.ts.m3u8
 https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/ZRdHXKmN/download-2.png",TLC
-https://tv.bongoflix.top/toffee/live.php?id=090bf33a56cb&=.m3u8
+http://filex.me:8080/1234567/7654321/246731
+#https://tv.bongoflix.top/toffee/live.php?id=090bf33a56cb&=.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/93wvskZX/images.jpg",DISCOVERY SCIENCE
 https://tv.bongoflix.top/toffee/live.php?id=591ea81b1aba&e=.m3u8
@@ -433,13 +434,16 @@ http://app.hughag.store/api/7e70626a3c/playlist.m3u8
 https://tv.bongoflix.top/toffee/live.php?id=a051de5ade20&e=.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/cKbBQz5M/download-1.png", ANIMAL PLANET HD
-http://app.hughag.store/api/ac7673685c/playlist.m3u8
+https://softbd24.com/new/toffee/live.php?id=f70ef199f41d&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=f70ef199f41d&e=.m3u8
+#http://app.hughag.store/api/ac7673685c/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/hJjHxdFF/images-1.png",NATIONAL
-http://nayatv.ydns.eu:80/xfireflix/flixfire/3684.ts
+http://filex.me:8080/1234567/7654321/246739
+#http://nayatv.ydns.eu:80/xfireflix/flixfire/3684.ts
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/C5QCGC4S/images-1752771267147.png",WILD
-http://nayatv.ydns.eu:80/xfireflix/flixfire/3686.ts
+http://filex.me:8080/1234567/7654321/246727
+#http://nayatv.ydns.eu:80/xfireflix/flixfire/3686.ts
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/nshKxpy9/download.jpg",HUM MASALA
 https://softbd24.com/new/toffee/live.php?id=406435b761ad&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=406435b761ad&e=.m3u8
