@@ -228,17 +228,18 @@ https://rex-streaming.vercel.app/api/Bdx2/83756.m3u8|user-agent=@xfireflix
 https://live.dinesh29.com.np/stream/jiotvplus/jalshamovies/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/Cs0M4P1R/IMG-20250717-212357.jpg", STAR PLUS HD
-https://live.dinesh29.com.np/stream/jiotvplus/starplus/master.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/starplushd/master.m3u8
 #https://live.dinesh29.com.np/stream/livetv/starplushd/master.m3u8
 #http://nayatv.ydns.eu:80/xfireflix/flixfire/3714.ts
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/TD63zsxJ/IMG-20250717-212349.jpg",STAR BHARAT
-https://live.dinesh29.com.np/stream/jiotvplus/starbharat/master.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/starbharathd/master.m3u8
 #https://live.dinesh29.com.np/stream/livetv/starbharathd/master.m3u8
 #http://nayatv.ydns.eu:80/xfireflix/flixfire/3706.ts
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/rGJ2SKZC/IMG-20250717-212318.jpg",COLORS
-https://live.dinesh29.com.np/stream/livetv/colorshd/master.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/colorshd/master.m3u8
+#https://live.dinesh29.com.np/stream/livetv/colorshd/master.m3u8
 #http://tv.bdiptv.store/live/restreauu/refstream/93.ts
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/hRyCt5dV/IMG-20250717-212329.jpg", ANT TV HD
