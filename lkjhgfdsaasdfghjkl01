@@ -307,12 +307,12 @@ https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 #https://tumar-abbu.pages.dev/WavesOTT/B4U-Movies/tracks-v1a1/mono.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/M5gwSXpx/IMG-20250718-101914.jpg", STAR GOLD 2
-http://66.102.120.18:8000/play/a00g/index.m3u8
-#http://nayatv.ydns.eu:80/xfireflix/flixfire/3707.ts
+#http://66.102.120.18:8000/play/a00g/index.m3u8
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3707.ts
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/TMzr1Rt5/IMG-20250718-101846.jpg", STAR THRILLS
-http://66.102.120.18:8000/play/a00c/index.m3u8
-#http://nayatv.ydns.eu:80/xfireflix/flixfire/3711.ts
+#http://66.102.120.18:8000/play/a00c/index.m3u8
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3711.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/jktjPyy7/IMG-20250717-214658.jpg",NICK BANGLA
 https://live.dinesh29.com.np/stream/jiotv/nickbangla/master.m3u8
@@ -413,8 +413,7 @@ https://softbd24.com/new/toffee/live.php?id=258468998307&e=.m3u8|Referer=https:/
 #http://app.hughag.store/api/ef22d71b0e/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="90" group-title="SPORTS" tvg-logo="https://i.ibb.co/PzVgWRzX/IMG-20250803-202204.png", P SPORTS 
-http://filex.me:8080/live/444476/444476/453434.m3u8
-#http://nayatv.ydns.eu:80/xfireflix/flixfire/12331.ts
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12331.ts
 #EXTM3U
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co/x8KL558m/IMG-20250717-215016.jpg", ZEE 24
 https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
@@ -474,12 +473,12 @@ https://live.dinesh29.com.np/stream/jiotvplus/nationalgeographichd/master.m3u8
 #http://nayatv.ydns.eu:80/xfireflix/flixfire/3684.ts
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/C5QCGC4S/images-1752771267147.png",WILD
-https://live.dinesh29.com.np/stream/jiotvplus/natgeowildhd/master.m3u8
-#http://nayatv.ydns.eu:80/xfireflix/flixfire/3686.ts
+#https://live.dinesh29.com.np/stream/jiotvplus/natgeowildhd/master.m3u8
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3686.ts
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/nshKxpy9/download.jpg",HUM MASALA
-https://softbd24.com/new/toffee/live.php?id=406435b761ad&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=406435b761ad&e=.m3u8
-#http://nayatv.ydns.eu:80/xfireflix/flixfire/3792.ts
+#https://softbd24.com/new/toffee/live.php?id=406435b761ad&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=406435b761ad&e=.m3u8
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3792.ts
 #EXTM3U
 #EXTINF:-1 group-title="RELIGIOUS" tvg-logo="https://i.ibb.co/SXmV3J33/IMG-20250717-214637.jpg",MAKKAH
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
