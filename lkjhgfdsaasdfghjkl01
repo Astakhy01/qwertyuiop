@@ -152,9 +152,8 @@ https://tvsen5.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/2TwFvnR/IMG-20250729-093750.jpg",RAJDHANI TV HD
-https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-#https://jolshabd.com/live/mbanglatv/playlist.m3u8
-#https://245776.global.ssl.fastly.net/6879e8ee77e0446a696d1151/live_3da47c406aff11f09eae15ab4af69ae3/index.m3u8
+#https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+https://jolshabd.com/live/mbanglatv/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/qM5552tC/IMG-20250718-103121.jpg",S TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
@@ -424,7 +423,8 @@ https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ebaeb181f20ef45689a3b306545792c:41ff280dc2d57eaf290bc588d821bb35
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/ZzDHB4DR/IMG-20250717-212423.jpg",SANGEET BANGLA MUSIC 
-https://live2.shoq.com.pk/live/eds/8_XM/DASH/8_XM.mpd
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/montv.stream/playlist.m3u8
+#https://live2.shoq.com.pk/live/eds/8_XM/DASH/8_XM.mpd
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/8nJ9Bxmh/images-1752772310380.png",DISCOVERY BANGLA
 https://tvsen6.aynaott.com/discovery_hd_bangla/mono.ts.m3u8
