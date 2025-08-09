@@ -201,10 +201,11 @@ http://app.hughag.store/api/4518a8c92f/playlist.m3u8
 #https://softbd24.com/new/toffee/live.php?id=598a5e7df0bd&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=598a5e7df0bd&e=.m3u8
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3795.ts
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b7a0caf4ffb4b8010eeb51558ca2d29a:26220c96f83015d580f455baa4dbfe20
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0yxc3ZRn/IMG-20250802-201714.jpg" group-title="ENTERTAINMENT",ARY ZINDAGI
-https://live2.shoq.com.pk/live/eds/ARY_Zindagae/DASH/ARY_Zindagae.mpd
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jk64jDLm/IMG-20250802-202947.jpg" group-title="NEWS", GEO NEWS
+
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/ZRHcb1Vz/IMG-20250717-200848.jpg",ZEE BANGLA CINEMA
 http://app.hughag.store/api/04cb8cb9a7/playlist.m3u8
@@ -405,11 +406,6 @@ https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co/s90k3vJ8/IMG-20250717-214944.png ", NEWS 18 BANGLA
 https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c70965dd6e0138bba0e754a782ba76:4f78ca41cda11fb207631815f0d414f4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jk64jDLm/IMG-20250802-202947.jpg" group-title="NEWS", GEO NEWS
-https://live2.shoq.com.pk/live/eds/Geo_News/DASH/Geo_News.mpd
 #EXTM3U
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co/350bzpb9/IMG-20250802-202954.jpg", AAJ TAK
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
