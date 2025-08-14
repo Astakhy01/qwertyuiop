@@ -265,7 +265,7 @@ https://dish.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8
 #https://dish.slivcdn.com/hls/live/2011745-b/SonyMaxSD/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/gZ1THDHC/IMG-20250718-101905.jpg",SONY MAX 1
-http://filex.me:8080/998866/998866/512328
+https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/96133332/master.m3u8%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/nqWbsHZP/IMG-20250717-233622.jpg",COLORS CINEPLEX
 #EXTM3U
@@ -327,8 +327,9 @@ https://live.dinesh29.com.np/stream/jiotvplus/superhungama/master.m3u8
 #https://live.dinesh29.com.np/stream/livetv/disneyxd/master.m3u8 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/587/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/B2n6cQJ4/IMG-20250717-214728.jpg",DISNEP CHANNEL
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3671.ts
 #http://66.102.120.18:8000/play/a070/index.m3u8
-http://tv.bdiptv.store/live/restreauu/refstream/71.ts 
+#http://tv.bdiptv.store/live/restreauu/refstream/71.ts 
 #https://live.dinesh29.com.np/stream/livetv/disneychannel/master.m3u8 #http://nayatv.ydns.eu:80/xfireflix/flixfire/3671.ts 
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/sJNXVcW9/IMG-20250717-214734.jpg",DISNEY JUNIOR
@@ -466,7 +467,8 @@ http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
 https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/QjcNdL48/IMG-20250717-233746.png",STAR MOVIES HD 
-http://tv.bdiptv.store/live/restreauu/refstream/95.ts
+https://live.dinesh29.com.np/stream/jiotvplus/starmovieshd/master.m3u8
+#http://tv.bdiptv.store/live/restreauu/refstream/95.ts
 #http://starshare.org/live/kumar11/kumar11/9384.ts
 #EXTM3U 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/Fkp7JYrj/IMG-20250717-233602.png",STAR MOVIES SELECT HD
