@@ -335,8 +335,8 @@ https://os.mxonlive.workers.dev/o/disney/277002.m3u8
 #https://live.dinesh29.com.np/stream/livetv/disneychannel/master.m3u8 #http://nayatv.ydns.eu:80/xfireflix/flixfire/3671.ts 
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/sJNXVcW9/IMG-20250717-214734.jpg",DISNEY JUNIOR
-https://live.dinesh29.com.np/stream/jiotvplus/disneyjunior/master.m3u8
-#http://nayatv.ydns.eu:80/xfireflix/flixfire/3672.ts
+#https://live.dinesh29.com.np/stream/jiotvplus/disneyjunior/master.m3u8
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3672.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/qMVcJfMy/IMG-20250717-214649.jpg", CARTOON HD
 http://app.hughag.store/api/68b0f4e13e/playlist.m3u8
