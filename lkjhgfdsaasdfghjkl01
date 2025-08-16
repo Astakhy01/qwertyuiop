@@ -209,15 +209,15 @@ http://app.hughag.store/api/04cb8cb9a7/playlist.m3u8
 #https://bd.drmlive.net/toffee/cdn/live/zee_bangla_cinema/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/VcQHS9My/IMG-20250717-200902.jpg",COLORS BANGLA CINEMA 
-https://live.dinesh29.com.np/stream/jiotv/colorsbanglacinema/master.m3u8
-#http://tv.bdiptv.store/live/restreauu/refstream/238.ts
+#https://live.dinesh29.com.np/stream/jiotv/colorsbanglacinema/master.m3u8
+http://tv.bdiptv.store/live/restreauu/refstream/238.ts
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/k2kbnmkj/IMG-20250717-200915.jpg",JALSHA MOVIES
 https://rex-streaming.vercel.app/api/Bdx2/83756.m3u8|user-agent=@xfireflix
 #http://tv.bdiptv.store/live/restreauu/refstream/81.ts
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/k2kbnmkj/IMG-20250717-200915.jpg",JALSHA MOVIES
-https://live.dinesh29.com.np/stream/jiotvplus/jalshamovies/master.m3u8
+#https://live.dinesh29.com.np/stream/jiotvplus/jalshamovies/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/Cs0M4P1R/IMG-20250717-212357.jpg", STAR PLUS HD
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3714.ts
@@ -302,17 +302,17 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/3707.ts
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3711.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/jktjPyy7/IMG-20250717-214658.jpg",NICK BANGLA
-https://live.dinesh29.com.np/stream/jiotv/nickbangla/master.m3u8
+#https://live.dinesh29.com.np/stream/jiotv/nickbangla/master.m3u8
 #https://live.dinesh29.com.np/stream/livetv/nickindia/master.m3u8
-#http://tv.bdiptv.store/live/restreauu/refstream/96.ts
+http://tv.bdiptv.store/live/restreauu/refstream/96.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/9mR3MQ27/IMG-20250717-214708.jpg",SONIC BANGLA
-https://live.dinesh29.com.np/stream/jiotv/sonicbangla/master.m3u8
-#http://tv.bdiptv.store/live/restreauu/refstream/242.ts
+#https://live.dinesh29.com.np/stream/jiotv/sonicbangla/master.m3u8
+http://tv.bdiptv.store/live/restreauu/refstream/242.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/b5LLBn2W/IMG-20250717-214703.jpg", NICK JUNIOR
-https://live.dinesh29.com.np/stream/jiotvplus/nickjunior/master.m3u8
-#http://nayatv.ydns.eu:80/xfireflix/flixfire/3688.ts
+#https://live.dinesh29.com.np/stream/jiotvplus/nickjunior/master.m3u8
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3688.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/pjhF60q5/IMG-20250717-214739.jpg",SONY YAY
 http://app.hughag.store/api/b45f637d05/playlist.m3u8
