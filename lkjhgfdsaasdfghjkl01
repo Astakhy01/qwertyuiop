@@ -366,24 +366,27 @@ http://app.hughag.store/api/6b9c461155/playlist.m3u8
 #https://softbd24.com/new/toffee/live.php?id=f76c7eb00da0&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=f76c7eb00da0&e=.m3u8
 #EXTIM3U
 #EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co/yFtYnJ4D/IMG-20250717-211048.jpg",STAR SPORTS 1 HD
-https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1hindi/master.m3u8
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3715.ts
+#https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1hindi/master.m3u8
 #https://live.dinesh29.com.np/stream/livetv/starsports1hdhindi/master.m3u8
 #ott/89.ts  http://103.120.172.74:5500 
 #EXTIM3U
 #EXTINF:-1 tvg-id="89" group-title="SPORTS" tvg-logo="https://i.ibb.co/chLHPVBr/IMG-20250717-211053.jpg",STAR SPORTS 2 HD 
-https://live.dinesh29.com.np/stream/jiotvplus/starsports2hindi/master.m3u8
+http://nayatv.ydns.eu:80/xfireflix/flixfire/11677.ts
+#https://live.dinesh29.com.np/stream/jiotvplus/starsports2hindi/master.m3u8
 #https://live.dinesh29.com.np/stream/livetv/starsports2hd/master.m3u8
-#http://nayatv.ydns.eu:80/xfireflix/flixfire/12473.ts # ott/90.ts http://103.120.172.74:4200
 #EXTIM3U
 #EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co/kVDCSGhP/IMG-20250717-211059.jpg",STAR SPORTS SELECT 1 HD
-https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd1/master.m3u8
+http://nayatv.ydns.eu:80/xfireflix/flixfire/11678.ts
+#https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd1/master.m3u8
 #https://live.dinesh29.com.np/stream/livetv/starsportsselecthd1/master.m3u8
 #http://103.120.172.74:1030 #ott/88.ts
 #EXTIM3U
 #EXTINF:-1 tvg-id="89" group-title="SPORTS" tvg-logo="https://i.ibb.co/gZ4d2rN9/IMG-20250717-211105.jpg",STAR SPORTS SELECT 2 HD
-https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd2/master.m3u8
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3720.ts
+#https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd2/master.m3u8
 #https://live.dinesh29.com.np/stream/livetv/starsportsselecthd2/master.m3u8
-#http://nayatv.ydns.eu:80/xfireflix/flixfire/12475.ts #http://103.120.172.74:4700
+#http://103.120.172.74:4700
 #EXTM3U
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/20hm5LjP/IMG-20250717-211016.jpg",SONY SPORTS 1 HD
 https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
@@ -469,7 +472,8 @@ http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
 https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/QjcNdL48/IMG-20250717-233746.png",STAR MOVIES HD 
-https://live.dinesh29.com.np/stream/jiotvplus/starmovieshd/master.m3u8
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3713.ts
+#https://live.dinesh29.com.np/stream/jiotvplus/starmovieshd/master.m3u8
 #http://tv.bdiptv.store/live/restreauu/refstream/95.ts
 #http://starshare.org/live/kumar11/kumar11/9384.ts
 #EXTM3U 
