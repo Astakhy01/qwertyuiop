@@ -225,7 +225,8 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/3706.ts
 #https://live.dinesh29.com.np/stream/jiotvplus/starbharathd/master.m3u8 #https://live.dinesh29.com.np/stream/livetv/starbharathd/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/rGJ2SKZC/IMG-20250717-212318.jpg",COLORS
-https://live.dinesh29.com.np/stream/jiotvplus/colorshd/master.m3u8
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3665.ts
+#https://live.dinesh29.com.np/stream/jiotvplus/colorshd/master.m3u8
 #https://live.dinesh29.com.np/stream/livetv/colorshd/master.m3u8
 #http://tv.bdiptv.store/live/restreauu/refstream/93.ts
 #EXTM3U
