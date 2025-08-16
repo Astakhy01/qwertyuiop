@@ -319,10 +319,9 @@ http://app.hughag.store/api/b45f637d05/playlist.m3u8
 #https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/v4KZy9z9/IMG-20250717-214714.jpg",HUNGAMA 
-https://xfireflix.fun/file/CDNxBDX.php?id=150480&e=.m3u8
 #https://live.dinesh29.com.np/stream/livetv/hungamatv/master.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/hungama/master.m3u8
-#http://nayatv.ydns.eu:80/xfireflix/flixfire/3678.ts
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3678.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/TN4RVbL/IMG-20250717-214720.jpg",SUPER HUNGAMA
 https://live.dinesh29.com.np/stream/jiotvplus/superhungama/master.m3u8
