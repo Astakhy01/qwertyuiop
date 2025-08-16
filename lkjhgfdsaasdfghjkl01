@@ -216,9 +216,6 @@ http://tv.bdiptv.store/live/restreauu/refstream/238.ts
 https://rex-streaming.vercel.app/api/Bdx2/83756.m3u8|user-agent=@xfireflix
 #http://tv.bdiptv.store/live/restreauu/refstream/81.ts
 #EXTM3U
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/k2kbnmkj/IMG-20250717-200915.jpg",JALSHA MOVIES
-#https://live.dinesh29.com.np/stream/jiotvplus/jalshamovies/master.m3u8
-#EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/Cs0M4P1R/IMG-20250717-212357.jpg", STAR PLUS HD
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3714.ts
 #https://live.dinesh29.com.np/stream/jiotvplus/starplushd/master.m3u8 #https://live.dinesh29.com.np/stream/livetv/starplushd/master.m3u8
@@ -268,16 +265,6 @@ https://dish.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/gZ1THDHC/IMG-20250718-101905.jpg",SONY MAX 1
 https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/96133332/master.m3u8%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 #EXTM3U
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/nqWbsHZP/IMG-20250717-233622.jpg",COLORS CINEPLEX
-#EXTM3U
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/7JT10H4b/IMG-20250717-233627.jpg", COLORS C SUPER
-#EXTM3U
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co/s90k3vJ8/IMG-20250717-214944.png ", NEWS 18 BANGLA
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0yxc3ZRn/IMG-20250802-201714.jpg" group-title="ENTERTAINMENT",ARY ZINDAGI
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jk64jDLm/IMG-20250802-202947.jpg" group-title="NEWS", GEO NEWS
-#EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/1tLzc4VB/IMG-20250718-101946.jpg",SONY WAH
 https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
 #EXTM3U
@@ -300,6 +287,19 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/3707.ts
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/TMzr1Rt5/IMG-20250718-101846.jpg", STAR THRILLS
 #http://66.102.120.18:8000/play/a00c/index.m3u8
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3711.ts
+#EXTM3U
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/ZymRJ57/IMG-20250717-233557.jpg",SONY PIX HD
+https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/QjcNdL48/IMG-20250717-233746.png",STAR MOVIES HD 
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3713.ts
+#https://live.dinesh29.com.np/stream/jiotvplus/starmovieshd/master.m3u8
+#http://tv.bdiptv.store/live/restreauu/refstream/95.ts
+#http://starshare.org/live/kumar11/kumar11/9384.ts
+#EXTM3U 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/Fkp7JYrj/IMG-20250717-233602.png",STAR MOVIES SELECT HD
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
+#EXTM3U
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/jktjPyy7/IMG-20250717-214658.jpg",NICK BANGLA
 #https://live.dinesh29.com.np/stream/jiotv/nickbangla/master.m3u8
@@ -357,70 +357,12 @@ http://app.hughag.store/api/aec911dc04/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=ec087eb4cd899e1a068083608f0aa3f6:f36cd5dddd56ca76246a62b7b02148c9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFP42cvQ/IMG-20250802-202951.jpg" group-title="KIDS",KIDS ZONE
 https://live2.shoq.com.pk/live/eds/Kids_Zone_Plus/DASH/Kids_Zone_Plus.mpd
-#EXTIM3U
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/chXwYt9n/IMG-20250717-211123.jpg",T SPORTS HD
-https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/MDDnLGG8/IMG-20250717-211117.jpg",TEN SPORTS HD
-http://app.hughag.store/api/6b9c461155/playlist.m3u8
-#https://softbd24.com/new/toffee/live.php?id=f76c7eb00da0&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=f76c7eb00da0&e=.m3u8
-#EXTIM3U
-#EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co/yFtYnJ4D/IMG-20250717-211048.jpg",STAR SPORTS 1 HD
-http://nayatv.ydns.eu:80/xfireflix/flixfire/3715.ts
-#https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1hindi/master.m3u8
-#https://live.dinesh29.com.np/stream/livetv/starsports1hdhindi/master.m3u8
-#ott/89.ts  http://103.120.172.74:5500 
-#EXTIM3U
-#EXTINF:-1 tvg-id="89" group-title="SPORTS" tvg-logo="https://i.ibb.co/chLHPVBr/IMG-20250717-211053.jpg",STAR SPORTS 2 HD 
-http://nayatv.ydns.eu:80/xfireflix/flixfire/11677.ts
-#https://live.dinesh29.com.np/stream/jiotvplus/starsports2hindi/master.m3u8
-#https://live.dinesh29.com.np/stream/livetv/starsports2hd/master.m3u8
-#EXTIM3U
-#EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co/kVDCSGhP/IMG-20250717-211059.jpg",STAR SPORTS SELECT 1 HD
-http://nayatv.ydns.eu:80/xfireflix/flixfire/11678.ts
-#https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd1/master.m3u8
-#https://live.dinesh29.com.np/stream/livetv/starsportsselecthd1/master.m3u8
-#http://103.120.172.74:1030 #ott/88.ts
-#EXTIM3U
-#EXTINF:-1 tvg-id="89" group-title="SPORTS" tvg-logo="https://i.ibb.co/gZ4d2rN9/IMG-20250717-211105.jpg",STAR SPORTS SELECT 2 HD
-http://nayatv.ydns.eu:80/xfireflix/flixfire/3720.ts
-#https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd2/master.m3u8
-#https://live.dinesh29.com.np/stream/livetv/starsportsselecthd2/master.m3u8
-#http://103.120.172.74:4700
+#EXTINF:-1 group-title="RELIGIOUS" tvg-logo="https://i.ibb.co/SXmV3J33/IMG-20250717-214637.jpg",MAKKAH
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/20hm5LjP/IMG-20250717-211016.jpg",SONY SPORTS 1 HD
-https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
-#EXTM3U
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/Dg6mr7hV/IMG-20250717-211026.jpg",SONY SPORTS 2 HD
-https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
-#EXTM3U
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/wNFmZBqf/IMG-20250717-211034.jpg",SONY SPORTS 5 HD
-https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-id="90" group-title="SPORTS" tvg-logo="https://i.ibb.co/B2Y02XxR/IMG-20250717-211128.jpg",EURO SPORTS HD 
-http://app.hughag.store/api/ef22d71b0e/playlist.m3u8
-#https://softbd24.com/new/toffee/live.php?id=258468998307&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=258468998307&e=.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-id="90" group-title="SPORTS" tvg-logo="https://i.ibb.co/PzVgWRzX/IMG-20250803-202204.png", P SPORTS 
-http://nayatv.ydns.eu:80/xfireflix/flixfire/12331.ts
-#EXTM3U
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co/x8KL558m/IMG-20250717-215016.jpg", ZEE 24
-https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
-#EXTM3U
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co/350bzpb9/IMG-20250802-202954.jpg", AAJ TAK
-https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
-#EXTM3U
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co/TxdzV62d/IMG-20250717-214951.png",ALJAZEERA
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTM3U
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/ks6PspYW/b4u-logo-400.jpg",B4U MUSIC
-https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/1.m3u8
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ebaeb181f20ef45689a3b306545792c:41ff280dc2d57eaf290bc588d821bb35
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/ZzDHB4DR/IMG-20250717-212423.jpg",SANGEET BANGLA MUSIC 
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/montv.stream/playlist.m3u8
-#https://live2.shoq.com.pk/live/eds/8_XM/DASH/8_XM.mpd
+#EXTINF:-1 group-title="RELIGIOUS" tvg-logo="https://i.ibb.co/JjXT3rbX/IMG-20250717-214631.jpg", AL SUNNAH TV
+http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/8nJ9Bxmh/images-1752772310380.png",DISCOVERY BANGLA
 https://tvsen6.aynaott.com/discovery_hd_bangla/mono.ts.m3u8
@@ -462,21 +404,77 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/3686.ts
 #https://softbd24.com/new/toffee/live.php?id=406435b761ad&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=406435b761ad&e=.m3u8
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3792.ts
 #EXTM3U
-#EXTINF:-1 group-title="RELIGIOUS" tvg-logo="https://i.ibb.co/SXmV3J33/IMG-20250717-214637.jpg",MAKKAH
-https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co/x8KL558m/IMG-20250717-215016.jpg", ZEE 24
+https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="RELIGIOUS" tvg-logo="https://i.ibb.co/JjXT3rbX/IMG-20250717-214631.jpg", AL SUNNAH TV
-http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co/350bzpb9/IMG-20250802-202954.jpg", AAJ TAK
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/ZymRJ57/IMG-20250717-233557.jpg",SONY PIX HD
-https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co/TxdzV62d/IMG-20250717-214951.png",ALJAZEERA
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/QjcNdL48/IMG-20250717-233746.png",STAR MOVIES HD 
-http://nayatv.ydns.eu:80/xfireflix/flixfire/3713.ts
-#https://live.dinesh29.com.np/stream/jiotvplus/starmovieshd/master.m3u8
-#http://tv.bdiptv.store/live/restreauu/refstream/95.ts
-#http://starshare.org/live/kumar11/kumar11/9384.ts
-#EXTM3U 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/Fkp7JYrj/IMG-20250717-233602.png",STAR MOVIES SELECT HD
-https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/ks6PspYW/b4u-logo-400.jpg",B4U MUSIC
+https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/1.m3u8
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ebaeb181f20ef45689a3b306545792c:41ff280dc2d57eaf290bc588d821bb35
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/ZzDHB4DR/IMG-20250717-212423.jpg",SANGEET BANGLA MUSIC 
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/montv.stream/playlist.m3u8
+#https://live2.shoq.com.pk/live/eds/8_XM/DASH/8_XM.mpd
+#EXTIM3U
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/chXwYt9n/IMG-20250717-211123.jpg",T SPORTS HD
+https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="90" group-title="SPORTS" tvg-logo="https://i.ibb.co/PzVgWRzX/IMG-20250803-202204.png", P SPORTS 
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12331.ts
+#EXTM3U
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/MDDnLGG8/IMG-20250717-211117.jpg",TEN SPORTS HD
+http://app.hughag.store/api/6b9c461155/playlist.m3u8
+#https://softbd24.com/new/toffee/live.php?id=f76c7eb00da0&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=f76c7eb00da0&e=.m3u8
+#EXTIM3U
+#EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co/yFtYnJ4D/IMG-20250717-211048.jpg",STAR SPORTS 1 HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3715.ts
+#https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1hindi/master.m3u8
+#https://live.dinesh29.com.np/stream/livetv/starsports1hdhindi/master.m3u8
+#ott/89.ts  http://103.120.172.74:5500 
+#EXTIM3U
+#EXTINF:-1 tvg-id="89" group-title="SPORTS" tvg-logo="https://i.ibb.co/chLHPVBr/IMG-20250717-211053.jpg",STAR SPORTS 2 HD 
+http://nayatv.ydns.eu:80/xfireflix/flixfire/11677.ts
+#https://live.dinesh29.com.np/stream/jiotvplus/starsports2hindi/master.m3u8
+#https://live.dinesh29.com.np/stream/livetv/starsports2hd/master.m3u8
+#EXTIM3U
+#EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co/kVDCSGhP/IMG-20250717-211059.jpg",STAR SPORTS SELECT 1 HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/11678.ts
+#https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd1/master.m3u8
+#https://live.dinesh29.com.np/stream/livetv/starsportsselecthd1/master.m3u8
+#http://103.120.172.74:1030 #ott/88.ts
+#EXTIM3U
+#EXTINF:-1 tvg-id="89" group-title="SPORTS" tvg-logo="https://i.ibb.co/gZ4d2rN9/IMG-20250717-211105.jpg",STAR SPORTS SELECT 2 HD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3720.ts
+#https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd2/master.m3u8
+#https://live.dinesh29.com.np/stream/livetv/starsportsselecthd2/master.m3u8
+#http://103.120.172.74:4700
+#EXTM3U
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/20hm5LjP/IMG-20250717-211016.jpg",SONY SPORTS 1 HD
+https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/Dg6mr7hV/IMG-20250717-211026.jpg",SONY SPORTS 2 HD
+https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/wNFmZBqf/IMG-20250717-211034.jpg",SONY SPORTS 5 HD
+https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="90" group-title="SPORTS" tvg-logo="https://i.ibb.co/B2Y02XxR/IMG-20250717-211128.jpg",EURO SPORTS HD 
+http://app.hughag.store/api/ef22d71b0e/playlist.m3u8
+#https://softbd24.com/new/toffee/live.php?id=258468998307&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=258468998307&e=.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/nqWbsHZP/IMG-20250717-233622.jpg",COLORS CINEPLEX
+#EXTM3U
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/7JT10H4b/IMG-20250717-233627.jpg", COLORS C SUPER
+#EXTM3U
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co/s90k3vJ8/IMG-20250717-214944.png ", NEWS 18 BANGLA
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0yxc3ZRn/IMG-20250802-201714.jpg" group-title="ENTERTAINMENT",ARY ZINDAGI
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jk64jDLm/IMG-20250802-202947.jpg" group-title="NEWS", GEO NEWS
 #EXTM3U
