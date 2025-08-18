@@ -216,8 +216,8 @@ https://rex-streaming.vercel.app/api/Bdx2/83756.m3u8|user-agent=@xfireflix
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3714.ts
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/TD63zsxJ/IMG-20250717-212349.jpg",STAR BHARAT
-#http://tv.bdiptv.store:80/restreauu/refstream/234.ts
-http://nayatv.ydns.eu:80/xfireflix/flixfire/3706.ts
+http://tv.bdiptv.store:80/restreauu/refstream/234.ts
+#http://nayatv.ydns.eu:80/xfireflix/flixfire/3706.ts
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/rGJ2SKZC/IMG-20250717-212318.jpg",COLORS
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3665.ts
