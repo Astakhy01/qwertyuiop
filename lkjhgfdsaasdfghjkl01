@@ -213,13 +213,11 @@ https://rex-streaming.vercel.app/api/Bdx2/83756.m3u8|user-agent=@xfireflix
 #http://tv.bdiptv.store/live/restreauu/refstream/81.ts
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/Cs0M4P1R/IMG-20250717-212357.jpg", STAR PLUS HD
-https://mxon-xtreme.vercel.app/live/1924.m3u8
-#http://nayatv.ydns.eu:80/xfireflix/flixfire/3714.ts
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3714.ts
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/TD63zsxJ/IMG-20250717-212349.jpg",STAR BHARAT
-https://mxon-xtreme.vercel.app/live/780.m3u8
 #http://tv.bdiptv.store:80/restreauu/refstream/234.ts
-#http://nayatv.ydns.eu:80/xfireflix/flixfire/3706.ts
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3706.ts
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/rGJ2SKZC/IMG-20250717-212318.jpg",COLORS
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3665.ts
@@ -251,8 +249,7 @@ http://app.hughag.store/api/63785f090e/playlist.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8 
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/cSRX9p0W/IMG-20250718-101842.png",STAR GOLD
-https://mxon-xtreme.vercel.app/live/785.m3u8
-#http://nayatv.ydns.eu:80/xfireflix/flixfire/3708.ts
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3708.ts
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/GQsKhHVP/IMG-20250718-101900.jpg", SONY MAX
 https://dish.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8
@@ -352,22 +349,21 @@ http://app.hughag.store/api/6b9c461155/playlist.m3u8
 #https://softbd24.com/new/toffee/live.php?id=f76c7eb00da0&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=f76c7eb00da0&e=.m3u8
 #EXTIM3U
 #EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co/yFtYnJ4D/IMG-20250717-211048.jpg",STAR SPORTS 1 HD
-https://mxon-xtreme.vercel.app/live/2673.m3u8
-#http://nayatv.ydns.eu:80/xfireflix/flixfire/3715.ts
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3715.ts
+#https://mxon-xtreme.vercel.app/live/2673.m3u8
 #ott/89.ts  http://103.120.172.74:5500 
 #EXTIM3U
 #EXTINF:-1 tvg-id="89" group-title="SPORTS" tvg-logo="https://i.ibb.co/chLHPVBr/IMG-20250717-211053.jpg",STAR SPORTS 2 HD 
-https://mxon-xtreme.vercel.app/live/2163.m3u8
-#http://nayatv.ydns.eu:80/xfireflix/flixfire/11677.ts
+http://nayatv.ydns.eu:80/xfireflix/flixfire/11677.ts
+#https://mxon-xtreme.vercel.app/live/2163.m3u8
 #EXTIM3U
 #EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co/kVDCSGhP/IMG-20250717-211059.jpg",STAR SPORTS SELECT 1 HD
-https://tvsen6.aynaott.com/spsel1/index.m3u8?e=1753741230&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=5f45fc60f73036091c4c6ffd19083b5d
-#http://nayatv.ydns.eu:80/xfireflix/flixfire/11678.ts
+http://nayatv.ydns.eu:80/xfireflix/flixfire/11678.ts
+#https://tvsen6.aynaott.com/spsel1/index.m3u8?e=1753741230&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=5f45fc60f73036091c4c6ffd19083b5d
 #http://103.120.172.74:1030 #ott/88.ts
 #EXTIM3U
 #EXTINF:-1 tvg-id="89" group-title="SPORTS" tvg-logo="https://i.ibb.co/gZ4d2rN9/IMG-20250717-211105.jpg",STAR SPORTS SELECT 2 HD
-http://cool365.xyz:900/live/4160189881/DB4ACD54/376465.m3u8
-#http://nayatv.ydns.eu:80/xfireflix/flixfire/3720.ts
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3720.ts
 #http://103.120.172.74:4700
 #EXTM3U
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/20hm5LjP/IMG-20250717-211016.jpg",SONY SPORTS 1 HD
