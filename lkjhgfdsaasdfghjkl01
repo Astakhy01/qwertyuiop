@@ -216,7 +216,8 @@ https://rex-streaming.vercel.app/api/Bdx2/83756.m3u8|user-agent=@xfireflix
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3714.ts
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/TD63zsxJ/IMG-20250717-212349.jpg",STAR BHARAT
-http://tv.bdiptv.store:80/restreauu/refstream/234.ts
+http://s5.alltvfree.com:8081/live/starbaharat/playlist.m3u8
+#http://tv.bdiptv.store:80/restreauu/refstream/234.ts
 #http://nayatv.ydns.eu:80/xfireflix/flixfire/3706.ts
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/rGJ2SKZC/IMG-20250717-212318.jpg",COLORS
@@ -249,7 +250,8 @@ http://app.hughag.store/api/63785f090e/playlist.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8 
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/cSRX9p0W/IMG-20250718-101842.png",STAR GOLD
-http://nayatv.ydns.eu:80/xfireflix/flixfire/3708.ts
+http://s5.alltvfree.com:8081/live/stargold_480p/playlist.m3u8
+#http://nayatv.ydns.eu:80/xfireflix/flixfire/3708.ts
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/GQsKhHVP/IMG-20250718-101900.jpg", SONY MAX
 https://dish.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8
