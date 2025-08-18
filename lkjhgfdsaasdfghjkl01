@@ -354,26 +354,22 @@ http://app.hughag.store/api/6b9c461155/playlist.m3u8
 #https://softbd24.com/new/toffee/live.php?id=f76c7eb00da0&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=f76c7eb00da0&e=.m3u8
 #EXTIM3U
 #EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co/yFtYnJ4D/IMG-20250717-211048.jpg",STAR SPORTS 1 HD
-http://nayatv.ydns.eu:80/xfireflix/flixfire/3715.ts
-#https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1hindi/master.m3u8
-#https://live.dinesh29.com.np/stream/livetv/starsports1hdhindi/master.m3u8
+https://mxon-xtreme.vercel.app/live/2673.m3u8
+#http://nayatv.ydns.eu:80/xfireflix/flixfire/3715.ts
 #ott/89.ts  http://103.120.172.74:5500 
 #EXTIM3U
 #EXTINF:-1 tvg-id="89" group-title="SPORTS" tvg-logo="https://i.ibb.co/chLHPVBr/IMG-20250717-211053.jpg",STAR SPORTS 2 HD 
-http://nayatv.ydns.eu:80/xfireflix/flixfire/11677.ts
-#https://live.dinesh29.com.np/stream/jiotvplus/starsports2hindi/master.m3u8
-#https://live.dinesh29.com.np/stream/livetv/starsports2hd/master.m3u8
+https://mxon-xtreme.vercel.app/live/2163.m3u8
+#http://nayatv.ydns.eu:80/xfireflix/flixfire/11677.ts
 #EXTIM3U
 #EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co/kVDCSGhP/IMG-20250717-211059.jpg",STAR SPORTS SELECT 1 HD
-http://nayatv.ydns.eu:80/xfireflix/flixfire/11678.ts
-#https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd1/master.m3u8
-#https://live.dinesh29.com.np/stream/livetv/starsportsselecthd1/master.m3u8
+https://tvsen6.aynaott.com/spsel1/index.m3u8?e=1753741230&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=5f45fc60f73036091c4c6ffd19083b5d
+#http://nayatv.ydns.eu:80/xfireflix/flixfire/11678.ts
 #http://103.120.172.74:1030 #ott/88.ts
 #EXTIM3U
 #EXTINF:-1 tvg-id="89" group-title="SPORTS" tvg-logo="https://i.ibb.co/gZ4d2rN9/IMG-20250717-211105.jpg",STAR SPORTS SELECT 2 HD
-http://nayatv.ydns.eu:80/xfireflix/flixfire/3720.ts
-#https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd2/master.m3u8
-#https://live.dinesh29.com.np/stream/livetv/starsportsselecthd2/master.m3u8
+http://cool365.xyz:900/live/4160189881/DB4ACD54/376465.m3u8
+#http://nayatv.ydns.eu:80/xfireflix/flixfire/3720.ts
 #http://103.120.172.74:4700
 #EXTM3U
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/20hm5LjP/IMG-20250717-211016.jpg",SONY SPORTS 1 HD
