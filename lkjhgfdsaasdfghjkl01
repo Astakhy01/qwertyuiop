@@ -213,18 +213,16 @@ https://rex-streaming.vercel.app/api/Bdx2/83756.m3u8|user-agent=@xfireflix
 #http://tv.bdiptv.store/live/restreauu/refstream/81.ts
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/Cs0M4P1R/IMG-20250717-212357.jpg", STAR PLUS HD
-http://nayatv.ydns.eu:80/xfireflix/flixfire/3714.ts
-#https://live.dinesh29.com.np/stream/jiotvplus/starplushd/master.m3u8 #https://live.dinesh29.com.np/stream/livetv/starplushd/master.m3u8
+https://mxon-xtreme.vercel.app/live/1924.m3u8
+#http://nayatv.ydns.eu:80/xfireflix/flixfire/3714.ts
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/TD63zsxJ/IMG-20250717-212349.jpg",STAR BHARAT
-http://tv.bdiptv.store:80/restreauu/refstream/234.ts
+https://mxon-xtreme.vercel.app/live/780.m3u8
+#http://tv.bdiptv.store:80/restreauu/refstream/234.ts
 #http://nayatv.ydns.eu:80/xfireflix/flixfire/3706.ts
-#https://live.dinesh29.com.np/stream/jiotvplus/starbharathd/master.m3u8 #https://live.dinesh29.com.np/stream/livetv/starbharathd/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/rGJ2SKZC/IMG-20250717-212318.jpg",COLORS
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3665.ts
-#https://live.dinesh29.com.np/stream/jiotvplus/colorshd/master.m3u8
-#https://live.dinesh29.com.np/stream/livetv/colorshd/master.m3u8
 #http://tv.bdiptv.store/live/restreauu/refstream/93.ts
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/hRyCt5dV/IMG-20250717-212329.jpg", ANT TV HD
@@ -253,8 +251,8 @@ http://app.hughag.store/api/63785f090e/playlist.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8 
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/cSRX9p0W/IMG-20250718-101842.png",STAR GOLD
-http://nayatv.ydns.eu:80/xfireflix/flixfire/3708.ts
-#https://live.dinesh29.com.np/stream/jiotvplus/stargold/master.m3u8 #https://live.dinesh29.com.np/stream/livetv/stargoldhd/master.m3u8
+https://mxon-xtreme.vercel.app/live/785.m3u8
+#http://nayatv.ydns.eu:80/xfireflix/flixfire/3708.ts
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/GQsKhHVP/IMG-20250718-101900.jpg", SONY MAX
 https://dish.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8
