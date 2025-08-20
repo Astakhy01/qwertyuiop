@@ -258,7 +258,7 @@ https://dish.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8
 #https://dish.slivcdn.com/hls/live/2011745-b/SonyMaxSD/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/gZ1THDHC/IMG-20250718-101905.jpg",SONY MAX 1
-https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/96133332/master.m3u8%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+https://m3u.ygxworld.in/p/KzuLAYxuzrui/tp/96133332/master.m3u8%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/1tLzc4VB/IMG-20250718-101946.jpg",SONY WAH
 https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
@@ -313,23 +313,19 @@ https://stream.himelop-pro.top/vm/disneyop.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/superhungama/master.m3u8 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/587/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/sJNXVcW9/IMG-20250717-214734.jpg",DISNEY JUNIOR
-#https://live.dinesh29.com.np/stream/jiotvplus/disneyjunior/master.m3u8
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3672.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/qMVcJfMy/IMG-20250717-214649.jpg", CARTOON HD
 http://app.hughag.store/api/68b0f4e13e/playlist.m3u8
 #https://softbd24.com/new/toffee/live.php?id=8be5ec5d5d7c&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=8be5ec5d5d7c&e=.m3u8
-#https://live.dinesh29.com.np/stream/jiotvplus/cartoonnetworkhindi/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/8Lx0Q68h/IMG-20250717-214744.jpg",POGO KIDS
 http://app.hughag.store/api/d2586d604e/playlist.m3u8
 #https://softbd24.com/new/toffee/live.php?id=1fe9cf550c24&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=1fe9cf550c24&e=.m3u8
-#https://live.dinesh29.com.np/stream/jiotvplus/pogohindi/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/jZVqBs8f/IMG-20250717-214749.jpg",DISCOVERY KIDS
 http://app.hughag.store/api/aec911dc04/playlist.m3u8
 #https://softbd24.com/new/toffee/live.php?id=38060f0d4077&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=38060f0d4077&e=.m3u8
-#https://live.dinesh29.com.np/stream/jiotvplus/discoverykids2/master.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec087eb4cd899e1a068083608f0aa3f6:f36cd5dddd56ca76246a62b7b02148c9
@@ -349,7 +345,6 @@ http://app.hughag.store/api/6b9c461155/playlist.m3u8
 #EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co/yFtYnJ4D/IMG-20250717-211048.jpg",STAR SPORTS 1 HD
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3715.ts
 #https://mxon-xtreme.vercel.app/live/2673.m3u8
-#ott/89.ts  http://103.120.172.74:5500 
 #EXTIM3U
 #EXTINF:-1 tvg-id="89" group-title="SPORTS" tvg-logo="https://i.ibb.co/chLHPVBr/IMG-20250717-211053.jpg",STAR SPORTS 2 HD 
 http://nayatv.ydns.eu:80/xfireflix/flixfire/11677.ts
@@ -358,11 +353,9 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/11677.ts
 #EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co/kVDCSGhP/IMG-20250717-211059.jpg",STAR SPORTS SELECT 1 HD
 http://nayatv.ydns.eu:80/xfireflix/flixfire/11678.ts
 #https://tvsen6.aynaott.com/spsel1/index.m3u8?e=1753741230&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=5f45fc60f73036091c4c6ffd19083b5d
-#http://103.120.172.74:1030 #ott/88.ts
 #EXTIM3U
 #EXTINF:-1 tvg-id="89" group-title="SPORTS" tvg-logo="https://i.ibb.co/gZ4d2rN9/IMG-20250717-211105.jpg",STAR SPORTS SELECT 2 HD
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3720.ts
-#http://103.120.172.74:4700
 #EXTM3U
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/20hm5LjP/IMG-20250717-211016.jpg",SONY SPORTS 1 HD
 https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
@@ -389,11 +382,8 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/ks6PspYW/b4u-logo-400.jpg",B4U MUSIC
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/1.m3u8
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ebaeb181f20ef45689a3b306545792c:41ff280dc2d57eaf290bc588d821bb35
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/ZzDHB4DR/IMG-20250717-212423.jpg",SANGEET BANGLA MUSIC 
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/montv.stream/playlist.m3u8
-#https://live2.shoq.com.pk/live/eds/8_XM/DASH/8_XM.mpd
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/8nJ9Bxmh/images-1752772310380.png",DISCOVERY BANGLA
 https://tvsen6.aynaott.com/discovery_hd_bangla/mono.ts.m3u8
