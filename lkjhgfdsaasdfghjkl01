@@ -196,8 +196,8 @@ http://app.hughag.store/api/4518a8c92f/playlist.m3u8
 #https://softbd24.com/new/toffee/live.php?id=7c21a8ade135&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=7c21a8ade135&e=.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="65" group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/530J2sy/IMG-20250731-155110.jpg", HUM SITAREY
+http://app.hughag.store/api/be9f473994/playlist.m3u8
 #https://softbd24.com/new/toffee/live.php?id=598a5e7df0bd&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=598a5e7df0bd&e=.m3u8
-http://nayatv.ydns.eu:80/xfireflix/flixfire/3795.ts
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/ZRHcb1Vz/IMG-20250717-200848.jpg",ZEE BANGLA CINEMA
 http://app.hughag.store/api/04cb8cb9a7/playlist.m3u8
@@ -206,19 +206,18 @@ http://app.hughag.store/api/04cb8cb9a7/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/VcQHS9My/IMG-20250717-200902.jpg",COLORS BANGLA CINEMA 
 #https://live.dinesh29.com.np/stream/jiotv/colorsbanglacinema/master.m3u8
-http://tv.bdiptv.store/live/restreauu/refstream/238.ts
+http://tv.bdiptv.store/live/restreauuX58/refstream/238.ts
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/k2kbnmkj/IMG-20250717-200915.jpg",JALSHA MOVIES
 http://demonji.onrender.com/multiple/play.php?server=server3&id=1531943.m3u8
-#https://rex-streaming.vercel.app/api/Bdx2/83756.m3u8|user-agent=@xfireflix
-#http://tv.bdiptv.store/live/restreauu/refstream/81.ts
+#https://rex-streaming.vercel.app/api/Bdx2/83756.m3u8|user-agent=@xfireflix #http://tv.bdiptv.store/live/restreauu/refstream/81.ts
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/Cs0M4P1R/IMG-20250717-212357.jpg", STAR PLUS HD
-http://nayatv.ydns.eu:80/xfireflix/flixfire/3714.ts
+http://demonji.onrender.com/multiple/play.php?server=server3&id=440265.m3u8
+#http://nayatv.ydns.eu:80/xfireflix/flixfire/3714.ts
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/TD63zsxJ/IMG-20250717-212349.jpg",STAR BHARAT
 http://s5.alltvfree.com:8081/live/starbaharat/playlist.m3u8
-#http://tv.bdiptv.store:80/restreauu/refstream/234.ts
 #http://nayatv.ydns.eu:80/xfireflix/flixfire/3706.ts
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/rGJ2SKZC/IMG-20250717-212318.jpg",COLORS
@@ -285,16 +284,13 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/3707.ts
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3711.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/jktjPyy7/IMG-20250717-214658.jpg",NICK BANGLA
-#https://live.dinesh29.com.np/stream/jiotv/nickbangla/master.m3u8
-#https://live.dinesh29.com.np/stream/livetv/nickindia/master.m3u8
-http://tv.bdiptv.store/live/restreauu/refstream/96.ts
+http://tv.bdiptv.store/live/restreauuX58/refstream/96.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/9mR3MQ27/IMG-20250717-214708.jpg",SONIC BANGLA
 #https://live.dinesh29.com.np/stream/jiotv/sonicbangla/master.m3u8
-http://tv.bdiptv.store/live/restreauu/refstream/242.ts
+http://tv.bdiptv.store/live/restreauuX58/refstream/242.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/b5LLBn2W/IMG-20250717-214703.jpg", NICK JUNIOR
-#https://live.dinesh29.com.np/stream/jiotvplus/nickjunior/master.m3u8
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3688.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/pjhF60q5/IMG-20250717-214739.jpg",SONY YAY
@@ -306,7 +302,6 @@ https://os.mxonlive.workers.dev/o/disney/277002.m3u8
 #http://nayatv.ydns.eu:80/xfireflix/flixfire/3671.ts
 #http://66.102.120.18:8000/play/a070/index.m3u8
 #http://tv.bdiptv.store/live/restreauu/refstream/71.ts 
-#https://live.dinesh29.com.np/stream/livetv/disneychannel/master.m3u8 #http://nayatv.ydns.eu:80/xfireflix/flixfire/3671.ts 
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/v4KZy9z9/IMG-20250717-214714.jpg",HUNGAMA 
 http://demonji.onrender.com/multiple/play.php?server=server3&id=440679.m3u8
@@ -437,8 +432,8 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/3684.ts
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3686.ts
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/nshKxpy9/download.jpg",HUM MASALA
+http://app.hughag.store/api/6f95f2d0c6/playlist.m3u8
 #https://softbd24.com/new/toffee/live.php?id=406435b761ad&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=406435b761ad&e=.m3u8
-http://nayatv.ydns.eu:80/xfireflix/flixfire/3792.ts
 #EXTM3U
 #EXTINF:-1 group-title="RELIGIOUS" tvg-logo="https://i.ibb.co/SXmV3J33/IMG-20250717-214637.jpg",MAKKAH
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
@@ -458,6 +453,8 @@ https://mxon-xtreme.vercel.app/live/2080.m3u8
 #EXTM3U 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/Fkp7JYrj/IMG-20250717-233602.png",STAR MOVIES SELECT HD
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
+
+(
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/2TwFvnR/IMG-20250729-093750.jpg",RAJDHANI TV HD
 #https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
@@ -473,3 +470,4 @@ https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jk64jDLm/IMG-20250802-202947.jpg" group-title="NEWS", GEO NEWS
 #EXTM3U
+)
