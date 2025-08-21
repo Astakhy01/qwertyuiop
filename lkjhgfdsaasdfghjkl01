@@ -191,8 +191,9 @@ https://rex-streaming.vercel.app/api/Bdx2/83756.m3u8|user-agent=@xfireflix
 #http://tv.bdiptv.store/live/restreauu/refstream/81.ts
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/Cs0M4P1R/IMG-20250717-212357.jpg", STAR PLUS HD
+https://mxon-xtreme.vercel.app/live/1924.m3u8
 #http://demonji.onrender.com/multiple/play.php?server=server3&id=440265.m3u8
-http://nayatv.ydns.eu:80/xfireflix/flixfire/3714.ts
+#http://nayatv.ydns.eu:80/xfireflix/flixfire/3714.ts
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/TD63zsxJ/IMG-20250717-212349.jpg",STAR BHARAT
 http://s5.alltvfree.com:8081/live/starbaharat/playlist.m3u8
