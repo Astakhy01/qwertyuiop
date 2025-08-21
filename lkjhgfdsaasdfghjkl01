@@ -256,10 +256,10 @@ https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 #https://tumar-abbu.pages.dev/WavesOTT/B4U-Movies/tracks-v1a1/mono.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/8gvq7sNS/IMG-20250821-205752.jpg", STAR GOLD SELECT
-
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3710.ts
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/Q7CkjCxM/IMG-20250821-205802.jpg", STAR GOLD ROMANCE
-
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3709.ts
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/M5gwSXpx/IMG-20250718-101914.jpg", STAR GOLD 2
 http://66.102.120.18:8000/play/a00g/index.m3u8
@@ -335,7 +335,7 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/11677.ts
 #https://mxon-xtreme.vercel.app/live/2163.m3u8
 #EXTIM3U
 #EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co.com/bMVtFk11/IMG-20250821-205747.jpg",STAR SPORTS 3
-
+http://nayatv.ydns.eu:80/xfireflix/flixfire/11682.ts
 #EXTIM3U
 #EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co/kVDCSGhP/IMG-20250717-211059.jpg",STAR SPORTS SELECT 1 HD
 http://nayatv.ydns.eu:80/xfireflix/flixfire/11678.ts
@@ -358,7 +358,7 @@ http://app.hughag.store/api/ef22d71b0e/playlist.m3u8
 #https://softbd24.com/new/toffee/live.php?id=258468998307&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=258468998307&e=.m3u8
 #EXTIM3U
 #EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co.com/MyCR92SP/IMG-20250821-205806.jpg",A SPORTS 
-
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12026.ts
 #EXTM3U
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co/x8KL558m/IMG-20250717-215016.jpg", ZEE 24
 https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
