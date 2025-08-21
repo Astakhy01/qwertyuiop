@@ -236,12 +236,6 @@ http://s5.alltvfree.com:8081/live/stargold_480p/playlist.m3u8
 https://dish.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8
 #https://dish.slivcdn.com/hls/live/2011745-b/SonyMaxSD/master.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/nqWbsHZP/IMG-20250717-233622.jpg",COLORS CINEPLEX
-https://mini.allinonereborn.online/jiotv-ww323/app/ts_live_482.m3u8
-#EXTM3U
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/7JT10H4b/IMG-20250717-233627.jpg", COLORS C SUPER
-https://mini.allinonereborn.online/jiotv-ww323/app/ts_live_1450.m3u8
-#EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/gZ1THDHC/IMG-20250718-101905.jpg",SONY MAX 1
 https://m3u.ygxworld.in/p/KzuLAYxuzrui/tp/96133332/master.m3u8%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 #EXTM3U
@@ -419,4 +413,8 @@ https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/2TwFvnR/IMG-20250729-093750.jpg",RAJDHANI TV HD
 #https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #https://jolshabd.com/live/mbanglatv/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/nqWbsHZP/IMG-20250717-233622.jpg",COLORS CINEPLEX
+#EXTM3U
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/7JT10H4b/IMG-20250717-233627.jpg", COLORS C SUPER
 #EXTM3U
