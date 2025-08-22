@@ -191,7 +191,8 @@ https://rex-streaming.vercel.app/api/Bdx2/83756.m3u8|user-agent=@xfireflix
 #http://tv.bdiptv.store/live/restreauu/refstream/81.ts
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/Cs0M4P1R/IMG-20250717-212357.jpg", STAR PLUS HD
-https://mxon-xtreme.vercel.app/live/1924.m3u8
+http://fast.luckonline.eu/2Nw6SArNhs/9754302190/1365
+#https://mxon-xtreme.vercel.app/live/1924.m3u8
 #http://demonji.onrender.com/multiple/play.php?server=server3&id=440265.m3u8
 #http://nayatv.ydns.eu:80/xfireflix/flixfire/3714.ts
 #EXTM3U
@@ -259,7 +260,8 @@ https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3710.ts
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/Q7CkjCxM/IMG-20250821-205802.jpg", STAR GOLD ROMANCE
-http://nayatv.ydns.eu:80/xfireflix/flixfire/3709.ts
+http://fast.luckonline.eu/2Nw6SArNhs/9754302190/630
+#http://nayatv.ydns.eu:80/xfireflix/flixfire/3709.ts
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/M5gwSXpx/IMG-20250718-101914.jpg", STAR GOLD 2
 http://66.102.120.18:8000/play/a00g/index.m3u8
@@ -283,10 +285,10 @@ http://app.hughag.store/api/b45f637d05/playlist.m3u8
 #https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/B2n6cQJ4/IMG-20250717-214728.jpg",DISNEP CHANNEL
-https://os.mxonlive.workers.dev/o/disney/277002.m3u8
+#https://os.mxonlive.workers.dev/o/disney/277002.m3u8
 #http://nayatv.ydns.eu:80/xfireflix/flixfire/3671.ts
 #http://66.102.120.18:8000/play/a070/index.m3u8
-#http://tv.bdiptv.store/live/restreauu/refstream/71.ts 
+http://tv.bdiptv.store/live/restreauuX58/refstream/71.ts 
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/v4KZy9z9/IMG-20250717-214714.jpg",HUNGAMA 
 http://demonji.onrender.com/multiple/play.php?server=server3&id=440679.m3u8
@@ -321,10 +323,10 @@ https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="90" group-title="SPORTS" tvg-logo="https://i.ibb.co/PzVgWRzX/IMG-20250803-202204.png", PTV SPORTS 
 http://nayatv.ydns.eu:80/xfireflix/flixfire/12331.ts
-#EXTM3U
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/MDDnLGG8/IMG-20250717-211117.jpg",TEN SPORTS HD
-http://app.hughag.store/api/6b9c461155/playlist.m3u8
-#https://softbd24.com/new/toffee/live.php?id=f76c7eb00da0&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=f76c7eb00da0&e=.m3u8
+#EXTIM3U
+#EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co.com/MyCR92SP/IMG-20250821-205806.jpg",A SPORTS 
+https://tvsen7.aynaott.com/asports-bkp/index.m3u8?e=1753741206&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=5a0bc2356583a90eda9d44a988b1f584
+#http://nayatv.ydns.eu:80/xfireflix/flixfire/12026.ts
 #EXTIM3U
 #EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co/yFtYnJ4D/IMG-20250717-211048.jpg",STAR SPORTS 1 HD
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3715.ts
@@ -353,12 +355,13 @@ https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/wNFmZBqf/IMG-20250717-211034.jpg",SONY SPORTS 5 HD
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #EXTM3U
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/MDDnLGG8/IMG-20250717-211117.jpg",TEN SPORTS HD
+http://app.hughag.store/api/6b9c461155/playlist.m3u8
+#https://softbd24.com/new/toffee/live.php?id=f76c7eb00da0&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=f76c7eb00da0&e=.m3u8
+#EXTM3U
 #EXTINF:-1 tvg-id="90" group-title="SPORTS" tvg-logo="https://i.ibb.co/B2Y02XxR/IMG-20250717-211128.jpg",EURO SPORTS HD 
 http://app.hughag.store/api/ef22d71b0e/playlist.m3u8
 #https://softbd24.com/new/toffee/live.php?id=258468998307&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=258468998307&e=.m3u8
-#EXTIM3U
-#EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co.com/MyCR92SP/IMG-20250821-205806.jpg",A SPORTS 
-http://nayatv.ydns.eu:80/xfireflix/flixfire/12026.ts
 #EXTM3U
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co/x8KL558m/IMG-20250717-215016.jpg", ZEE 24
 https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
