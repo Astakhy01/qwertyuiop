@@ -422,9 +422,9 @@ http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
 https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/QjcNdL48/IMG-20250717-233746.png",STAR MOVIES HD 
-https://mxon-xtreme.vercel.app/live/2080.m3u8
+#https://mxon-xtreme.vercel.app/live/2080.m3u8
 #http://nayatv.ydns.eu:80/xfireflix/flixfire/3713.ts
-#http://tv.bdiptv.store/live/restreauu/refstream/95.ts
+http://tv.bdiptv.store/live/restreauuX58/refstream/95.ts
 #EXTM3U 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/Fkp7JYrj/IMG-20250717-233602.png",STAR MOVIES SELECT HD
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
