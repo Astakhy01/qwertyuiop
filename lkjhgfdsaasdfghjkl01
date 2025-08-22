@@ -190,9 +190,12 @@ http://tv.bdiptv.store/live/restreauuX58/refstream/238.ts
 https://rex-streaming.vercel.app/api/Bdx2/83756.m3u8|user-agent=@xfireflix
 #http://tv.bdiptv.store/live/restreauu/refstream/81.ts
 #EXTM3U
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/k2kbnmkj/IMG-20250717-200915.jpg",JALSHA MOVIES
+https://live.dinesh29.com.np/stream/jiotvplus/jalshamovies/master.m3u8
+#EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/Cs0M4P1R/IMG-20250717-212357.jpg", STAR PLUS HD
-http://fast.luckonline.eu/2Nw6SArNhs/9754302190/1365
-#https://mxon-xtreme.vercel.app/live/1924.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/starplushd/master.m3u8
+#http://fast.luckonline.eu/2Nw6SArNhs/9754302190/1365
 #http://demonji.onrender.com/multiple/play.php?server=server3&id=440265.m3u8
 #http://nayatv.ydns.eu:80/xfireflix/flixfire/3714.ts
 #EXTM3U
@@ -257,19 +260,23 @@ https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 #https://tumar-abbu.pages.dev/WavesOTT/B4U-Movies/tracks-v1a1/mono.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/8gvq7sNS/IMG-20250821-205752.jpg", STAR GOLD SELECT
-http://nayatv.ydns.eu:80/xfireflix/flixfire/3710.ts
+https://live.dinesh29.com.np/stream/jiotvplus/stargoldselect/master.m3u8
+#http://nayatv.ydns.eu:80/xfireflix/flixfire/3710.ts
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/Q7CkjCxM/IMG-20250821-205802.jpg", STAR GOLD ROMANCE
-http://fast.luckonline.eu/2Nw6SArNhs/9754302190/630
+https://live.dinesh29.com.np/stream/jiotvplus/stargoldromance/master.m3u8
+#http://fast.luckonline.eu/2Nw6SArNhs/9754302190/630
 #http://nayatv.ydns.eu:80/xfireflix/flixfire/3709.ts
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/M5gwSXpx/IMG-20250718-101914.jpg", STAR GOLD 2
-http://66.102.120.18:8000/play/a00g/index.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/stargold2/master.m3u8
+#http://66.102.120.18:8000/play/a00g/index.m3u8
 #http://nayatv.ydns.eu:80/xfireflix/flixfire/3707.ts
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/TMzr1Rt5/IMG-20250718-101846.jpg", STAR THRILLS
+https://live.dinesh29.com.np/stream/jiotvplus/stargoldthrills/master.m3u8
 #http://66.102.120.18:8000/play/a00c/index.m3u8
-http://nayatv.ydns.eu:80/xfireflix/flixfire/3711.ts
+#http://nayatv.ydns.eu:80/xfireflix/flixfire/3711.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/jktjPyy7/IMG-20250717-214658.jpg",NICK BANGLA
 http://tv.bdiptv.store/live/restreauuX58/refstream/96.ts
@@ -291,11 +298,13 @@ http://app.hughag.store/api/b45f637d05/playlist.m3u8
 http://tv.bdiptv.store/live/restreauuX58/refstream/71.ts 
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/v4KZy9z9/IMG-20250717-214714.jpg",HUNGAMA 
-http://demonji.onrender.com/multiple/play.php?server=server3&id=440679.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/hungama/master.m3u8
+#http://demonji.onrender.com/multiple/play.php?server=server3&id=440679.m3u8
 #http://nayatv.ydns.eu:80/xfireflix/flixfire/3678.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/TN4RVbL/IMG-20250717-214720.jpg",SUPER HUNGAMA
-https://stream.himelop-pro.top/vm/disneyop.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/superhungama/master.m3u8
+#https://stream.himelop-pro.top/vm/disneyop.m3u8
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/587/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/sJNXVcW9/IMG-20250717-214734.jpg",DISNEY JUNIOR
