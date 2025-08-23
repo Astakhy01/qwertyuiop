@@ -330,24 +330,25 @@ https://tvsen7.aynaott.com/asports-bkp/index.m3u8?e=1753741206&u=9a031201-22d8-4
 #http://nayatv.ydns.eu:80/xfireflix/flixfire/12026.ts
 #EXTIM3U
 #EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co/yFtYnJ4D/IMG-20250717-211048.jpg",STAR SPORTS 1 HD
-http://demonji.onrender.com/multiple/play.php?server=server3&id=441106.m3u8
+http://fast.luckonline.eu/2Nw6SArNhs/9754302190/1065
 #http://nayatv.ydns.eu:80/xfireflix/flixfire/3715.ts
-#https://mxon-xtreme.vercel.app/live/2673.m3u8
 #EXTIM3U
 #EXTINF:-1 tvg-id="89" group-title="SPORTS" tvg-logo="https://i.ibb.co/chLHPVBr/IMG-20250717-211053.jpg",STAR SPORTS 2 HD 
-http://demonji.onrender.com/multiple/play.php?server=server3&id=441103.m3u8
+http://fast.luckonline.eu/2Nw6SArNhs/9754302190/1370
 #http://nayatv.ydns.eu:80/xfireflix/flixfire/11677.ts
 #EXTIM3U
 #EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co.com/bMVtFk11/IMG-20250821-205747.jpg",STAR SPORTS 3
-http://103.122.252.100:8080/STAR-SPORTS-3/index.m3u8
+http://fast.luckonline.eu/2Nw6SArNhs/9754302190/502
+#http://103.122.252.100:8080/STAR-SPORTS-3/index.m3u8
 #http://nayatv.ydns.eu:80/xfireflix/flixfire/11682.ts
 #EXTIM3U
 #EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co/kVDCSGhP/IMG-20250717-211059.jpg",STAR SPORTS SELECT 1 HD
+http://fast.luckonline.eu/2Nw6SArNhs/9754302190/1125
 #http://nayatv.ydns.eu:80/xfireflix/flixfire/11678.ts
-https://tvsen6.aynaott.com/spsel1/index.m3u8?e=1753741230&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=5f45fc60f73036091c4c6ffd19083b5d
+#https://tvsen6.aynaott.com/spsel1/index.m3u8?e=1753741230&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=5f45fc60f73036091c4c6ffd19083b5d
 #EXTIM3U
 #EXTINF:-1 tvg-id="89" group-title="SPORTS" tvg-logo="https://i.ibb.co/gZ4d2rN9/IMG-20250717-211105.jpg",STAR SPORTS SELECT 2 HD
-http://demonji.onrender.com/multiple/play.php?server=server3&id=441097.m3u8
+http://fast.luckonline.eu/2Nw6SArNhs/9754302190/1315
 #http://nayatv.ydns.eu:80/xfireflix/flixfire/3720.ts
 #EXTM3U
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/20hm5LjP/IMG-20250717-211016.jpg",SONY SPORTS 1 HD
