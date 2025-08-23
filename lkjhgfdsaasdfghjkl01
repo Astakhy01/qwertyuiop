@@ -136,7 +136,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/kswKddL5/IMG-20250717-200718.jpg",STAR JALSHA SD
 #http://103.122.252.100:8080/STAR-JALSHA/index.m3u8
-https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/468/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
+https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/468/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 
 #http://tv.bdiptv.store/live/restreauu/refstream/52.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/Rp0LhC0Z/IMG-20250717-203236.jpg",STAR JALSHA HD
@@ -148,8 +148,7 @@ http://app.hughag.store/api/154d534216/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/dJ7fbnR3/IMG-20250717-200840.jpg",ZEE BANGLA HD
 https://tvsen5.aynaott.com/PNEb3v2q6GBk/index.m3u8
-#http://tv.bdiptv.store/live/restreauu/refstream/15252.m3u8
-#https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
+#http://tv.bdiptv.store/live/restreauu/refstream/15252.m3u8 #https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/N6ktzTjD/IMG-20250717-200855.jpg",COLORS BANGLA 
 #https://live.dinesh29.com.np/stream/jiotv/colorsbanglasd/master.m3u8
@@ -158,8 +157,7 @@ https://tvsen5.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/qYGLNSmC/IMG-20250717-203230.jpg",SONY AATH
 http://app.hughag.store/api/b6a720edea/playlist.m3u8
-#https://softbd24.com/new/toffee/live.php?id=7e00fee81848&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=7e00fee81848&e=.m3u8
-#https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
+#https://softbd24.com/new/toffee/live.php?id=7e00fee81848&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=7e00fee81848&e=.m3u8 #https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X95oEAp4VtBVA4I2/8fISg", "kid":"Afe5979+Ql+G1t/UeDkOPw" } ], "type":"temporary" }
@@ -180,8 +178,7 @@ http://app.hughag.store/api/be9f473994/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/ZRHcb1Vz/IMG-20250717-200848.jpg",ZEE BANGLA CINEMA
 http://app.hughag.store/api/04cb8cb9a7/playlist.m3u8
-#https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
-#https://bd.drmlive.net/toffee/cdn/live/zee_bangla_cinema/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8 #https://bd.drmlive.net/toffee/cdn/live/zee_bangla_cinema/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/VcQHS9My/IMG-20250717-200902.jpg",COLORS BANGLA CINEMA 
 http://tv.bdiptv.store/live/restreauuX58/refstream/238.ts
@@ -195,29 +192,23 @@ https://live.dinesh29.com.np/stream/jiotvplus/jalshamovies/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/Cs0M4P1R/IMG-20250717-212357.jpg", STAR PLUS HD
 https://live.dinesh29.com.np/stream/jiotvplus/starplushd/master.m3u8
-#http://fast.luckonline.eu/2Nw6SArNhs/9754302190/1365
-#http://demonji.onrender.com/multiple/play.php?server=server3&id=440265.m3u8
-#http://nayatv.ydns.eu:80/xfireflix/flixfire/3714.ts
+#http://fast.luckonline.eu/2Nw6SArNhs/9754302190/1365 #http://demonji.onrender.com/multiple/play.php?server=server3&id=440265.m3u8 #http://nayatv.ydns.eu:80/xfireflix/flixfire/3714.ts
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/TD63zsxJ/IMG-20250717-212349.jpg",STAR BHARAT
-http://s5.alltvfree.com:8081/live/starbaharat/playlist.m3u8
-#http://nayatv.ydns.eu:80/xfireflix/flixfire/3706.ts
+https://live.dinesh29.com.np/stream/jiotvplus/starbharat/master.m3u8
+#http://s5.alltvfree.com:8081/live/starbaharat/playlist.m3u8 #http://nayatv.ydns.eu:80/xfireflix/flixfire/3706.ts
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/rGJ2SKZC/IMG-20250717-212318.jpg",COLORS
 https://live.dinesh29.com.np/stream/jiotv/colorssd/master.m3u8
-#http://nayatv.ydns.eu:80/xfireflix/flixfire/3665.ts
-#http://tv.bdiptv.store/live/restreauu/refstream/93.ts
+#http://nayatv.ydns.eu:80/xfireflix/flixfire/3665.ts #http://tv.bdiptv.store/live/restreauu/refstream/93.ts
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/hRyCt5dV/IMG-20250717-212329.jpg", ANT TV HD
 https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-#http://app.hughag.store/api/c8b4a2b335/playlist.m3u8
-#https://softbd24.com/new/toffee/live.php?id=a6b5f6130cc5&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=a6b5f6130cc5&e=.m3u8
-#https://live.drmlive-02.workers.dev/zee/tvhd_0.m3u8
+#http://app.hughag.store/api/c8b4a2b335/playlist.m3u8 #https://softbd24.com/new/toffee/live.php?id=a6b5f6130cc5&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=a6b5f6130cc5&e=.m3u8 #https://live.drmlive-02.workers.dev/zee/tvhd_0.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="https://i.ibb.co/GgfVT6n/IMG-20250717-212324.jpg" group-title="ENTERTAINMENT", ZEE TV HD
 http://app.hughag.store/api/526bde04a5/playlist.m3u8
-#https://softbd24.com/new/toffee/live.php?id=9905083432a8&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=9905083432a8&e=.m3u8
-#https://live.drmlive-02.workers.dev/zee/zeetvhd.m3u8
+#https://softbd24.com/new/toffee/live.php?id=9905083432a8&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=9905083432a8&e=.m3u8 #https://live.drmlive-02.workers.dev/zee/zeetvhd.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/yn3JBGsF/IMG-20250717-212337.jpg",SONY SAB
 http://app.hughag.store/api/67380c0ffa/playlist.m3u8
@@ -231,12 +222,11 @@ https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/PGkVsxWd/IMG-20250718-101919.jpg",ZEE CINEMA HD
 http://app.hughag.store/api/63785f090e/playlist.m3u8
-#https://softbd24.com/new/toffee/live.php?id=d581dd66e556&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=d581dd66e556&e=.m3u8
-#https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8 
+#https://softbd24.com/new/toffee/live.php?id=d581dd66e556&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=d581dd66e556&e=.m3u8 #https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8 
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/cSRX9p0W/IMG-20250718-101842.png",STAR GOLD
-http://s5.alltvfree.com:8081/live/stargold_480p/playlist.m3u8
-#http://nayatv.ydns.eu:80/xfireflix/flixfire/3708.ts
+https://live.dinesh29.com.np/stream/jiotvplus/stargold/master.m3u8
+#http://s5.alltvfree.com:8081/live/stargold_480p/playlist.m3u8 #http://nayatv.ydns.eu:80/xfireflix/flixfire/3708.ts
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/GQsKhHVP/IMG-20250718-101900.jpg", SONY MAX
 https://dish.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8
@@ -436,8 +426,7 @@ https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/QjcNdL48/IMG-20250717-233746.png",STAR MOVIES HD 
 https://live.dinesh29.com.np/stream/jiotvplus/starmovies/master.m3u8
-#http://nayatv.ydns.eu:80/xfireflix/flixfire/3713.ts
-#http://tv.bdiptv.store/live/restreauuX58/refstream/95.ts
+#http://nayatv.ydns.eu:80/xfireflix/flixfire/3713.ts #http://tv.bdiptv.store/live/restreauuX58/refstream/95.ts
 #EXTM3U 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/Fkp7JYrj/IMG-20250717-233602.png",STAR MOVIES SELECT HD
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
