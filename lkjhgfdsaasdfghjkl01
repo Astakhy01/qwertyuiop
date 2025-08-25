@@ -175,8 +175,8 @@ http://app.hughag.store/api/b6a720edea/playlist.m3u8
 https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd
 #EXTM3U
 #EXTINF:-1 tvg-id="65" group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/k29TBRXn/IMG-20250717-200926.jpg",AKASH AATH
-https://tvsen5.aynaott.com/Wm9Lv2RjZGT6/tracks-v1a1/mono.ts.m3u8
-#https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/playlist.m3u8
+#https://tvsen5.aynaott.com/Wm9Lv2RjZGT6/tracks-v1a1/mono.ts.m3u8
+https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="65" group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/rGmRxKPb/IMG-20250717-212311.jpg",HUM TV 
 http://app.hughag.store/api/4518a8c92f/playlist.m3u8
