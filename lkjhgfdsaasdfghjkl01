@@ -393,6 +393,9 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co/TxdzV62d/IMG-20250717-214951.png",ALJAZEERA
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTM3U
+#EXTINF:-1 tvg-id="65" group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co.com/GQxTR19x/IMG-20250825-100208.jpg",ENTERR 10 BANGLA
+http://103.122.252.100:8080/ENTER-10-BANGLA/index.m3u8
+#EXTM3U
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/ks6PspYW/b4u-logo-400.jpg",B4U MUSIC
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/1.m3u8
 #EXTM3U
@@ -455,9 +458,6 @@ https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselect/master.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/2TwFvnR/IMG-20250729-093750.jpg",RAJDHANI TV HD
 #https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #https://jolshabd.com/live/mbanglatv/playlist.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-id="65" group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co.com/GQxTR19x/IMG-20250825-100208.jpg",ENTERR 10 BANGLA
-http://103.122.252.100:8080/ENTER-10-BANGLA/index.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/nqWbsHZP/IMG-20250717-233622.jpg",COLORS CINEPLEX
 #EXTM3U
