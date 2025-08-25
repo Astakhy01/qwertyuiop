@@ -287,7 +287,8 @@ http://tv.bdiptv.store/live/restreauuX58/refstream/96.ts
 http://tv.bdiptv.store/live/restreauuX58/refstream/242.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/b5LLBn2W/IMG-20250717-214703.jpg", NICK JUNIOR
-http://nayatv.ydns.eu:80/xfireflix/flixfire/3688.ts
+https://live.dinesh29.com.np/stream/jiotvplus/nickjunior/master.m3u8
+#http://nayatv.ydns.eu:80/xfireflix/flixfire/3688.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/pjhF60q5/IMG-20250717-214739.jpg",SONY YAY
 http://app.hughag.store/api/b45f637d05/playlist.m3u8
@@ -311,7 +312,8 @@ https://live.dinesh29.com.np/stream/jiotvplus/superhungama/master.m3u8
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/587/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/sJNXVcW9/IMG-20250717-214734.jpg",DISNEY JUNIOR
-http://nayatv.ydns.eu:80/xfireflix/flixfire/3672.ts
+https://live.dinesh29.com.np/stream/jiotvplus/disneyjunior/master.m3u8
+#http://nayatv.ydns.eu:80/xfireflix/flixfire/3672.ts
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/qMVcJfMy/IMG-20250717-214649.jpg", CARTOON HD
 http://app.hughag.store/api/68b0f4e13e/playlist.m3u8
