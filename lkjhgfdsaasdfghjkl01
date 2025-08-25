@@ -328,8 +328,7 @@ http://app.hughag.store/api/aec911dc04/playlist.m3u8
 https://live2.shoq.com.pk/live/eds/Kids_Zone_Plus/DASH/Kids_Zone_Plus.mpd
 #EXTIM3U
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/chXwYt9n/IMG-20250717-211123.jpg",T SPORTS HD
-http://103.122.252.100:8080/T-SPORTS/index.m3u8
-#https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8
+https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="90" group-title="SPORTS" tvg-logo="https://i.ibb.co/PzVgWRzX/IMG-20250803-202204.png", PTV SPORTS 
 http://fast.luckonline.eu/2Nw6SArNhs/9754302190/498
