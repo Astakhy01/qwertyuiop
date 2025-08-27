@@ -55,8 +55,8 @@ https://tvsen5.aynaott.com/tK2BNvT68fHZ/tracks-v1a1/mono.ts.m3u8
 #http://103.230.105.252:1935/live/masranga/index.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/JjMSLh11/IMG-20250717-214756.jpg",DURONTO TV
+https://tvsen4.aynaott.com/durontotv/index.m3u8?e=1753820441&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=4f1e3076e045b78b23ec96556c114bd4
 #http://103.122.252.100:8080/DURONTO-TV/index.m3u8
-https://tvsen6.aynaott.com/durontotv/index.m3u8?e=1750361610&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=7a24ff3341867ab93788c6403e6338a7
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/N6PmkkxF/IMG-20250717-232938.jpg",CHANNEL I
 #http://103.122.252.100:8080/CHANNEL-I/index.m3u8
