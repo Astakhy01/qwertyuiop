@@ -207,7 +207,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/starplushd/master.m3u8
 #http://fast.luckonline.eu/2Nw6SArNhs/9754302190/1365 #http://demonji.onrender.com/multiple/play.php?server=server3&id=440265.m3u8 #http://nayatv.ydns.eu:80/xfireflix/flixfire/3714.ts
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/TD63zsxJ/IMG-20250717-212349.jpg",STAR BHARAT
-https://live.dinesh29.com.np/stream/jiotvplus/starbharat/master.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/starbharathd/master.m3u8
 #http://s5.alltvfree.com:8081/live/starbaharat/playlist.m3u8 #http://nayatv.ydns.eu:80/xfireflix/flixfire/3706.ts
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/rGJ2SKZC/IMG-20250717-212318.jpg",COLORS
@@ -245,7 +245,6 @@ https://dish.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8
 #https://dish.slivcdn.com/hls/live/2011745-b/SonyMaxSD/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/gZ1THDHC/IMG-20250718-101905.jpg",SONY MAX 1
-https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
 #https://m3u.ygxworld.in/p/KzuLAYxuzrui/tp/96133332/master.m3u8%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/1tLzc4VB/IMG-20250718-101946.jpg",SONY WAH
@@ -456,7 +455,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/starmovies/master.m3u8
 #http://nayatv.ydns.eu:80/xfireflix/flixfire/3713.ts #http://tv.bdiptv.store/live/restreauuX58/refstream/95.ts
 #EXTM3U 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/Fkp7JYrj/IMG-20250717-233602.png",STAR MOVIES SELECT HD
-https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselect/master.m3u8
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/2TwFvnR/IMG-20250729-093750.jpg",RAJDHANI TV HD
 #https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
