@@ -211,7 +211,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/starbharathd/master.m3u8
 #http://s5.alltvfree.com:8081/live/starbaharat/playlist.m3u8 #http://nayatv.ydns.eu:80/xfireflix/flixfire/3706.ts
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/rGJ2SKZC/IMG-20250717-212318.jpg",COLORS
-https://live.dinesh29.com.np/stream/jiotv/colorssd/master.m3u8
+https://live.dinesh29.com.np/stream/jiotv/colorshd/master.m3u8
 #http://nayatv.ydns.eu:80/xfireflix/flixfire/3665.ts #http://tv.bdiptv.store/live/restreauu/refstream/93.ts
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/hRyCt5dV/IMG-20250717-212329.jpg", ANT TV HD
@@ -451,7 +451,7 @@ http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92
 https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/QjcNdL48/IMG-20250717-233746.png",STAR MOVIES HD 
-https://live.dinesh29.com.np/stream/jiotvplus/starmovies/master.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/starmovieshd/master.m3u8
 #http://nayatv.ydns.eu:80/xfireflix/flixfire/3713.ts #http://tv.bdiptv.store/live/restreauuX58/refstream/95.ts
 #EXTM3U 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/Fkp7JYrj/IMG-20250717-233602.png",STAR MOVIES SELECT HD
