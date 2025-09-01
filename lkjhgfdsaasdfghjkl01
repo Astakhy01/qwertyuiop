@@ -145,12 +145,11 @@ https://tvsen5.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/kswKddL5/IMG-20250717-200718.jpg",STAR JALSHA SD
-https://restreaming.sultanarabi161.workers.dev/azers/277349.m3u8
+http://tv.bdiptv.store:80/restreauuX58y/refstream/223.ts
 #http://tv.bdiptv.store/live/restreauu/refstream/52.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/Rp0LhC0Z/IMG-20250717-203236.jpg",STAR JALSHA HD
 https://m3u.ygxworld.in/p/KzuLAYxuzrui/tp/468/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 
-#http://103.122.252.100:8080/STAR-JALSHA/index.m3u8
 #https://tvsen5.aynaott.com/gUX8BJmNc2yF/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="74" group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/kgr1QKpY/IMG-20250717-200835.jpg",ZEE BANGLA 
@@ -158,8 +157,7 @@ http://app.hughag.store/api/154d534216/playlist.m3u8
 #https://bd.drmlive.net/toffee/cdn/live/zee_bangla/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/dJ7fbnR3/IMG-20250717-200840.jpg",ZEE BANGLA HD
-https://tiger-hub.vercel.app/Zee-bangla/tracks-v1a1/mono.ts.m3u8
-#http://tv.bdiptv.store/live/restreauuX58/refstream/15252.ts
+http://tv.bdiptv.store/live/restreauuX58y/refstream/15252.ts
 #https://tvsen5.aynaott.com/PNEb3v2q6GBk/index.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
 #EXTM3U
