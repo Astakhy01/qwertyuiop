@@ -149,14 +149,12 @@ http://tv.bdiptv.store:80/restreauuX58y/refstream/52.ts
 #https://tvsen5.aynaott.com/gUX8BJmNc2yF/index.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/Rp0LhC0Z/IMG-20250717-203236.jpg",STAR JALSHA HD
-https://m3u.ygxworld.in/p/KzuLAYxuzrui/tp/468/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36 
 #EXTM3U
 #EXTINF:-1 tvg-id="74" group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/kgr1QKpY/IMG-20250717-200835.jpg",ZEE BANGLA 
 http://app.hughag.store/api/154d534216/playlist.m3u8
 #https://bd.drmlive.net/toffee/cdn/live/zee_bangla/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/dJ7fbnR3/IMG-20250717-200840.jpg",ZEE BANGLA HD
-http://tv.bdiptv.store/live/restreauuX58y/refstream/15252.ts
 #https://tvsen5.aynaott.com/PNEb3v2q6GBk/index.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
 #EXTM3U
@@ -196,9 +194,6 @@ http://tv.bdiptv.store/live/restreauuX58y/refstream/238.ts
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/k2kbnmkj/IMG-20250717-200915.jpg",JALSHA MOVIES
 https://rex-streaming.vercel.app/api/Bdx2/83756.m3u8|user-agent=@xfireflix
 #http://tv.bdiptv.store/live/restreauu/refstream/81.ts
-#EXTM3U
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/k2kbnmkj/IMG-20250717-200915.jpg",JALSHA MOVIES
-https://live.dinesh29.com.np/stream/jiotvplus/jalshamovies/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/Cs0M4P1R/IMG-20250717-212357.jpg", STAR PLUS HD
 https://live.dinesh29.com.np/stream/jiotvplus/starplushd/master.m3u8
@@ -260,13 +255,6 @@ https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/cd1f59d6-9b5d-43f0-bfb2-6ca9edc99f27/0.m3u8
 #https://tumar-abbu.pages.dev/WavesOTT/B4U-Movies/tracks-v1a1/mono.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/8gvq7sNS/IMG-20250821-205752.jpg", STAR GOLD SELECT
-https://live.dinesh29.com.np/stream/jiotvplus/stargoldselect/master.m3u8
-#EXTM3U
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/Q7CkjCxM/IMG-20250821-205802.jpg", STAR GOLD ROMANCE
-https://live.dinesh29.com.np/stream/jiotvplus/stargoldromance/master.m3u8
-#http://fast.luckonline.eu/2Nw6SArNhs/9754302190/630
-#EXTM3U
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/M5gwSXpx/IMG-20250718-101914.jpg", STAR GOLD 2
 https://live.dinesh29.com.np/stream/jiotvplus/stargold2/master.m3u8
 #http://66.102.120.18:8000/play/a00g/index.m3u8
@@ -303,8 +291,6 @@ https://live.dinesh29.com.np/stream/jiotvplus/superhungama/master.m3u8
 #https://stream.himelop-pro.top/vm/disneyop.m3u8
 #https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/587/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 #EXTM3U
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/sJNXVcW9/IMG-20250717-214734.jpg",DISNEY JUNIOR
-https://live.dinesh29.com.np/stream/jiotvplus/disneyjunior/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/qMVcJfMy/IMG-20250717-214649.jpg", CARTOON HD
 http://app.hughag.store/api/68b0f4e13e/playlist.m3u8
@@ -337,19 +323,9 @@ https://tvsen7.aynaott.com/asports-bkp/index.m3u8?e=1753741206&u=9a031201-22d8-4
 #EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co/yFtYnJ4D/IMG-20250717-211048.jpg",STAR SPORTS 1 HD
 http://fast.luckonline.eu/2Nw6SArNhs/9754302190/1065
 #EXTIM3U
-#EXTINF:-1 tvg-id="89" group-title="SPORTS" tvg-logo="https://i.ibb.co/chLHPVBr/IMG-20250717-211053.jpg",STAR SPORTS 2 HD 
-http://fast.luckonline.eu/2Nw6SArNhs/9754302190/1370
-#EXTIM3U
-#EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co.com/bMVtFk11/IMG-20250821-205747.jpg",STAR SPORTS 3
-http://fast.luckonline.eu/2Nw6SArNhs/9754302190/502
-#http://103.122.252.100:8080/STAR-SPORTS-3/index.m3u8
-#EXTIM3U
 #EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co/kVDCSGhP/IMG-20250717-211059.jpg",STAR SPORTS SELECT 1 HD
 http://fast.luckonline.eu/2Nw6SArNhs/9754302190/1125
 #https://tvsen6.aynaott.com/spsel1/index.m3u8?e=1753741230&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=5f45fc60f73036091c4c6ffd19083b5d
-#EXTIM3U
-#EXTINF:-1 tvg-id="89" group-title="SPORTS" tvg-logo="https://i.ibb.co/gZ4d2rN9/IMG-20250717-211105.jpg",STAR SPORTS SELECT 2 HD
-http://fast.luckonline.eu/2Nw6SArNhs/9754302190/1315
 #EXTM3U
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/20hm5LjP/IMG-20250717-211016.jpg",SONY SPORTS 1 HD
 https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
@@ -378,7 +354,7 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="65" group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co.com/GQxTR19x/IMG-20250825-100208.jpg",ENTERR 10 BANGLA
-http://103.122.252.100:8080/ENTER-10-BANGLA/index.m3u8
+
 #EXTM3U
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/ks6PspYW/b4u-logo-400.jpg",B4U MUSIC
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/1.m3u8
@@ -437,12 +413,3 @@ https://live.dinesh29.com.np/stream/jiotvplus/starmovieshd/master.m3u8
 #EXTM3U 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/Fkp7JYrj/IMG-20250717-233602.png",STAR MOVIES SELECT HD
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
-#EXTM3U
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/2TwFvnR/IMG-20250729-093750.jpg",RAJDHANI TV HD
-#https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-#https://jolshabd.com/live/mbanglatv/playlist.m3u8
-#EXTM3U
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/nqWbsHZP/IMG-20250717-233622.jpg",COLORS CINEPLEX
-#EXTM3U
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/7JT10H4b/IMG-20250717-233627.jpg", COLORS C SUPER
-#EXTM3U
