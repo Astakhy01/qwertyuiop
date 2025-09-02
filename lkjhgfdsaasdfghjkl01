@@ -83,11 +83,7 @@ https://tvsen6.aynaott.com/channel9/index.m3u8?e=1750361452&u=8be812d7-3211-4694
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/Cs6thYRw/IMG-20250717-232836.jpg",MOHONA TV
 https://tvsen6.aynaott.com/mohonatv/index.m3u8?e=1750361663&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=2fa855189caac317d8bbf0c6ed058dcb
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/mohonatv.stream/playlist.m3u8
-#EXTM3U
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/rfLwYkFn/IMG-20250718-103141.png",NAGORIK TV
-http://103.122.252.100:8080/NAGORIK-TV/index.m3u8
-#https://tvsen6.aynaott.com/btvctg/index.m3u8?e=1753741240&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=53499e93cb788d175ff8df88e1fe6fa6
-#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvnational-ctg.stream/playlist.m3u8
+
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/v2zdFw4/IMG-20250718-103132.jpg",N TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
@@ -145,7 +141,8 @@ https://tvsen5.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/kswKddL5/IMG-20250717-200718.jpg",STAR JALSHA SD
-http://tv.bdiptv.store:80/restreauuX58y/refstream/52.ts
+http://tv.bdiptv.store:80/restreauuX58y/refstream/223.ts
+#http://tv.bdiptv.store:80/restreauuX58y/refstream/52.ts
 #https://tvsen5.aynaott.com/gUX8BJmNc2yF/index.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/Rp0LhC0Z/IMG-20250717-203236.jpg",STAR JALSHA HD
@@ -309,15 +306,14 @@ http://app.hughag.store/api/aec911dc04/playlist.m3u8
 https://live2.shoq.com.pk/live/eds/Kids_Zone_Plus/DASH/Kids_Zone_Plus.mpd
 #EXTIM3U
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/chXwYt9n/IMG-20250717-211123.jpg",T SPORTS HD
-#http://103.122.252.100:8080/T-SPORTS/index.m3u8
 https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="90" group-title="SPORTS" tvg-logo="https://i.ibb.co/PzVgWRzX/IMG-20250803-202204.png", PTV SPORTS 
 http://fast.luckonline.eu/2Nw6SArNhs/9754302190/498
 #EXTIM3U
 #EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co.com/MyCR92SP/IMG-20250821-205806.jpg",A SPORTS 
-#http://fast.luckonline.eu/2Nw6SArNhs/9754302190/804
-https://tvsen7.aynaott.com/asports-bkp/index.m3u8?e=1753741206&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=5a0bc2356583a90eda9d44a988b1f584
+http://fast.luckonline.eu/2Nw6SArNhs/9754302190/804
+#https://tvsen7.aynaott.com/asports-bkp/index.m3u8?e=1753741206&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=5a0bc2356583a90eda9d44a988b1f584
 #EXTIM3U
 #EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co/yFtYnJ4D/IMG-20250717-211048.jpg",STAR SPORTS 1 HD
 http://fast.luckonline.eu/2Nw6SArNhs/9754302190/1065
@@ -360,6 +356,7 @@ https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 #EXTM3U
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/ZzDHB4DR/IMG-20250717-212423.jpg",SANGEET BANGLA MUSIC 
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/montv.stream/playlist.m3u8
+
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/8nJ9Bxmh/images-1752772310380.png",DISCOVERY BANGLA
 #http://fast.luckonline.eu/2Nw6SArNhs/9754302190/1967
@@ -400,6 +397,3 @@ https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/QjcNdL48/IMG-20250717-233746.png",STAR MOVIES HD 
 https://live.dinesh29.com.np/stream/jiotvplus/starmovieshd/master.m3u8
 #http://tv.bdiptv.store/live/restreauuX58/refstream/95.ts
-#EXTM3U 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/Fkp7JYrj/IMG-20250717-233602.png",STAR MOVIES SELECT HD
-https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
