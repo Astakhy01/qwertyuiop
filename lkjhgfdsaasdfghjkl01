@@ -289,7 +289,6 @@ https://live.dinesh29.com.np/stream/jiotvplus/hungama/master.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/TN4RVbL/IMG-20250717-214720.jpg",SUPER HUNGAMA
 https://live.dinesh29.com.np/stream/jiotvplus/superhungama/master.m3u8
 #https://stream.himelop-pro.top/vm/disneyop.m3u8
-#https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/587/master.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 #EXTM3U
 #EXTM3U
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/qMVcJfMy/IMG-20250717-214649.jpg", CARTOON HD
@@ -371,15 +370,6 @@ https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/ZRdHXKmN/download-2.png",TLC
 http://app.hughag.store/api/2f65a81a58/playlist.m3u8
-#EXTM3U
-#EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/93wvskZX/images.jpg",DISCOVERY SCIENCE
-http://app.hughag.store/api/7077164c21/playlist.m3u8
-#EXTM3U
-#EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/KdmfJ1h/images-1.jpg",INVESTIGATION DISCOVERY
-http://app.hughag.store/api/7e70626a3c/playlist.m3u8
-#EXTM3U
-#EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/MW8DZ0v/IMG-20250718-101837.jpg",DISCOVERY TURBO
-http://app.hughag.store/api/5804d89e97/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="INFOTAINMEAT" tvg-logo="https://i.ibb.co/cKbBQz5M/download-1.png", ANIMAL PLANET HD
 http://app.hughag.store/api/17d293badb/playlist.m3u8
