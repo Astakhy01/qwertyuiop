@@ -1,0 +1,75 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 xui-id="1678" tvg-id="" tvg-name="ASIA CUP LIVE 1" tvg-logo="https://amadertv.top:8880/images/4f38ddc5d0c16f10211ddd8ccb76db51.png" group-title="CRICKET LIVE EVENT",ASIA CUP LIVE 1
+https://tv.uktv.top:8880/play/6O9QY7Bjk5l0VSCWjXVMgYp2xMN-q36OLHP0h7-gA8I/ts
+#EXTINF:-1 xui-id="3595" tvg-id="" tvg-name="ASIA CUP LIVE 2" tvg-logo="https://amadertv.top:8880/images/43e431d96f7cd8be1a13d15e0328f0c9.png" group-title="CRICKET LIVE EVENT",ASIA CUP LIVE 2
+https://tv.uktv.top:8880/play/6O9QY7Bjk5l0VSCWjXVMgYgrqPgNjdngBF1eMXda7uw/ts
+#EXTINF:-1 xui-id="5456" tvg-id="" tvg-name="CPL 2025 LIVE 1" tvg-logo="https://amadertv.top:8880/images/4f38ddc5d0c16f10211ddd8ccb76db51.png" group-title="CRICKET LIVE EVENT",CPL 2025 LIVE 1
+https://tv.uktv.top:8880/play/6O9QY7Bjk5l0VSCWjXVMgangx4Qoccz76r9cUefLq_o/ts
+#EXTINF:-1 xui-id="9370" tvg-id="" tvg-name="WC Qualifiers live 1" tvg-logo="https://amadertv.top:8880/images/f79f611bd35fdefb9a47108232cd5829.png" group-title="FOOTBALL LIVE EVENT",WC Qualifiers live 1
+https://tv.uktv.top:8880/play/6O9QY7Bjk5l0VSCWjXVMgakYqT5sJNCSgJtL34ddh8M/ts
+#EXTINF:-1 xui-id="9476" tvg-id="" tvg-name="WC Qualifiers live 2" tvg-logo="https://amadertv.top:8880/images/f79f611bd35fdefb9a47108232cd5829.png" group-title="FOOTBALL LIVE EVENT",WC Qualifiers live 2
+https://tv.uktv.top:8880/play/6O9QY7Bjk5l0VSCWjXVMgVVftJC0_OOrAVQO_TdHdxY/ts
+#EXTINF:-1 xui-id="2233" tvg-id="" tvg-name="WC Qualifiers live 3" tvg-logo="https://amadertv.top:8880/images/dc95cd8705fce15cab1af1dc6e563efd.png" group-title="FOOTBALL LIVE EVENT",WC Qualifiers live 3
+https://tv.uktv.top:8880/play/6O9QY7Bjk5l0VSCWjXVMgbGOQtMUiuLhJZH9Fn6bY_I/ts
+#EXTINF:-1 xui-id="9473" tvg-id="" tvg-name="WC Qualifiers live 4" tvg-logo="https://amadertv.top:8880/images/dc95cd8705fce15cab1af1dc6e563efd.png" group-title="FOOTBALL LIVE EVENT",WC Qualifiers live 4
+https://tv.uktv.top:8880/play/6O9QY7Bjk5l0VSCWjXVMgSWye8moQ1vpkMBy-zlYv4c/ts
+#EXTINF:-1 xui-id="459" tvg-id="" tvg-name="ZIMBABWE vs SRI LANKA LIVE" tvg-logo="https://amadertv.top:8880/images/7a9a3c1a860dafb7f63e5002a783f2f1.png" group-title="CRICKET LIVE EVENT",ZIMBABWE vs SRI LANKA LIVE
+https://tv.uktv.top:8880/play/6O9QY7Bjk5l0VSCWjXVMgXjL_OhTW9WZGYhZ62mlL84/ts
+#EXTINF:-1 xui-id="1785" tvg-id="" tvg-name="UAE TRI SERIES LIVE" tvg-logo="https://amadertv.top:8880/images/4f38ddc5d0c16f10211ddd8ccb76db51.png" group-title="CRICKET LIVE EVENT",UAE TRI SERIES LIVE
+https://tv.uktv.top:8880/play/6O9QY7Bjk5l0VSCWjXVMgY898EzdtTaYM6E5AOwH9DM/ts
+#EXTINF:-1 xui-id="9134" tvg-id="" tvg-name="BIGG BOSS 24X7" tvg-logo="" group-title="BDIX | ENTERTAINMENT",BIGG BOSS 24X7
+https://tv.uktv.top:8880/play/6O9QY7Bjk5l0VSCWjXVMgc-RPJ26mh60k35njJpYTFE/ts
+#EXTINF:-1 xui-id="180" tvg-id="" tvg-name="BIGG BOSS 24X7" tvg-logo="" group-title="CDN | ENTERTAINMENT",BIGG BOSS 24X7
+https://tv.uktv.top:8880/play/6O9QY7Bjk5l0VSCWjXVMgQkow23TLcCL8ZBOO5G9ask/ts
+#EXTINF:-1 xui-id="2571" tvg-id="" tvg-name="IND | Colors HD" tvg-logo="https://amadertv.top:8880/images/39653c3dd5a214be8106cbf2e007bf29.png" group-title="BDIX | ENTERTAINMENT",IND | Colors HD
+https://tv.uktv.top:8880/play/6O9QY7Bjk5l0VSCWjXVMgS5ysi-joxooRtmJJnI6SoA/ts
+#EXTINF:-1 xui-id="9907" tvg-id="" tvg-name="IND | Colors FHD" tvg-logo="https://amadertv.top:8880/images/39653c3dd5a214be8106cbf2e007bf29.png" group-title="BDIX | ENTERTAINMENT",IND | Colors FHD
+https://tv.uktv.top:8880/play/6O9QY7Bjk5l0VSCWjXVMgfHo_ZiIi7DspWY90LaYkbU/ts
+#EXTINF:-1 xui-id="2762" tvg-id="" tvg-name="LIVE 1" tvg-logo="https://amadertv.top:8880/images/43e431d96f7cd8be1a13d15e0328f0c9.png" group-title="CRICKET LIVE EVENT",LIVE 1
+https://tv.uktv.top:8880/play/6O9QY7Bjk5l0VSCWjXVMgbtbJA1keydgW2JVuiP1ILw/ts
+#EXTINF:-1 xui-id="9477" tvg-id="" tvg-name="LIVE 2" tvg-logo="https://amadertv.top:8880/images/7a9a3c1a860dafb7f63e5002a783f2f1.png" group-title="CRICKET LIVE EVENT",LIVE 2
+https://tv.uktv.top:8880/play/6O9QY7Bjk5l0VSCWjXVMgbUKBY2Nq1PZFEdZoz5f_W0/ts
+#EXTINF:-1 xui-id="9348" tvg-id="" tvg-name="LIVE 3" tvg-logo="https://amadertv.top:8880/images/4f38ddc5d0c16f10211ddd8ccb76db51.png" group-title="CRICKET LIVE EVENT",LIVE 3
+https://tv.uktv.top:8880/play/6O9QY7Bjk5l0VSCWjXVMgaV5wIPVDNJ97O1WnlOuFLc/ts
+#EXTINF:-1 xui-id="7982" tvg-id="" tvg-name="Star Jalsha" tvg-logo="https://amadertv.top:8880/images/cc3688457cac49ef197d16ea8c9c8ad5.png" group-title="CDN | INDIAN BANGLA",Star Jalsha
+https://tv.uktv.top:8880/play/6O9QY7Bjk5l0VSCWjXVMgQ7Hq_ckoAEBEeVA-GGympI/ts
+#EXTINF:-1 xui-id="494" tvg-id="JALSHA" tvg-name="Star Jalsha HD" tvg-logo="https://amadertv.top:8880/images/cc3688457cac49ef197d16ea8c9c8ad5.png" group-title="CDN | INDIAN BANGLA",Star Jalsha HD
+https://tv.uktv.top:8880/play/6O9QY7Bjk5l0VSCWjXVMgeYRRfpPmCx-UqTbMUJ_03U/ts
+#EXTINF:-1 xui-id="9650" tvg-id="" tvg-name="IND | Star Jalsha HD." tvg-logo="https://amadertv.top:8880/images/cc3688457cac49ef197d16ea8c9c8ad5.png" group-title="BDIX | INDIAN BANGLA",IND | Star Jalsha HD.
+https://tv.uktv.top:8880/play/6O9QY7Bjk5l0VSCWjXVMgWJvK4Bcb3fsHGzUf64-8oU/ts
+#EXTINF:-1 xui-id="9161" tvg-id="JALSHA" tvg-name="IND | Star Jalsha HD" tvg-logo="https://amadertv.top:8880/images/cc3688457cac49ef197d16ea8c9c8ad5.png" group-title="BDIX | INDIAN BANGLA",IND | Star Jalsha HD
+https://tv.uktv.top:8880/play/6O9QY7Bjk5l0VSCWjXVMgZwebksdqc27Ll1neQxEKRk/ts
+#EXTINF:-1 xui-id="11" tvg-id="ZBNGL" tvg-name="IND | Zee Bangla HD" tvg-logo="https://amadertv.top:8880/images/daf35a724a656f6653c302d606974a75.png" group-title="BDIX | INDIAN BANGLA",IND | Zee Bangla HD
+https://tv.uktv.top:8880/play/6O9QY7Bjk5l0VSCWjXVMgT2OngquMew8nIFlau1YCZQ/ts
+#EXTINF:-1 xui-id="140" tvg-id="" tvg-name="IND | Zee bangla HD." tvg-logo="https://amadertv.top:8880/images/daf35a724a656f6653c302d606974a75.png" group-title="BDIX | INDIAN BANGLA",IND | Zee bangla HD.
+https://tv.uktv.top:8880/play/6O9QY7Bjk5l0VSCWjXVMgR0S6fnN4rD-sxdsF3IeDjU/ts
+#EXTINF:-1 xui-id="9431" tvg-id="ZBNGL" tvg-name="Zee Bangla SD" tvg-logo="https://amadertv.top:8880/images/daf35a724a656f6653c302d606974a75.png" group-title="CDN | INDIAN BANGLA",Zee Bangla SD
+https://tv.uktv.top:8880/play/6O9QY7Bjk5l0VSCWjXVMgQToLSygqC6kEX1MSEK6A_w/ts
+#EXTINF:-1 xui-id="1521" tvg-id="" tvg-name="IND | Akash Aath.." tvg-logo="https://amadertv.top:8880/images/4fc3946805a319eed90ed1fa4f46d18d.png" group-title="BDIX | INDIAN BANGLA",IND | Akash Aath..
+https://tv.uktv.top:8880/play/6O9QY7Bjk5l0VSCWjXVMgVZCYUvQm0vYb-p5vlMfdjs/ts
+#EXTINF:-1 xui-id="1515" tvg-id="" tvg-name="IND | Colors Bangla Cinema.." tvg-logo="https://amadertv.top:8880/images/00349c906f8d988d2bd4897542d0b18a.png" group-title="BDIX | INDIAN BANGLA",IND | Colors Bangla Cinema..
+https://tv.uktv.top:8880/play/6O9QY7Bjk5l0VSCWjXVMgUY0Q7jNEkmvQD4p3HndpQI/ts
+#EXTINF:-1 xui-id="2592" tvg-id="" tvg-name="IND | Colors Bangla HD.." tvg-logo="https://amadertv.top:8880/images/00349c906f8d988d2bd4897542d0b18a.png" group-title="BDIX | INDIAN BANGLA",IND | Colors Bangla HD..
+https://tv.uktv.top:8880/play/6O9QY7Bjk5l0VSCWjXVMgdCaPBNqJzuewJwTdgoKrFc/ts
+#EXTINF:-1 xui-id="2582" tvg-id="" tvg-name="IND | Enterr 10 Bangla.." tvg-logo="https://amadertv.top:8880/images/cab550b9f4525f629e0e9d60d92062d9.png" group-title="BDIX | INDIAN BANGLA",IND | Enterr 10 Bangla..
+https://tv.uktv.top:8880/play/6O9QY7Bjk5l0VSCWjXVMgaxY6IFsv8-BIkOBuOyrbug/ts
+#EXTINF:-1 xui-id="9560" tvg-id="" tvg-name="IND | Jalsha Movie HD" tvg-logo="https://amadertv.top:8880/images/7b56b95ae6b670652b7b990e79fe7c07.png" group-title="BDIX | INDIAN BANGLA",IND | Jalsha Movie HD
+https://tv.uktv.top:8880/play/6O9QY7Bjk5l0VSCWjXVMgYMnoGcOc-JO5aPyrMLIoys/ts
+#EXTINF:-1 xui-id="9582" tvg-id="" tvg-name="IND | Khushboo Bangla.." tvg-logo="https://amadertv.top:8880/images/0a726aab3b5e7259859705d84f7d19b6.png" group-title="BDIX | INDIAN BANGLA",IND | Khushboo Bangla..
+https://tv.uktv.top:8880/play/6O9QY7Bjk5l0VSCWjXVMgVubo_2yD4DUWuNhXyWl5LY/ts
+#EXTINF:-1 xui-id="9407" tvg-id="" tvg-name="IND | Orange Bangla" tvg-logo="" group-title="BDIX | INDIAN BANGLA",IND | Orange Bangla
+https://tv.uktv.top:8880/play/6O9QY7Bjk5l0VSCWjXVMgcNDAoQ7kZ733KetgoySyB4/ts
+#EXTINF:-1 xui-id="9489" tvg-id="" tvg-name="IND | RPLUS GOLD" tvg-logo="" group-title="BDIX | INDIAN BANGLA",IND | RPLUS GOLD
+https://tv.uktv.top:8880/play/6O9QY7Bjk5l0VSCWjXVMgaNY1KhcNtEK5URKZnwj114/ts
+#EXTINF:-1 xui-id="248" tvg-id="" tvg-name="IND | Ruposhi Bangla.." tvg-logo="https://amadertv.top:8880/images/3c22157d03f170dd383e4c851487171c.png" group-title="BDIX | INDIAN BANGLA",IND | Ruposhi Bangla..
+https://tv.uktv.top:8880/play/6O9QY7Bjk5l0VSCWjXVMgWv34y8H4HRaqyNLCj1JbRY/ts
+#EXTINF:-1 xui-id="3169" tvg-id="" tvg-name="IND | Sangeet Bangla.." tvg-logo="https://amadertv.top:8880/images/4dc6a75db6879a3cf234d600fdec3f91.png" group-title="BDIX | INDIAN BANGLA",IND | Sangeet Bangla..
+https://tv.uktv.top:8880/play/6O9QY7Bjk5l0VSCWjXVMgeE3gfAJ3FcdTBOqfNS0_BA/ts
+#EXTINF:-1 xui-id="3157" tvg-id="" tvg-name="IND | Sony Aath.." tvg-logo="https://amadertv.top:8880/images/27a90e36876babfde99d60c651c32799.png" group-title="BDIX | INDIAN BANGLA",IND | Sony Aath..
+https://tv.uktv.top:8880/play/6O9QY7Bjk5l0VSCWjXVMgQVbaePz1_e1G4RyzPz9-Fw/ts
+#EXTINF:-1 xui-id="9559" tvg-id="" tvg-name="IND | Sun Bangla.." tvg-logo="https://amadertv.top:8880/images/4c51104a81300a5af27174e46970d789.png" group-title="BDIX | INDIAN BANGLA",IND | Sun Bangla..
+https://tv.uktv.top:8880/play/6O9QY7Bjk5l0VSCWjXVMgVr675DMZkwpb-cJhAbFrz0/ts
+#EXTINF:-1 xui-id="8753" tvg-id="" tvg-name="IND | Tara Bangla cinema" tvg-logo="https://amadertv.top:8880/images/079cc0026e17d80d37e7b76d746e74eb.png" group-title="BDIX | INDIAN BANGLA",IND | Tara Bangla cinema
+https://tv.uktv.top:8880/play/6O9QY7Bjk5l0VSCWjXVMgeaQCXI0UkSmCt5glu1YCZw/ts
+#EXTINF:-1 xui-id="7" tvg-id="" tvg-name="IND | Zee Bangla Cinema HD.." tvg-logo="https://amadertv.top:8880/images/9ba491b5a277bce8d2f23bcb92a7a0bf.png" group-title="BDIX | INDIAN BANGLA",IND | Zee Bangla Cinema HD..
