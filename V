@@ -1,2 +1,2 @@
-#EXTINF:-1 tvg-id="zeebanglahd.in" tvg-name="IND-Bangla: Zee Bangla HD" tvg-logo="http://openboxv8s.com/india/zee_bangla.jpg" group-title="BANGLADESH",IND-Bangla: Zee Bangla HD
+#EXTINF:-1 tvg-id="zeebanglahd.in" tvg-name="Bangla: Zee Bangla HD" tvg-logo="https://i.ibb.co/dJ7fbnR3/IMG-20250717-200840.jpg" group-title="BANGLADESH",Bangla:ZEE BANGLA HD
 http://fast.luckonline.eu/2Nw6SArNhs/9754302190/537
