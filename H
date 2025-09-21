@@ -1,3 +1,33 @@
+#EXTINF:-1 tvg-id="" tvg-name="BD-loc: Gazi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="BANGLADESH",BD-loc: Gazi TV
+http://opplex.rw:80/08052400/11080524/245901
+#EXTINF:-1 tvg-id="" tvg-name="BD-loc: Gazi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="BANGLADESH",BD-loc: Gazi TV
+http://opplex.rw:80/08052400/11080524/245901
+#EXTINF:-1 tvg-id="" tvg-name="BD-loc: Gazi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="BANGLADESH",BD-loc: Gazi TV
+http://opplex.rw:80/08052400/11080524/245901
+#EXTINF:-1 tvg-id="" tvg-name="BD-loc: Gazi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="BANGLADESH",BD-loc: Gazi TV
+http://opplex.rw:80/08052400/11080524/245901
+#EXTINF:-1 tvg-id="" tvg-name="BD-loc: Gazi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="BANGLADESH",BD-loc: Gazi TV
+http://opplex.rw:80/08052400/11080524/245901
+#EXTINF:-1 tvg-id="" tvg-name="BD-loc: Gazi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="BANGLADESH",BD-loc: Gazi TV
+http://opplex.rw:80/08052400/11080524/245901
+#EXTINF:-1 tvg-id="" tvg-name="BD-loc: Gazi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="BANGLADESH",BD-loc: Gazi TV
+http://opplex.rw:80/08052400/11080524/245901
+#EXTINF:-1 tvg-id="" tvg-name="BD-loc: Gazi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="BANGLADESH",BD-loc: Gazi TV
+http://opplex.rw:80/08052400/11080524/245901
+#EXTINF:-1 tvg-id="" tvg-name="BD-loc: Gazi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="BANGLADESH",BD-loc: Gazi TV
+http://opplex.rw:80/08052400/11080524/245901
+#EXTINF:-1 tvg-id="" tvg-name="BD-loc: Gazi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="BANGLADESH",BD-loc: Gazi TV
+http://opplex.rw:80/08052400/11080524/245901
+#EXTINF:-1 tvg-id="" tvg-name="BD-loc: Gazi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="BANGLADESH",BD-loc: Gazi TV
+http://opplex.rw:80/08052400/11080524/245901
+#EXTINF:-1 tvg-id="" tvg-name="BD-loc: Gazi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="BANGLADESH",BD-loc: Gazi TV
+http://opplex.rw:80/08052400/11080524/245901
+#EXTINF:-1 tvg-id="" tvg-name="BD-loc: Gazi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="BANGLADESH",BD-loc: Gazi TV
+http://opplex.rw:80/08052400/11080524/245901
+
+
+
+
 #EXTINF:-1 tvg-id="zeebanglahd.in" tvg-name="IND-Bangla: Zee Bangla HD" tvg-logo="http://openboxv8s.com/india/zee_bangla.jpg" group-title="BANGLADESH",IND-Bangla: Zee Bangla HD
 http://opplex.rw:80/08052400/11080524/245893
 #EXTINF:-1 tvg-id="" tvg-name="BD-loc: Colors Bangla" tvg-logo="" group-title="BANGLADESH",BD-loc: Colors Bangla
@@ -10,6 +40,7 @@ http://opplex.rw:80/08052400/11080524/245898
 http://opplex.rw:80/08052400/11080524/245900
 #EXTINF:-1 tvg-id="" tvg-name="BD-loc: Gazi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="BANGLADESH",BD-loc: Gazi TV
 http://opplex.rw:80/08052400/11080524/245901
+
 #EXTINF:-1 tvg-id="" tvg-name="BD-loc: Channel 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-title="BANGLADESH",BD-loc: Channel 9
 http://opplex.rw:80/08052400/11080524/245902
 #EXTINF:-1 tvg-id="" tvg-name="BD-loc: NEWS 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/News24_Logo.jpg" group-title="BANGLADESH",BD-loc: NEWS 24
