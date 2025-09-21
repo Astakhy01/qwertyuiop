@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dJ7fbnR3/IMG-20250717-200840.jpg", ZEE BANGLA
+http://app.hughag.store/api/154d534216/playlist.m3u8
