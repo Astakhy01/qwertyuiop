@@ -22,7 +22,7 @@ http://opplex.rw:80/08052400/11080524/245905
 http://opplex.rw:80/08052400/11080524/245906
 #EXTINF:-1 tvg-id="" tvg-name="BD-LOC: 71banglatv" tvg-logo="" group-title="BANGLADESH",BD-LOC: 71banglatv
 http://opplex.rw:80/08052400/11080524/245907
-#EXTINF:-1 tvg-id="" tvg-name="BD-LOC: Asian tv" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/ec/%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="BANGLADESH",BD-LOC: Asian tv
+#EXTINF:-1 tvg-id="" tvg-name="BD-LOC: Asian tv" tvg-logo="" group-title="BANGLADESH",BD-LOC: Asian tv
 http://opplex.rw:80/08052400/11080524/245908
 #EXTINF:-1 tvg-id="" tvg-name="BD-LOC: ATN Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" group-title="BANGLADESH",BD-LOC: ATN Bangla
 http://opplex.rw:80/08052400/11080524/245909
@@ -38,7 +38,7 @@ http://opplex.rw:80/08052400/11080524/245914
 http://opplex.rw:80/08052400/11080524/245915
 #EXTINF:-1 tvg-id="" tvg-name="BD-LOC: independent" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/800px-Independent_Television_Logo.svg.png" group-title="BANGLADESH",BD-LOC: independent
 http://opplex.rw:80/08052400/11080524/245916
-#EXTINF:-1 tvg-id="" tvg-name="BD-LOC: jamuna tv" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/69/%E0%A6%AF%E0%A6%AE%E0%A7%81%E0%A6%A8%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="BANGLADESH",BD-LOC: jamuna tv
+#EXTINF:-1 tvg-id="" group-title="BANGLADESH",BD-LOC: jamuna tv
 http://opplex.rw:80/08052400/11080524/245917
 #EXTINF:-1 tvg-id="" tvg-name="BD-LOC: R PLUS" tvg-logo="" group-title="BANGLADESH",BD-LOC: R PLUS
 http://opplex.rw:80/08052400/11080524/245918
@@ -56,7 +56,7 @@ http://opplex.rw:80/08052400/11080524/245924
 http://opplex.rw:80/08052400/11080524/245925
 #EXTINF:-1 tvg-id="" tvg-name="BD-loc: Deepto tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="BANGLADESH",BD-loc: Deepto tv
 http://opplex.rw:80/08052400/11080524/245927
-#EXTINF:-1 tvg-id="" tvg-name="BD-loc: Aakaash" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/8/80/%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B6_%E0%A7%AE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg" group-title="BANGLADESH",BD-loc: Aakaash
+#EXTINF:-1 tvg-id="" tvg-name="BD-loc: Aakaash" tvg-logo="" group-title="BANGLADESH",BD-loc: Aakaash
 http://opplex.rw:80/08052400/11080524/245928
 #EXTINF:-1 tvg-id="" tvg-name="BD: Ananda TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Ananda_TV_Logo.png" group-title="BANGLADESH",BD: Ananda TV
 http://opplex.rw:80/08052400/11080524/245929
